@@ -1,0 +1,2358 @@
+
+
+
+
+<html>
+
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "">
+<HTML>
+<HEAD>
+<TITLE>中国食品药品检定研究院</TITLE>
+<link href="styles/style_1.css" rel="stylesheet" type="text/css" />
+<META content="text/html; charset=GBK" http-equiv=Content-Type>
+<STYLE>BODY {
+	FONT-SIZE: 12px; BORDER-TOP: 0px; FONT-FAMILY: "宋体"; BORDER-RIGHT: 0px; BORDER-BOTTOM: 0px; PADDING-BOTTOM: 0px; PADDING-TOP: 0px; PADDING-LEFT: 0px; BORDER-LEFT: 0px; MARGIN: 0px; PADDING-RIGHT: 0px
+}
+A {
+	FONT-SIZE: 12px; BORDER-TOP: 0px; FONT-FAMILY: "宋体"; BORDER-RIGHT: 0px; BORDER-BOTTOM: 0px; PADDING-BOTTOM: 0px; PADDING-TOP: 0px; PADDING-LEFT: 0px; BORDER-LEFT: 0px; MARGIN: 0px; PADDING-RIGHT: 0px
+}
+P {
+	FONT-SIZE: 12px; BORDER-TOP: 0px; FONT-FAMILY: "宋体"; BORDER-RIGHT: 0px; BORDER-BOTTOM: 0px; PADDING-BOTTOM: 0px; PADDING-TOP: 0px; PADDING-LEFT: 0px; BORDER-LEFT: 0px; MARGIN: 0px; PADDING-RIGHT: 0px
+}
+UL {
+	FONT-SIZE: 12px; BORDER-TOP: 0px; FONT-FAMILY: "宋体"; BORDER-RIGHT: 0px; BORDER-BOTTOM: 0px; PADDING-BOTTOM: 0px; PADDING-TOP: 0px; PADDING-LEFT: 0px; BORDER-LEFT: 0px; MARGIN: 0px; PADDING-RIGHT: 0px
+}
+LI {
+	FONT-SIZE: 12px; BORDER-TOP: 0px; FONT-FAMILY: "宋体"; BORDER-RIGHT: 0px; BORDER-BOTTOM: 0px; PADDING-BOTTOM: 0px; PADDING-TOP: 0px; PADDING-LEFT: 0px; BORDER-LEFT: 0px; MARGIN: 0px; PADDING-RIGHT: 0px
+}
+UL {
+	LIST-STYLE-TYPE: none
+}
+LI {
+	LIST-STYLE-TYPE: none
+}
+.middle {
+	HEIGHT: auto; WIDTH: 100%; MARGIN: auto
+}
+.top {
+	 WIDTH: 100%; BACKGROUND: url(images/top_02.png) repeat-x
+}
+.topfont {
+	FONT-SIZE: 22px;
+	float:center;
+	text-align:center;
+	vertical-align:middle;
+	margin-top:20;
+}
+.content {
+	HEIGHT: 805px;WIDTH: 100%; BACKGROUND: url(images/content_09.png) repeat-x
+}
+.content UL {
+	WIDTH: 100%; FLOAT: left
+}
+.content UL LI {
+	FLOAT: left
+}
+
+</STYLE>
+</HEAD>
+
+<BODY>
+<CENTER align="center">
+<DIV class=middle>
+	<DIV class=top>
+		<DIV class=topfont>生物制品批签发产品公示情况汇总 </DIV>
+	</DIV>
+	<DIV class=content>
+			<TABLE border=0 cellSpacing=0 cellPadding=0  style="width: 100%">
+				     <tr valign="top">
+				    	<td align="center">
+				        	<table class="list_table" style="font-size:16px;" border=0 cellspacing="1" cellPadding=0 width="98%" align="center" bgcolor="#f6f7fb" onClick="sortColumn(event)">
+				            <thead>
+			             	<tr bgcolor="#C9DBF2" height=30>
+								<td   width="2%" align=center nowrap >序号</td>             	 	
+		 						<td   width="10%" align=center nowrap>产品名称</td>
+		 						<td   width="8%" align=center nowrap>规格</td>
+			             	 	<td   width="5%" align=center>批号</td>
+			             	 	<td   width="5%" align=center nowrap>签发量/拒签量</td>
+			             	 	<td   width="5%" align=center nowrap>有效期至</td>
+			             	 	<td   width="12%" align=center nowrap>生产企业</td>
+			             	 	<td   width="6%" align=center nowrap>收检编号</td>
+			             	 	<td   width="7%" align=center nowrap>证书编号</td>
+			             	 	<td   width="6%" align=center nowrap>报告编号</td>
+			             	 	<td   width="6%" align=center nowrap>签发日期</td>
+			             	 	<td   width="5%" align=center nowrap>签发结论</td>
+			             	 	<td   width="9%" align=center nowrap>批签发机构</td>
+			                 </tr>
+			       		   </thead>
+				                    		   
+				                           <tr  height=50 bgcolor='#f1f7e9' onMouseOut="this.bgColor = '#f1f7e9'" onMouseOver="this.bgColor = '#CCFF66'"  >
+							                	<td align=center>1</td>                	               	
+							                	<td>冻干人用狂犬病疫苗（Vero细胞）</td>                	               	
+							                	<td>重溶后每瓶0.5ml</td>                	               	
+							                	<td align=center>201711383</td> 
+							                	
+							                	<td align=center>73184瓶</td> 
+							                	<td align=center nowrap>2020年11月9日</td>
+							                	<td align=center >辽宁成大生物股份有限公司</td>
+							                	<td align=center nowrap>SP0402201801315</td>
+							                	<td align=center nowrap>批签中检20181462</td>
+							                	<td align=center nowrap>/</td>
+							                	<td align=center nowrap>2018年04月10日</td>
+							                	
+							                	<td align=center nowrap>予以签发</td>
+							                	
+							                	<td align=center >中国食品药品检定研究院</td>
+							              	</tr>
+				                    		   
+				                           <tr  height=50 bgcolor='#f1f7e9' onMouseOut="this.bgColor = '#f1f7f9'" onMouseOver="this.bgColor = '#CCFF66'"  >
+							                	<td align=center>2</td>                	               	
+							                	<td>冻干人用狂犬病疫苗（Vero细胞）</td>                	               	
+							                	<td>重溶后每瓶0.5ml</td>                	               	
+							                	<td align=center>201711382</td> 
+							                	
+							                	<td align=center>74200瓶</td> 
+							                	<td align=center nowrap>2020年11月9日</td>
+							                	<td align=center >辽宁成大生物股份有限公司</td>
+							                	<td align=center nowrap>SP0402201801314</td>
+							                	<td align=center nowrap>批签中检20181461</td>
+							                	<td align=center nowrap>/</td>
+							                	<td align=center nowrap>2018年04月10日</td>
+							                	
+							                	<td align=center nowrap>予以签发</td>
+							                	
+							                	<td align=center >中国食品药品检定研究院</td>
+							              	</tr>
+				                    		   
+				                           <tr  height=50 bgcolor='#f1f7e9' onMouseOut="this.bgColor = '#f1f7e9'" onMouseOver="this.bgColor = '#CCFF66'"  >
+							                	<td align=center>3</td>                	               	
+							                	<td>人用狂犬病疫苗（Vero细胞）</td>                	               	
+							                	<td>每瓶1.0ml</td>                	               	
+							                	<td align=center>201712053</td> 
+							                	
+							                	<td align=center>35450瓶</td> 
+							                	<td align=center nowrap>2019年6月7日</td>
+							                	<td align=center >吉林迈丰生物药业有限公司</td>
+							                	<td align=center nowrap>SP0402201801248</td>
+							                	<td align=center nowrap>批签中检20181463</td>
+							                	<td align=center nowrap>/</td>
+							                	<td align=center nowrap>2018年04月10日</td>
+							                	
+							                	<td align=center nowrap>予以签发</td>
+							                	
+							                	<td align=center >中国食品药品检定研究院</td>
+							              	</tr>
+				                    		   
+				                           <tr  height=50 bgcolor='#f1f7e9' onMouseOut="this.bgColor = '#f1f7f9'" onMouseOver="this.bgColor = '#CCFF66'"  >
+							                	<td align=center>4</td>                	               	
+							                	<td>人用狂犬病疫苗（Vero细胞）</td>                	               	
+							                	<td>每瓶1.0ml</td>                	               	
+							                	<td align=center>201712054</td> 
+							                	
+							                	<td align=center>35370瓶</td> 
+							                	<td align=center nowrap>2019年6月7日</td>
+							                	<td align=center >吉林迈丰生物药业有限公司</td>
+							                	<td align=center nowrap>SP0402201801249</td>
+							                	<td align=center nowrap>批签中检20181464</td>
+							                	<td align=center nowrap>/</td>
+							                	<td align=center nowrap>2018年04月10日</td>
+							                	
+							                	<td align=center nowrap>予以签发</td>
+							                	
+							                	<td align=center >中国食品药品检定研究院</td>
+							              	</tr>
+				                    		   
+				                           <tr  height=50 bgcolor='#f1f7e9' onMouseOut="this.bgColor = '#f1f7e9'" onMouseOver="this.bgColor = '#CCFF66'"  >
+							                	<td align=center>5</td>                	               	
+							                	<td>人用狂犬病疫苗（Vero细胞）</td>                	               	
+							                	<td>每瓶1.0ml</td>                	               	
+							                	<td align=center>201712055</td> 
+							                	
+							                	<td align=center>56385瓶</td> 
+							                	<td align=center nowrap>2019年6月7日</td>
+							                	<td align=center >吉林迈丰生物药业有限公司</td>
+							                	<td align=center nowrap>SP0402201801250</td>
+							                	<td align=center nowrap>批签中检20181465</td>
+							                	<td align=center nowrap>/</td>
+							                	<td align=center nowrap>2018年04月10日</td>
+							                	
+							                	<td align=center nowrap>予以签发</td>
+							                	
+							                	<td align=center >中国食品药品检定研究院</td>
+							              	</tr>
+				                    		   
+				                           <tr  height=50 bgcolor='#f1f7e9' onMouseOut="this.bgColor = '#f1f7f9'" onMouseOver="this.bgColor = '#CCFF66'"  >
+							                	<td align=center>6</td>                	               	
+							                	<td>重组乙型肝炎疫苗（汉逊酵母）</td>                	               	
+							                	<td>10μg/0.5ml</td>                	               	
+							                	<td align=center>201711164</td> 
+							                	
+							                	<td align=center>156150瓶</td> 
+							                	<td align=center nowrap>2020年11月24日</td>
+							                	<td align=center >大连汉信生物制药有限公司</td>
+							                	<td align=center nowrap>SP0403201801617</td>
+							                	<td align=center nowrap>批签中检20181369</td>
+							                	<td align=center nowrap>/</td>
+							                	<td align=center nowrap>2018年04月10日</td>
+							                	
+							                	<td align=center nowrap>予以签发</td>
+							                	
+							                	<td align=center >中国食品药品检定研究院</td>
+							              	</tr>
+				                    		   
+				                           <tr  height=50 bgcolor='#f1f7e9' onMouseOut="this.bgColor = '#f1f7e9'" onMouseOver="this.bgColor = '#CCFF66'"  >
+							                	<td align=center>7</td>                	               	
+							                	<td>重组乙型肝炎疫苗（汉逊酵母）</td>                	               	
+							                	<td>10μg/0.5ml</td>                	               	
+							                	<td align=center>201711165</td> 
+							                	
+							                	<td align=center>155280瓶</td> 
+							                	<td align=center nowrap>2020年11月24日</td>
+							                	<td align=center >大连汉信生物制药有限公司</td>
+							                	<td align=center nowrap>SP0403201801618</td>
+							                	<td align=center nowrap>批签中检20181370</td>
+							                	<td align=center nowrap>/</td>
+							                	<td align=center nowrap>2018年04月10日</td>
+							                	
+							                	<td align=center nowrap>予以签发</td>
+							                	
+							                	<td align=center >中国食品药品检定研究院</td>
+							              	</tr>
+				                    		   
+				                           <tr  height=50 bgcolor='#f1f7e9' onMouseOut="this.bgColor = '#f1f7f9'" onMouseOver="this.bgColor = '#CCFF66'"  >
+							                	<td align=center>8</td>                	               	
+							                	<td>重组乙型肝炎疫苗（汉逊酵母）</td>                	               	
+							                	<td>10μg/0.5ml</td>                	               	
+							                	<td align=center>201711166</td> 
+							                	
+							                	<td align=center>155700瓶</td> 
+							                	<td align=center nowrap>2020年11月24日</td>
+							                	<td align=center >大连汉信生物制药有限公司</td>
+							                	<td align=center nowrap>SP0403201801619</td>
+							                	<td align=center nowrap>批签中检20181371</td>
+							                	<td align=center nowrap>/</td>
+							                	<td align=center nowrap>2018年04月10日</td>
+							                	
+							                	<td align=center nowrap>予以签发</td>
+							                	
+							                	<td align=center >中国食品药品检定研究院</td>
+							              	</tr>
+				                    		   
+				                           <tr  height=50 bgcolor='#f1f7e9' onMouseOut="this.bgColor = '#f1f7e9'" onMouseOver="this.bgColor = '#CCFF66'"  >
+							                	<td align=center>9</td>                	               	
+							                	<td>人用狂犬病疫苗（Vero细胞）</td>                	               	
+							                	<td>0.5ml/支</td>                	               	
+							                	<td align=center>201710361</td> 
+							                	
+							                	<td align=center>94064支</td> 
+							                	<td align=center nowrap>2019年4月30日</td>
+							                	<td align=center >辽宁成大生物股份有限公司</td>
+							                	<td align=center nowrap>SP0402201801292</td>
+							                	<td align=center nowrap>批签中检20181433</td>
+							                	<td align=center nowrap>/</td>
+							                	<td align=center nowrap>2018年04月10日</td>
+							                	
+							                	<td align=center nowrap>予以签发</td>
+							                	
+							                	<td align=center >中国食品药品检定研究院</td>
+							              	</tr>
+				                    		   
+				                           <tr  height=50 bgcolor='#f1f7e9' onMouseOut="this.bgColor = '#f1f7f9'" onMouseOver="this.bgColor = '#CCFF66'"  >
+							                	<td align=center>10</td>                	               	
+							                	<td>人用狂犬病疫苗（Vero细胞）</td>                	               	
+							                	<td>0.5ml/支</td>                	               	
+							                	<td align=center>201710362</td> 
+							                	
+							                	<td align=center>94472支</td> 
+							                	<td align=center nowrap>2019年4月30日</td>
+							                	<td align=center >辽宁成大生物股份有限公司</td>
+							                	<td align=center nowrap>SP0402201801293</td>
+							                	<td align=center nowrap>批签中检20181434</td>
+							                	<td align=center nowrap>/</td>
+							                	<td align=center nowrap>2018年04月10日</td>
+							                	
+							                	<td align=center nowrap>予以签发</td>
+							                	
+							                	<td align=center >中国食品药品检定研究院</td>
+							              	</tr>
+				                    		   
+				                           <tr  height=50 bgcolor='#f1f7e9' onMouseOut="this.bgColor = '#f1f7e9'" onMouseOver="this.bgColor = '#CCFF66'"  >
+							                	<td align=center>11</td>                	               	
+							                	<td>人用狂犬病疫苗（Vero细胞）</td>                	               	
+							                	<td>0.5ml/支</td>                	               	
+							                	<td align=center>201710363</td> 
+							                	
+							                	<td align=center>93424支</td> 
+							                	<td align=center nowrap>2019年4月30日</td>
+							                	<td align=center >辽宁成大生物股份有限公司</td>
+							                	<td align=center nowrap>SP0402201801294</td>
+							                	<td align=center nowrap>批签中检20181435</td>
+							                	<td align=center nowrap>/</td>
+							                	<td align=center nowrap>2018年04月10日</td>
+							                	
+							                	<td align=center nowrap>予以签发</td>
+							                	
+							                	<td align=center >中国食品药品检定研究院</td>
+							              	</tr>
+				                    		   
+				                           <tr  height=50 bgcolor='#f1f7e9' onMouseOut="this.bgColor = '#f1f7f9'" onMouseOver="this.bgColor = '#CCFF66'"  >
+							                	<td align=center>12</td>                	               	
+							                	<td>人用狂犬病疫苗（Vero细胞）</td>                	               	
+							                	<td>0.5ml/支</td>                	               	
+							                	<td align=center>201710364</td> 
+							                	
+							                	<td align=center>93728支</td> 
+							                	<td align=center nowrap>2019年4月30日</td>
+							                	<td align=center >辽宁成大生物股份有限公司</td>
+							                	<td align=center nowrap>SP0402201801295</td>
+							                	<td align=center nowrap>批签中检20181436</td>
+							                	<td align=center nowrap>/</td>
+							                	<td align=center nowrap>2018年04月10日</td>
+							                	
+							                	<td align=center nowrap>予以签发</td>
+							                	
+							                	<td align=center >中国食品药品检定研究院</td>
+							              	</tr>
+				                    		   
+				                           <tr  height=50 bgcolor='#f1f7e9' onMouseOut="this.bgColor = '#f1f7e9'" onMouseOver="this.bgColor = '#CCFF66'"  >
+							                	<td align=center>13</td>                	               	
+							                	<td>人用狂犬病疫苗（Vero细胞）</td>                	               	
+							                	<td>0.5ml/支</td>                	               	
+							                	<td align=center>201711370</td> 
+							                	
+							                	<td align=center>115160支</td> 
+							                	<td align=center nowrap>2019年5月4日</td>
+							                	<td align=center >辽宁成大生物股份有限公司</td>
+							                	<td align=center nowrap>SP0402201801296</td>
+							                	<td align=center nowrap>批签中检20181437</td>
+							                	<td align=center nowrap>/</td>
+							                	<td align=center nowrap>2018年04月10日</td>
+							                	
+							                	<td align=center nowrap>予以签发</td>
+							                	
+							                	<td align=center >中国食品药品检定研究院</td>
+							              	</tr>
+				                    		   
+				                           <tr  height=50 bgcolor='#f1f7e9' onMouseOut="this.bgColor = '#f1f7f9'" onMouseOver="this.bgColor = '#CCFF66'"  >
+							                	<td align=center>14</td>                	               	
+							                	<td>人用狂犬病疫苗（Vero细胞）</td>                	               	
+							                	<td>0.5ml/支</td>                	               	
+							                	<td align=center>201711371</td> 
+							                	
+							                	<td align=center>115440支</td> 
+							                	<td align=center nowrap>2019年5月4日</td>
+							                	<td align=center >辽宁成大生物股份有限公司</td>
+							                	<td align=center nowrap>SP0402201801297</td>
+							                	<td align=center nowrap>批签中检20181438</td>
+							                	<td align=center nowrap>/</td>
+							                	<td align=center nowrap>2018年04月10日</td>
+							                	
+							                	<td align=center nowrap>予以签发</td>
+							                	
+							                	<td align=center >中国食品药品检定研究院</td>
+							              	</tr>
+				                    		   
+				                           <tr  height=50 bgcolor='#f1f7e9' onMouseOut="this.bgColor = '#f1f7e9'" onMouseOver="this.bgColor = '#CCFF66'"  >
+							                	<td align=center>15</td>                	               	
+							                	<td>人用狂犬病疫苗（Vero细胞）</td>                	               	
+							                	<td>0.5ml/支</td>                	               	
+							                	<td align=center>201711372</td> 
+							                	
+							                	<td align=center>115240支</td> 
+							                	<td align=center nowrap>2019年5月4日</td>
+							                	<td align=center >辽宁成大生物股份有限公司</td>
+							                	<td align=center nowrap>SP0402201801298</td>
+							                	<td align=center nowrap>批签中检20181439</td>
+							                	<td align=center nowrap>/</td>
+							                	<td align=center nowrap>2018年04月10日</td>
+							                	
+							                	<td align=center nowrap>予以签发</td>
+							                	
+							                	<td align=center >中国食品药品检定研究院</td>
+							              	</tr>
+				                    		   
+				                           <tr  height=50 bgcolor='#f1f7e9' onMouseOut="this.bgColor = '#f1f7f9'" onMouseOver="this.bgColor = '#CCFF66'"  >
+							                	<td align=center>16</td>                	               	
+							                	<td>静注人免疫球蛋白（pH4）</td>                	               	
+							                	<td>50ml:2.5g</td>                	               	
+							                	<td align=center>20180102</td> 
+							                	
+							                	<td align=center>5566瓶</td> 
+							                	<td align=center nowrap>2021年1月14日</td>
+							                	<td align=center >哈尔滨派斯菲科生物制药股份有限公司</td>
+							                	<td align=center nowrap>SP0412201802390</td>
+							                	<td align=center nowrap>批签中检20181410</td>
+							                	<td align=center nowrap>/</td>
+							                	<td align=center nowrap>2018年04月10日</td>
+							                	
+							                	<td align=center nowrap>予以签发</td>
+							                	
+							                	<td align=center >中国食品药品检定研究院</td>
+							              	</tr>
+				                    		   
+				                           <tr  height=50 bgcolor='#f1f7e9' onMouseOut="this.bgColor = '#f1f7e9'" onMouseOver="this.bgColor = '#CCFF66'"  >
+							                	<td align=center>17</td>                	               	
+							                	<td>重组乙型肝炎疫苗（汉逊酵母）</td>                	               	
+							                	<td>10μg/0.5ml</td>                	               	
+							                	<td align=center>201711167</td> 
+							                	
+							                	<td align=center>155880瓶</td> 
+							                	<td align=center nowrap>2020年11月24日</td>
+							                	<td align=center >大连汉信生物制药有限公司</td>
+							                	<td align=center nowrap>SP0403201801620</td>
+							                	<td align=center nowrap>批签中检20181372</td>
+							                	<td align=center nowrap>/</td>
+							                	<td align=center nowrap>2018年04月10日</td>
+							                	
+							                	<td align=center nowrap>予以签发</td>
+							                	
+							                	<td align=center >中国食品药品检定研究院</td>
+							              	</tr>
+				                    		   
+				                           <tr  height=50 bgcolor='#f1f7e9' onMouseOut="this.bgColor = '#f1f7f9'" onMouseOver="this.bgColor = '#CCFF66'"  >
+							                	<td align=center>18</td>                	               	
+							                	<td>皮内注射用卡介苗</td>                	               	
+							                	<td>5人份（0.25mg）/支</td>                	               	
+							                	<td align=center>201710a081</td> 
+							                	
+							                	<td align=center>86810支</td> 
+							                	<td align=center nowrap>2019年10月24日</td>
+							                	<td align=center >成都生物制品研究所有限责任公司</td>
+							                	<td align=center nowrap>SP0409201802282</td>
+							                	<td align=center nowrap>批签中检20181467</td>
+							                	<td align=center nowrap>/</td>
+							                	<td align=center nowrap>2018年04月10日</td>
+							                	
+							                	<td align=center nowrap>予以签发</td>
+							                	
+							                	<td align=center >中国食品药品检定研究院</td>
+							              	</tr>
+				                    		   
+				                           <tr  height=50 bgcolor='#f1f7e9' onMouseOut="this.bgColor = '#f1f7e9'" onMouseOver="this.bgColor = '#CCFF66'"  >
+							                	<td align=center>19</td>                	               	
+							                	<td>静注人免疫球蛋白（pH4）</td>                	               	
+							                	<td>50ml:2.5g</td>                	               	
+							                	<td align=center>20180203</td> 
+							                	
+							                	<td align=center>4327瓶</td> 
+							                	<td align=center nowrap>2021年2月4日</td>
+							                	<td align=center >哈尔滨派斯菲科生物制药股份有限公司</td>
+							                	<td align=center nowrap>SP0412201802391</td>
+							                	<td align=center nowrap>批签中检20181411</td>
+							                	<td align=center nowrap>/</td>
+							                	<td align=center nowrap>2018年04月10日</td>
+							                	
+							                	<td align=center nowrap>予以签发</td>
+							                	
+							                	<td align=center >中国食品药品检定研究院</td>
+							              	</tr>
+				                    		   
+				                           <tr  height=50 bgcolor='#f1f7e9' onMouseOut="this.bgColor = '#f1f7f9'" onMouseOver="this.bgColor = '#CCFF66'"  >
+							                	<td align=center>20</td>                	               	
+							                	<td>静注人免疫球蛋白（pH4）</td>                	               	
+							                	<td>50ml:2.5g</td>                	               	
+							                	<td align=center>20180204</td> 
+							                	
+							                	<td align=center>4079瓶</td> 
+							                	<td align=center nowrap>2021年2月6日</td>
+							                	<td align=center >哈尔滨派斯菲科生物制药股份有限公司</td>
+							                	<td align=center nowrap>SP0412201802393</td>
+							                	<td align=center nowrap>批签中检20181412</td>
+							                	<td align=center nowrap>/</td>
+							                	<td align=center nowrap>2018年04月10日</td>
+							                	
+							                	<td align=center nowrap>予以签发</td>
+							                	
+							                	<td align=center >中国食品药品检定研究院</td>
+							              	</tr>
+				                    		   
+				                           <tr  height=50 bgcolor='#f1f7e9' onMouseOut="this.bgColor = '#f1f7e9'" onMouseOver="this.bgColor = '#CCFF66'"  >
+							                	<td align=center>21</td>                	               	
+							                	<td>A群C群脑膜炎球菌多糖疫苗</td>                	               	
+							                	<td>0.5ml(复溶后)/100μg/1人用剂量/瓶</td>                	               	
+							                	<td align=center>201712159（1-2）</td> 
+							                	
+							                	<td align=center>149765瓶</td> 
+							                	<td align=center nowrap>2019年12月11日</td>
+							                	<td align=center >兰州生物制品研究所有限责任公司</td>
+							                	<td align=center nowrap>SP0408201801119</td>
+							                	<td align=center nowrap>批签中检20181478</td>
+							                	<td align=center nowrap>/</td>
+							                	<td align=center nowrap>2018年04月10日</td>
+							                	
+							                	<td align=center nowrap>予以签发</td>
+							                	
+							                	<td align=center >中国食品药品检定研究院</td>
+							              	</tr>
+				                    		   
+				                           <tr  height=50 bgcolor='#f1f7e9' onMouseOut="this.bgColor = '#f1f7f9'" onMouseOver="this.bgColor = '#CCFF66'"  >
+							                	<td align=center>22</td>                	               	
+							                	<td>A群C群脑膜炎球菌多糖疫苗</td>                	               	
+							                	<td>0.5ml(复溶后)/100μg/1人用剂量/瓶</td>                	               	
+							                	<td align=center>201712160（1-2）</td> 
+							                	
+							                	<td align=center>143545瓶</td> 
+							                	<td align=center nowrap>2019年12月13日</td>
+							                	<td align=center >兰州生物制品研究所有限责任公司</td>
+							                	<td align=center nowrap>SP0408201801120</td>
+							                	<td align=center nowrap>批签中检20181479</td>
+							                	<td align=center nowrap>/</td>
+							                	<td align=center nowrap>2018年04月10日</td>
+							                	
+							                	<td align=center nowrap>予以签发</td>
+							                	
+							                	<td align=center >中国食品药品检定研究院</td>
+							              	</tr>
+				                    		   
+				                           <tr  height=50 bgcolor='#f1f7e9' onMouseOut="this.bgColor = '#f1f7e9'" onMouseOver="this.bgColor = '#CCFF66'"  >
+							                	<td align=center>23</td>                	               	
+							                	<td>A群C群脑膜炎球菌多糖疫苗</td>                	               	
+							                	<td>0.5ml(复溶后)/100μg/1人用剂量/瓶</td>                	               	
+							                	<td align=center>201712161（1-2）</td> 
+							                	
+							                	<td align=center>148125瓶</td> 
+							                	<td align=center nowrap>2019年12月16日</td>
+							                	<td align=center >兰州生物制品研究所有限责任公司</td>
+							                	<td align=center nowrap>SP0408201801121</td>
+							                	<td align=center nowrap>批签中检20181480</td>
+							                	<td align=center nowrap>/</td>
+							                	<td align=center nowrap>2018年04月10日</td>
+							                	
+							                	<td align=center nowrap>予以签发</td>
+							                	
+							                	<td align=center >中国食品药品检定研究院</td>
+							              	</tr>
+				                    		   
+				                           <tr  height=50 bgcolor='#f1f7e9' onMouseOut="this.bgColor = '#f1f7f9'" onMouseOver="this.bgColor = '#CCFF66'"  >
+							                	<td align=center>24</td>                	               	
+							                	<td>A群C群脑膜炎球菌多糖疫苗</td>                	               	
+							                	<td>0.5ml(复溶后)/100μg/1人用剂量/瓶</td>                	               	
+							                	<td align=center>201712162（1-2）</td> 
+							                	
+							                	<td align=center>147505瓶</td> 
+							                	<td align=center nowrap>2019年12月18日</td>
+							                	<td align=center >兰州生物制品研究所有限责任公司</td>
+							                	<td align=center nowrap>SP0408201801122</td>
+							                	<td align=center nowrap>批签中检20181481</td>
+							                	<td align=center nowrap>/</td>
+							                	<td align=center nowrap>2018年04月10日</td>
+							                	
+							                	<td align=center nowrap>予以签发</td>
+							                	
+							                	<td align=center >中国食品药品检定研究院</td>
+							              	</tr>
+				                    		   
+				                           <tr  height=50 bgcolor='#f1f7e9' onMouseOut="this.bgColor = '#f1f7e9'" onMouseOver="this.bgColor = '#CCFF66'"  >
+							                	<td align=center>25</td>                	               	
+							                	<td>皮内注射用卡介苗</td>                	               	
+							                	<td>5人份（0.25mg）/支</td>                	               	
+							                	<td align=center>201710a080</td> 
+							                	
+							                	<td align=center>88210支</td> 
+							                	<td align=center nowrap>2019年10月22日</td>
+							                	<td align=center >成都生物制品研究所有限责任公司</td>
+							                	<td align=center nowrap>SP0409201802280</td>
+							                	<td align=center nowrap>批签中检20181466</td>
+							                	<td align=center nowrap>/</td>
+							                	<td align=center nowrap>2018年04月10日</td>
+							                	
+							                	<td align=center nowrap>予以签发</td>
+							                	
+							                	<td align=center >中国食品药品检定研究院</td>
+							              	</tr>
+				                    		   
+				                           <tr  height=50 bgcolor='#f1f7e9' onMouseOut="this.bgColor = '#f1f7f9'" onMouseOver="this.bgColor = '#CCFF66'"  >
+							                	<td align=center>26</td>                	               	
+							                	<td>冻干人用狂犬病疫苗（Vero细胞）</td>                	               	
+							                	<td>重溶后每瓶0.5ml</td>                	               	
+							                	<td align=center>201710365</td> 
+							                	
+							                	<td align=center>74636瓶</td> 
+							                	<td align=center nowrap>2020年10月30日</td>
+							                	<td align=center >辽宁成大生物股份有限公司</td>
+							                	<td align=center nowrap>SP0402201801301</td>
+							                	<td align=center nowrap>批签中检20181447</td>
+							                	<td align=center nowrap>/</td>
+							                	<td align=center nowrap>2018年04月10日</td>
+							                	
+							                	<td align=center nowrap>予以签发</td>
+							                	
+							                	<td align=center >中国食品药品检定研究院</td>
+							              	</tr>
+				                    		   
+				                           <tr  height=50 bgcolor='#f1f7e9' onMouseOut="this.bgColor = '#f1f7e9'" onMouseOver="this.bgColor = '#CCFF66'"  >
+							                	<td align=center>27</td>                	               	
+							                	<td>冻干人用狂犬病疫苗（Vero细胞）</td>                	               	
+							                	<td>重溶后每瓶0.5ml</td>                	               	
+							                	<td align=center>201710366</td> 
+							                	
+							                	<td align=center>74736瓶</td> 
+							                	<td align=center nowrap>2020年10月30日</td>
+							                	<td align=center >辽宁成大生物股份有限公司</td>
+							                	<td align=center nowrap>SP0402201801302</td>
+							                	<td align=center nowrap>批签中检20181449</td>
+							                	<td align=center nowrap>/</td>
+							                	<td align=center nowrap>2018年04月10日</td>
+							                	
+							                	<td align=center nowrap>予以签发</td>
+							                	
+							                	<td align=center >中国食品药品检定研究院</td>
+							              	</tr>
+				                    		   
+				                           <tr  height=50 bgcolor='#f1f7e9' onMouseOut="this.bgColor = '#f1f7f9'" onMouseOver="this.bgColor = '#CCFF66'"  >
+							                	<td align=center>28</td>                	               	
+							                	<td>冻干人用狂犬病疫苗（Vero细胞）</td>                	               	
+							                	<td>重溶后每瓶0.5ml</td>                	               	
+							                	<td align=center>201710367</td> 
+							                	
+							                	<td align=center>75220瓶</td> 
+							                	<td align=center nowrap>2020年10月30日</td>
+							                	<td align=center >辽宁成大生物股份有限公司</td>
+							                	<td align=center nowrap>SP0402201801303</td>
+							                	<td align=center nowrap>批签中检20181450</td>
+							                	<td align=center nowrap>/</td>
+							                	<td align=center nowrap>2018年04月10日</td>
+							                	
+							                	<td align=center nowrap>予以签发</td>
+							                	
+							                	<td align=center >中国食品药品检定研究院</td>
+							              	</tr>
+				                    		   
+				                           <tr  height=50 bgcolor='#f1f7e9' onMouseOut="this.bgColor = '#f1f7e9'" onMouseOver="this.bgColor = '#CCFF66'"  >
+							                	<td align=center>29</td>                	               	
+							                	<td>冻干人用狂犬病疫苗（Vero细胞）</td>                	               	
+							                	<td>重溶后每瓶0.5ml</td>                	               	
+							                	<td align=center>201710368</td> 
+							                	
+							                	<td align=center>74816瓶</td> 
+							                	<td align=center nowrap>2020年10月30日</td>
+							                	<td align=center >辽宁成大生物股份有限公司</td>
+							                	<td align=center nowrap>SP0402201801304</td>
+							                	<td align=center nowrap>批签中检20181451</td>
+							                	<td align=center nowrap>/</td>
+							                	<td align=center nowrap>2018年04月10日</td>
+							                	
+							                	<td align=center nowrap>予以签发</td>
+							                	
+							                	<td align=center >中国食品药品检定研究院</td>
+							              	</tr>
+				                    		   
+				                           <tr  height=50 bgcolor='#f1f7e9' onMouseOut="this.bgColor = '#f1f7f9'" onMouseOver="this.bgColor = '#CCFF66'"  >
+							                	<td align=center>30</td>                	               	
+							                	<td>冻干人用狂犬病疫苗（Vero细胞）</td>                	               	
+							                	<td>重溶后每瓶0.5ml</td>                	               	
+							                	<td align=center>201710369</td> 
+							                	
+							                	<td align=center>73868瓶</td> 
+							                	<td align=center nowrap>2020年10月30日</td>
+							                	<td align=center >辽宁成大生物股份有限公司</td>
+							                	<td align=center nowrap>SP0402201801305</td>
+							                	<td align=center nowrap>批签中检20181452</td>
+							                	<td align=center nowrap>/</td>
+							                	<td align=center nowrap>2018年04月10日</td>
+							                	
+							                	<td align=center nowrap>予以签发</td>
+							                	
+							                	<td align=center >中国食品药品检定研究院</td>
+							              	</tr>
+				                    		   
+				                           <tr  height=50 bgcolor='#f1f7e9' onMouseOut="this.bgColor = '#f1f7e9'" onMouseOver="this.bgColor = '#CCFF66'"  >
+							                	<td align=center>31</td>                	               	
+							                	<td>水痘减毒活疫苗</td>                	               	
+							                	<td>复溶后每瓶0.5ml。每1次人用剂量为0.5ml,含水痘-带状疱疹活病毒应不低于3.3 lg PFU。</td>                	               	
+							                	<td align=center>201712073(-1、-2）</td> 
+							                	
+							                	<td align=center>73251瓶</td> 
+							                	<td align=center nowrap>2020年12月7日</td>
+							                	<td align=center >长春百克生物科技股份公司</td>
+							                	<td align=center nowrap>SP0404201801163</td>
+							                	<td align=center nowrap>批签中检20181445</td>
+							                	<td align=center nowrap>/</td>
+							                	<td align=center nowrap>2018年04月10日</td>
+							                	
+							                	<td align=center nowrap>予以签发</td>
+							                	
+							                	<td align=center >中国食品药品检定研究院</td>
+							              	</tr>
+				                    		   
+				                           <tr  height=50 bgcolor='#f1f7e9' onMouseOut="this.bgColor = '#f1f7f9'" onMouseOver="this.bgColor = '#CCFF66'"  >
+							                	<td align=center>32</td>                	               	
+							                	<td>水痘减毒活疫苗</td>                	               	
+							                	<td>复溶后每瓶0.5ml。每1次人用剂量为0.5ml,含水痘-带状疱疹活病毒应不低于3.3 lg PFU。</td>                	               	
+							                	<td align=center>201711069(-1、-2）</td> 
+							                	
+							                	<td align=center>73611瓶</td> 
+							                	<td align=center nowrap>2020年11月21日</td>
+							                	<td align=center >长春百克生物科技股份公司</td>
+							                	<td align=center nowrap>SP0404201801161</td>
+							                	<td align=center nowrap>批签中检20181441</td>
+							                	<td align=center nowrap>/</td>
+							                	<td align=center nowrap>2018年04月10日</td>
+							                	
+							                	<td align=center nowrap>予以签发</td>
+							                	
+							                	<td align=center >中国食品药品检定研究院</td>
+							              	</tr>
+				                    		   
+				                           <tr  height=50 bgcolor='#f1f7e9' onMouseOut="this.bgColor = '#f1f7e9'" onMouseOver="this.bgColor = '#CCFF66'"  >
+							                	<td align=center>33</td>                	               	
+							                	<td>水痘减毒活疫苗</td>                	               	
+							                	<td>复溶后每瓶0.5ml。每1次人用剂量为0.5ml,含水痘-带状疱疹活病毒应不低于3.3 lg PFU。</td>                	               	
+							                	<td align=center>201712071(-1、-2）</td> 
+							                	
+							                	<td align=center>73003瓶</td> 
+							                	<td align=center nowrap>2020年12月3日</td>
+							                	<td align=center >长春百克生物科技股份公司</td>
+							                	<td align=center nowrap>SP0404201801165</td>
+							                	<td align=center nowrap>批签中检20181443</td>
+							                	<td align=center nowrap>/</td>
+							                	<td align=center nowrap>2018年04月10日</td>
+							                	
+							                	<td align=center nowrap>予以签发</td>
+							                	
+							                	<td align=center >中国食品药品检定研究院</td>
+							              	</tr>
+				                    		   
+				                           <tr  height=50 bgcolor='#f1f7e9' onMouseOut="this.bgColor = '#f1f7f9'" onMouseOver="this.bgColor = '#CCFF66'"  >
+							                	<td align=center>34</td>                	               	
+							                	<td>水痘减毒活疫苗</td>                	               	
+							                	<td>0.5ml/支</td>                	               	
+							                	<td align=center>201712088</td> 
+							                	
+							                	<td align=center>50465支</td> 
+							                	<td align=center nowrap>2019年12月18日</td>
+							                	<td align=center >长春长生生物科技有限责任公司</td>
+							                	<td align=center nowrap>SP0404201801167</td>
+							                	<td align=center nowrap>批签中检20181469</td>
+							                	<td align=center nowrap>/</td>
+							                	<td align=center nowrap>2018年04月11日</td>
+							                	
+							                	<td align=center nowrap>予以签发</td>
+							                	
+							                	<td align=center >中国食品药品检定研究院</td>
+							              	</tr>
+				                    		   
+				                           <tr  height=50 bgcolor='#f1f7e9' onMouseOut="this.bgColor = '#f1f7e9'" onMouseOver="this.bgColor = '#CCFF66'"  >
+							                	<td align=center>35</td>                	               	
+							                	<td>水痘减毒活疫苗</td>                	               	
+							                	<td>0.5ml/支</td>                	               	
+							                	<td align=center>201712087</td> 
+							                	
+							                	<td align=center>50270支</td> 
+							                	<td align=center nowrap>2019年12月18日</td>
+							                	<td align=center >长春长生生物科技有限责任公司</td>
+							                	<td align=center nowrap>SP0404201801166</td>
+							                	<td align=center nowrap>批签中检20181468</td>
+							                	<td align=center nowrap>/</td>
+							                	<td align=center nowrap>2018年04月11日</td>
+							                	
+							                	<td align=center nowrap>予以签发</td>
+							                	
+							                	<td align=center >中国食品药品检定研究院</td>
+							              	</tr>
+				                    		   
+				                           <tr  height=50 bgcolor='#f1f7e9' onMouseOut="this.bgColor = '#f1f7f9'" onMouseOver="this.bgColor = '#CCFF66'"  >
+							                	<td align=center>36</td>                	               	
+							                	<td>口服Ⅰ型Ⅲ型脊髓灰质炎减毒活疫苗（人二倍体细胞）</td>                	               	
+							                	<td>每瓶1.0ml(10人份)。每1次人用剂量为2滴(相当于0.1ml),含脊髓灰质炎活病毒总量应不低于6.12 lgCCID50,其中Ⅰ型应不低于6.0 lgCCID50,Ⅲ型应不低于5.5 lgCCID50。</td>                	               	
+							                	<td align=center>201712198</td> 
+							                	
+							                	<td align=center>80820瓶</td> 
+							                	<td align=center nowrap>2019年12月13日</td>
+							                	<td align=center >北京北生研生物制品有限公司</td>
+							                	<td align=center nowrap>SP0406201801141</td>
+							                	<td align=center nowrap>批签中检20181096</td>
+							                	<td align=center nowrap>/</td>
+							                	<td align=center nowrap>2018年04月11日</td>
+							                	
+							                	<td align=center nowrap>予以签发</td>
+							                	
+							                	<td align=center >中国食品药品检定研究院</td>
+							              	</tr>
+				                    		   
+				                           <tr  height=50 bgcolor='#f1f7e9' onMouseOut="this.bgColor = '#f1f7e9'" onMouseOver="this.bgColor = '#CCFF66'"  >
+							                	<td align=center>37</td>                	               	
+							                	<td>口服Ⅰ型Ⅲ型脊髓灰质炎减毒活疫苗（人二倍体细胞）</td>                	               	
+							                	<td>每瓶1.0ml(10人份)。每1次人用剂量为2滴(相当于0.1ml),含脊髓灰质炎活病毒总量应不低于6.12 lgCCID50,其中Ⅰ型应不低于6.0 lgCCID50,Ⅲ型应不低于5.5 lgCCID50。</td>                	               	
+							                	<td align=center>201712199</td> 
+							                	
+							                	<td align=center>80760瓶</td> 
+							                	<td align=center nowrap>2019年12月14日</td>
+							                	<td align=center >北京北生研生物制品有限公司</td>
+							                	<td align=center nowrap>SP0406201801142</td>
+							                	<td align=center nowrap>批签中检20181097</td>
+							                	<td align=center nowrap>/</td>
+							                	<td align=center nowrap>2018年04月11日</td>
+							                	
+							                	<td align=center nowrap>予以签发</td>
+							                	
+							                	<td align=center >中国食品药品检定研究院</td>
+							              	</tr>
+				                    		   
+				                           <tr  height=50 bgcolor='#f1f7e9' onMouseOut="this.bgColor = '#f1f7f9'" onMouseOver="this.bgColor = '#CCFF66'"  >
+							                	<td align=center>38</td>                	               	
+							                	<td>无细胞百白破b型流感嗜血杆菌联合疫苗</td>                	               	
+							                	<td>吸附无细胞百白破联合疫苗:1瓶（0.5ml）,b型流感嗜血杆菌结合疫苗1瓶（10μg/0.5ml）,混合后肌内注射。</td>                	               	
+							                	<td align=center>A20180101</td> 
+							                	
+							                	<td align=center>69399瓶</td> 
+							                	<td align=center nowrap>2020年1月13日</td>
+							                	<td align=center >北京民海生物科技有限公司</td>
+							                	<td align=center nowrap>SP0411201802628</td>
+							                	<td align=center nowrap>批签中检20181505</td>
+							                	<td align=center nowrap>/</td>
+							                	<td align=center nowrap>2018年04月11日</td>
+							                	
+							                	<td align=center nowrap>予以签发</td>
+							                	
+							                	<td align=center >中国食品药品检定研究院</td>
+							              	</tr>
+				                    		   
+				                           <tr  height=50 bgcolor='#f1f7e9' onMouseOut="this.bgColor = '#f1f7e9'" onMouseOver="this.bgColor = '#CCFF66'"  >
+							                	<td align=center>39</td>                	               	
+							                	<td>人用狂犬病疫苗（Vero细胞）</td>                	               	
+							                	<td>0.5ml/支</td>                	               	
+							                	<td align=center>201711373</td> 
+							                	
+							                	<td align=center>113676支</td> 
+							                	<td align=center nowrap>2019年5月4日</td>
+							                	<td align=center >辽宁成大生物股份有限公司</td>
+							                	<td align=center nowrap>SP0402201801299</td>
+							                	<td align=center nowrap>批签中检20181440</td>
+							                	<td align=center nowrap>/</td>
+							                	<td align=center nowrap>2018年04月10日</td>
+							                	
+							                	<td align=center nowrap>予以签发</td>
+							                	
+							                	<td align=center >中国食品药品检定研究院</td>
+							              	</tr>
+				                    		   
+				                           <tr  height=50 bgcolor='#f1f7e9' onMouseOut="this.bgColor = '#f1f7f9'" onMouseOver="this.bgColor = '#CCFF66'"  >
+							                	<td align=center>40</td>                	               	
+							                	<td>水痘减毒活疫苗</td>                	               	
+							                	<td>复溶后每瓶0.5ml。每1次人用剂量为0.5ml,含水痘-带状疱疹活病毒应不低于3.3 lg PFU。</td>                	               	
+							                	<td align=center>201712072(-1、-2）</td> 
+							                	
+							                	<td align=center>74181瓶</td> 
+							                	<td align=center nowrap>2020年12月5日</td>
+							                	<td align=center >长春百克生物科技股份公司</td>
+							                	<td align=center nowrap>SP0404201801162</td>
+							                	<td align=center nowrap>批签中检20181444</td>
+							                	<td align=center nowrap>/</td>
+							                	<td align=center nowrap>2018年04月10日</td>
+							                	
+							                	<td align=center nowrap>予以签发</td>
+							                	
+							                	<td align=center >中国食品药品检定研究院</td>
+							              	</tr>
+				                    		   
+				                           <tr  height=50 bgcolor='#f1f7e9' onMouseOut="this.bgColor = '#f1f7e9'" onMouseOver="this.bgColor = '#CCFF66'"  >
+							                	<td align=center>41</td>                	               	
+							                	<td>丙型肝炎病毒抗体诊断试剂盒（酶联免疫法）</td>                	               	
+							                	<td>96人份/盒</td>                	               	
+							                	<td align=center>2018025804</td> 
+							                	
+							                	<td align=center>9960盒</td> 
+							                	<td align=center nowrap>2019年2月9日</td>
+							                	<td align=center >英科新创（厦门）科技有限公司</td>
+							                	<td align=center nowrap>SP2803201803224</td>
+							                	<td align=center nowrap>批签中检20181310</td>
+							                	<td align=center nowrap>/</td>
+							                	<td align=center nowrap>2018年04月11日</td>
+							                	
+							                	<td align=center nowrap>予以签发</td>
+							                	
+							                	<td align=center >中国食品药品检定研究院</td>
+							              	</tr>
+				                    		   
+				                           <tr  height=50 bgcolor='#f1f7e9' onMouseOut="this.bgColor = '#f1f7f9'" onMouseOver="this.bgColor = '#CCFF66'"  >
+							                	<td align=center>42</td>                	               	
+							                	<td>人类免疫缺陷病毒抗原抗体诊断试剂盒（酶联免疫法）</td>                	               	
+							                	<td>96人份/盒</td>                	               	
+							                	<td align=center>201802001</td> 
+							                	
+							                	<td align=center>1910盒</td> 
+							                	<td align=center nowrap>2019年2月9日</td>
+							                	<td align=center >北京科卫临床诊断试剂有限公司</td>
+							                	<td align=center nowrap>SP2804201803568</td>
+							                	<td align=center nowrap>批签中检20181404</td>
+							                	<td align=center nowrap>/</td>
+							                	<td align=center nowrap>2018年04月11日</td>
+							                	
+							                	<td align=center nowrap>予以签发</td>
+							                	
+							                	<td align=center >中国食品药品检定研究院</td>
+							              	</tr>
+				                    		   
+				                           <tr  height=50 bgcolor='#f1f7e9' onMouseOut="this.bgColor = '#f1f7e9'" onMouseOver="this.bgColor = '#CCFF66'"  >
+							                	<td align=center>43</td>                	               	
+							                	<td>人类免疫缺陷病毒抗体诊断试剂盒（酶联免疫法）</td>                	               	
+							                	<td>96人份/盒</td>                	               	
+							                	<td align=center>2018036604</td> 
+							                	
+							                	<td align=center>9960盒</td> 
+							                	<td align=center nowrap>2019年3月1日</td>
+							                	<td align=center >英科新创（厦门）科技有限公司</td>
+							                	<td align=center nowrap>SP2804201803545</td>
+							                	<td align=center nowrap>批签中检20181403</td>
+							                	<td align=center nowrap>/</td>
+							                	<td align=center nowrap>2018年04月11日</td>
+							                	
+							                	<td align=center nowrap>予以签发</td>
+							                	
+							                	<td align=center >中国食品药品检定研究院</td>
+							              	</tr>
+				                    		   
+				                           <tr  height=50 bgcolor='#f1f7e9' onMouseOut="this.bgColor = '#f1f7f9'" onMouseOver="this.bgColor = '#CCFF66'"  >
+							                	<td align=center>44</td>                	               	
+							                	<td>水痘减毒活疫苗</td>                	               	
+							                	<td>复溶后每瓶0.5ml。每1次人用剂量为0.5ml,含水痘-带状疱疹活病毒应不低于3.3 lg PFU。</td>                	               	
+							                	<td align=center>201712070(-1、-2）</td> 
+							                	
+							                	<td align=center>73275瓶</td> 
+							                	<td align=center nowrap>2020年11月30日</td>
+							                	<td align=center >长春百克生物科技股份公司</td>
+							                	<td align=center nowrap>SP0404201801164</td>
+							                	<td align=center nowrap>批签中检20181442</td>
+							                	<td align=center nowrap>/</td>
+							                	<td align=center nowrap>2018年04月11日</td>
+							                	
+							                	<td align=center nowrap>予以签发</td>
+							                	
+							                	<td align=center >中国食品药品检定研究院</td>
+							              	</tr>
+				                    		   
+				                           <tr  height=50 bgcolor='#f1f7e9' onMouseOut="this.bgColor = '#f1f7e9'" onMouseOver="this.bgColor = '#CCFF66'"  >
+							                	<td align=center>45</td>                	               	
+							                	<td>吸附破伤风疫苗</td>                	               	
+							                	<td>每瓶0.5ml.每1次人用剂量0.5ml,含破伤风类毒素效价不低于40IU</td>                	               	
+							                	<td align=center>20171130</td> 
+							                	
+							                	<td align=center>47061瓶</td> 
+							                	<td align=center nowrap>2019年11月20日</td>
+							                	<td align=center >成都欧林生物科技股份有限公司</td>
+							                	<td align=center nowrap>SP0411201801068</td>
+							                	<td align=center nowrap>批签中检20181519</td>
+							                	<td align=center nowrap>/</td>
+							                	<td align=center nowrap>2018年04月12日</td>
+							                	
+							                	<td align=center nowrap>予以签发</td>
+							                	
+							                	<td align=center >中国食品药品检定研究院</td>
+							              	</tr>
+				                    		   
+				                           <tr  height=50 bgcolor='#f1f7e9' onMouseOut="this.bgColor = '#f1f7f9'" onMouseOver="this.bgColor = '#CCFF66'"  >
+							                	<td align=center>46</td>                	               	
+							                	<td>吸附破伤风疫苗</td>                	               	
+							                	<td>每瓶0.5ml.每1次人用剂量0.5ml,含破伤风类毒素效价不低于40IU</td>                	               	
+							                	<td align=center>20171131</td> 
+							                	
+							                	<td align=center>47483瓶</td> 
+							                	<td align=center nowrap>2019年11月22日</td>
+							                	<td align=center >成都欧林生物科技股份有限公司</td>
+							                	<td align=center nowrap>SP0411201801069</td>
+							                	<td align=center nowrap>批签中检20181525</td>
+							                	<td align=center nowrap>/</td>
+							                	<td align=center nowrap>2018年04月12日</td>
+							                	
+							                	<td align=center nowrap>予以签发</td>
+							                	
+							                	<td align=center >中国食品药品检定研究院</td>
+							              	</tr>
+				                    		   
+				                           <tr  height=50 bgcolor='#f1f7e9' onMouseOut="this.bgColor = '#f1f7e9'" onMouseOver="this.bgColor = '#CCFF66'"  >
+							                	<td align=center>47</td>                	               	
+							                	<td>吸附破伤风疫苗</td>                	               	
+							                	<td>每瓶0.5ml.每1次人用剂量0.5ml,含破伤风类毒素效价不低于40IU</td>                	               	
+							                	<td align=center>20171132</td> 
+							                	
+							                	<td align=center>47560瓶</td> 
+							                	<td align=center nowrap>2019年11月24日</td>
+							                	<td align=center >成都欧林生物科技股份有限公司</td>
+							                	<td align=center nowrap>SP0411201801070</td>
+							                	<td align=center nowrap>批签中检20181527</td>
+							                	<td align=center nowrap>/</td>
+							                	<td align=center nowrap>2018年04月12日</td>
+							                	
+							                	<td align=center nowrap>予以签发</td>
+							                	
+							                	<td align=center >中国食品药品检定研究院</td>
+							              	</tr>
+				                    		   
+				                           <tr  height=50 bgcolor='#f1f7e9' onMouseOut="this.bgColor = '#f1f7f9'" onMouseOver="this.bgColor = '#CCFF66'"  >
+							                	<td align=center>48</td>                	               	
+							                	<td>吸附破伤风疫苗</td>                	               	
+							                	<td>每瓶0.5ml.每1次人用剂量0.5ml,含破伤风类毒素效价不低于40IU</td>                	               	
+							                	<td align=center>20171233</td> 
+							                	
+							                	<td align=center>46870瓶</td> 
+							                	<td align=center nowrap>2019年12月4日</td>
+							                	<td align=center >成都欧林生物科技股份有限公司</td>
+							                	<td align=center nowrap>SP0411201801071</td>
+							                	<td align=center nowrap>批签中检20181529</td>
+							                	<td align=center nowrap>/</td>
+							                	<td align=center nowrap>2018年04月12日</td>
+							                	
+							                	<td align=center nowrap>予以签发</td>
+							                	
+							                	<td align=center >中国食品药品检定研究院</td>
+							              	</tr>
+				                    		   
+				                           <tr  height=50 bgcolor='#f1f7e9' onMouseOut="this.bgColor = '#f1f7e9'" onMouseOver="this.bgColor = '#CCFF66'"  >
+							                	<td align=center>49</td>                	               	
+							                	<td>吸附无细胞百白破联合疫苗</td>                	               	
+							                	<td>每安瓿0.5ml</td>                	               	
+							                	<td align=center>201711065(1-2)</td> 
+							                	
+							                	<td align=center>786025支</td> 
+							                	<td align=center nowrap>2019年10月31日</td>
+							                	<td align=center >武汉生物制品研究所有限责任公司</td>
+							                	<td align=center nowrap>SP0411201801090</td>
+							                	<td align=center nowrap>批签中检20181549</td>
+							                	<td align=center nowrap>/</td>
+							                	<td align=center nowrap>2018年04月12日</td>
+							                	
+							                	<td align=center nowrap>予以签发</td>
+							                	
+							                	<td align=center >中国食品药品检定研究院</td>
+							              	</tr>
+				                    		   
+				                           <tr  height=50 bgcolor='#f1f7e9' onMouseOut="this.bgColor = '#f1f7f9'" onMouseOver="this.bgColor = '#CCFF66'"  >
+							                	<td align=center>50</td>                	               	
+							                	<td>吸附无细胞百白破联合疫苗</td>                	               	
+							                	<td>0.5ml/瓶</td>                	               	
+							                	<td align=center>F201710014</td> 
+							                	
+							                	<td align=center>140688瓶</td> 
+							                	<td align=center nowrap>2019年10月8日</td>
+							                	<td align=center >玉溪沃森生物技术有限公司</td>
+							                	<td align=center nowrap>SP0411201801061</td>
+							                	<td align=center nowrap>批签中检20181532</td>
+							                	<td align=center nowrap>/</td>
+							                	<td align=center nowrap>2018年04月12日</td>
+							                	
+							                	<td align=center nowrap>予以签发</td>
+							                	
+							                	<td align=center >中国食品药品检定研究院</td>
+							              	</tr>
+				                    		   
+				                           <tr  height=50 bgcolor='#f1f7e9' onMouseOut="this.bgColor = '#f1f7e9'" onMouseOver="this.bgColor = '#CCFF66'"  >
+							                	<td align=center>51</td>                	               	
+							                	<td>吸附无细胞百白破联合疫苗</td>                	               	
+							                	<td>0.5ml/瓶</td>                	               	
+							                	<td align=center>F201710015</td> 
+							                	
+							                	<td align=center>138852瓶</td> 
+							                	<td align=center nowrap>2019年10月10日</td>
+							                	<td align=center >玉溪沃森生物技术有限公司</td>
+							                	<td align=center nowrap>SP0411201801062</td>
+							                	<td align=center nowrap>批签中检20181533</td>
+							                	<td align=center nowrap>/</td>
+							                	<td align=center nowrap>2018年04月12日</td>
+							                	
+							                	<td align=center nowrap>予以签发</td>
+							                	
+							                	<td align=center >中国食品药品检定研究院</td>
+							              	</tr>
+				                    		   
+				                           <tr  height=50 bgcolor='#f1f7e9' onMouseOut="this.bgColor = '#f1f7f9'" onMouseOver="this.bgColor = '#CCFF66'"  >
+							                	<td align=center>52</td>                	               	
+							                	<td>吸附无细胞百白破联合疫苗</td>                	               	
+							                	<td>每安瓿0.5ml</td>                	               	
+							                	<td align=center>201711066(1-2)</td> 
+							                	
+							                	<td align=center>406035支</td> 
+							                	<td align=center nowrap>2019年11月12日</td>
+							                	<td align=center >武汉生物制品研究所有限责任公司</td>
+							                	<td align=center nowrap>SP0411201801191</td>
+							                	<td align=center nowrap>批签中检20181551</td>
+							                	<td align=center nowrap>/</td>
+							                	<td align=center nowrap>2018年04月12日</td>
+							                	
+							                	<td align=center nowrap>予以签发</td>
+							                	
+							                	<td align=center >中国食品药品检定研究院</td>
+							              	</tr>
+				                    		   
+				                           <tr  height=50 bgcolor='#f1f7e9' onMouseOut="this.bgColor = '#f1f7e9'" onMouseOver="this.bgColor = '#CCFF66'"  >
+							                	<td align=center>53</td>                	               	
+							                	<td>吸附无细胞百白破联合疫苗</td>                	               	
+							                	<td>每安瓿0.5ml</td>                	               	
+							                	<td align=center>201711067(1-2)</td> 
+							                	
+							                	<td align=center>361240支</td> 
+							                	<td align=center nowrap>2019年11月12日</td>
+							                	<td align=center >武汉生物制品研究所有限责任公司</td>
+							                	<td align=center nowrap>SP0411201801192</td>
+							                	<td align=center nowrap>批签中检20181552</td>
+							                	<td align=center nowrap>/</td>
+							                	<td align=center nowrap>2018年04月12日</td>
+							                	
+							                	<td align=center nowrap>予以签发</td>
+							                	
+							                	<td align=center >中国食品药品检定研究院</td>
+							              	</tr>
+				                    		   
+				                           <tr  height=50 bgcolor='#f1f7e9' onMouseOut="this.bgColor = '#f1f7f9'" onMouseOver="this.bgColor = '#CCFF66'"  >
+							                	<td align=center>54</td>                	               	
+							                	<td>吸附无细胞百白破联合疫苗</td>                	               	
+							                	<td>每安瓿0.5ml</td>                	               	
+							                	<td align=center>201711068(1-2)</td> 
+							                	
+							                	<td align=center>382210支</td> 
+							                	<td align=center nowrap>2019年11月15日</td>
+							                	<td align=center >武汉生物制品研究所有限责任公司</td>
+							                	<td align=center nowrap>SP0411201801193</td>
+							                	<td align=center nowrap>批签中检20181553</td>
+							                	<td align=center nowrap>/</td>
+							                	<td align=center nowrap>2018年04月12日</td>
+							                	
+							                	<td align=center nowrap>予以签发</td>
+							                	
+							                	<td align=center >中国食品药品检定研究院</td>
+							              	</tr>
+				                    		   
+				                           <tr  height=50 bgcolor='#f1f7e9' onMouseOut="this.bgColor = '#f1f7e9'" onMouseOver="this.bgColor = '#CCFF66'"  >
+							                	<td align=center>55</td>                	               	
+							                	<td>口服轮状病毒活疫苗</td>                	               	
+							                	<td>3.0ml/瓶。每一次人用剂量为3.0ml,每1.0ml疫苗所含轮状活病毒应不低于5.51gCCID50 。</td>                	               	
+							                	<td align=center>201712093</td> 
+							                	
+							                	<td align=center>54771瓶</td> 
+							                	<td align=center nowrap>2018年12月20日</td>
+							                	<td align=center >兰州生物制品研究所有限责任公司</td>
+							                	<td align=center nowrap>SP0406201802044</td>
+							                	<td align=center nowrap>批签中检20181393</td>
+							                	<td align=center nowrap>/</td>
+							                	<td align=center nowrap>2018年04月12日</td>
+							                	
+							                	<td align=center nowrap>予以签发</td>
+							                	
+							                	<td align=center >中国食品药品检定研究院</td>
+							              	</tr>
+				                    		   
+				                           <tr  height=50 bgcolor='#f1f7e9' onMouseOut="this.bgColor = '#f1f7f9'" onMouseOver="this.bgColor = '#CCFF66'"  >
+							                	<td align=center>56</td>                	               	
+							                	<td>口服轮状病毒活疫苗</td>                	               	
+							                	<td>3.0ml/瓶。每一次人用剂量为3.0ml,每1.0ml疫苗所含轮状活病毒应不低于5.51gCCID50 。</td>                	               	
+							                	<td align=center>201712094</td> 
+							                	
+							                	<td align=center>54920瓶</td> 
+							                	<td align=center nowrap>2018年12月21日</td>
+							                	<td align=center >兰州生物制品研究所有限责任公司</td>
+							                	<td align=center nowrap>SP0406201802045</td>
+							                	<td align=center nowrap>批签中检20181394</td>
+							                	<td align=center nowrap>/</td>
+							                	<td align=center nowrap>2018年04月12日</td>
+							                	
+							                	<td align=center nowrap>予以签发</td>
+							                	
+							                	<td align=center >中国食品药品检定研究院</td>
+							              	</tr>
+				                    		   
+				                           <tr  height=50 bgcolor='#f1f7e9' onMouseOut="this.bgColor = '#f1f7e9'" onMouseOver="this.bgColor = '#CCFF66'"  >
+							                	<td align=center>57</td>                	               	
+							                	<td>抗A血型定型试剂（单克隆抗体）</td>                	               	
+							                	<td>10ml</td>                	               	
+							                	<td align=center>20180101</td> 
+							                	
+							                	<td align=center>29654支</td> 
+							                	<td align=center nowrap>2020年1月9日</td>
+							                	<td align=center >上海血液生物医药有限责任公司</td>
+							                	<td align=center nowrap>SP2802201802212</td>
+							                	<td align=center nowrap>批签中检20181500</td>
+							                	<td align=center nowrap>/</td>
+							                	<td align=center nowrap>2018年04月12日</td>
+							                	
+							                	<td align=center nowrap>予以签发</td>
+							                	
+							                	<td align=center >中国食品药品检定研究院</td>
+							              	</tr>
+				                    		   
+				                           <tr  height=50 bgcolor='#f1f7e9' onMouseOut="this.bgColor = '#f1f7f9'" onMouseOver="this.bgColor = '#CCFF66'"  >
+							                	<td align=center>58</td>                	               	
+							                	<td>抗B血型定型试剂（单克隆抗体）</td>                	               	
+							                	<td>10ml</td>                	               	
+							                	<td align=center>20180101</td> 
+							                	
+							                	<td align=center>29654支</td> 
+							                	<td align=center nowrap>2020年1月9日</td>
+							                	<td align=center >上海血液生物医药有限责任公司</td>
+							                	<td align=center nowrap>SP2802201802213</td>
+							                	<td align=center nowrap>批签中检20181501</td>
+							                	<td align=center nowrap>/</td>
+							                	<td align=center nowrap>2018年04月12日</td>
+							                	
+							                	<td align=center nowrap>予以签发</td>
+							                	
+							                	<td align=center >中国食品药品检定研究院</td>
+							              	</tr>
+				                    		   
+				                           <tr  height=50 bgcolor='#f1f7e9' onMouseOut="this.bgColor = '#f1f7e9'" onMouseOver="this.bgColor = '#CCFF66'"  >
+							                	<td align=center>59</td>                	               	
+							                	<td>抗A血型定型试剂（单克隆抗体）</td>                	               	
+							                	<td>10ml</td>                	               	
+							                	<td align=center>20180102</td> 
+							                	
+							                	<td align=center>29318支</td> 
+							                	<td align=center nowrap>2020年1月30日</td>
+							                	<td align=center >上海血液生物医药有限责任公司</td>
+							                	<td align=center nowrap>SP2802201802220</td>
+							                	<td align=center nowrap>批签中检20181502</td>
+							                	<td align=center nowrap>/</td>
+							                	<td align=center nowrap>2018年04月12日</td>
+							                	
+							                	<td align=center nowrap>予以签发</td>
+							                	
+							                	<td align=center >中国食品药品检定研究院</td>
+							              	</tr>
+				                    		   
+				                           <tr  height=50 bgcolor='#f1f7e9' onMouseOut="this.bgColor = '#f1f7f9'" onMouseOver="this.bgColor = '#CCFF66'"  >
+							                	<td align=center>60</td>                	               	
+							                	<td>抗B血型定型试剂（单克隆抗体）</td>                	               	
+							                	<td>10ml</td>                	               	
+							                	<td align=center>20180102</td> 
+							                	
+							                	<td align=center>29318支</td> 
+							                	<td align=center nowrap>2020年1月30日</td>
+							                	<td align=center >上海血液生物医药有限责任公司</td>
+							                	<td align=center nowrap>SP2802201802221</td>
+							                	<td align=center nowrap>批签中检20181503</td>
+							                	<td align=center nowrap>/</td>
+							                	<td align=center nowrap>2018年04月12日</td>
+							                	
+							                	<td align=center nowrap>予以签发</td>
+							                	
+							                	<td align=center >中国食品药品检定研究院</td>
+							              	</tr>
+				                    		   
+				                           <tr  height=50 bgcolor='#f1f7e9' onMouseOut="this.bgColor = '#f1f7e9'" onMouseOver="this.bgColor = '#CCFF66'"  >
+							                	<td align=center>61</td>                	               	
+							                	<td>丙型肝炎病毒抗体诊断试剂盒（酶联免疫法）</td>                	               	
+							                	<td>96人份/板</td>                	               	
+							                	<td align=center>EXE286</td> 
+							                	
+							                	<td align=center>1078盒</td> 
+							                	<td align=center nowrap>2019年1月30日</td>
+							                	<td align=center >Ortho-Clinical Diagnostics， Inc.</td>
+							                	<td align=center nowrap>SJ2803201803332</td>
+							                	<td align=center nowrap>批签中(进)检20181311</td>
+							                	<td align=center nowrap>SJ201802525</td>
+							                	<td align=center nowrap>2018年04月12日</td>
+							                	
+							                	<td align=center nowrap>予以签发</td>
+							                	
+							                	<td align=center >中国食品药品检定研究院</td>
+							              	</tr>
+				                    		   
+				                           <tr  height=50 bgcolor='#f1f7e9' onMouseOut="this.bgColor = '#f1f7f9'" onMouseOver="this.bgColor = '#CCFF66'"  >
+							                	<td align=center>62</td>                	               	
+							                	<td>无细胞百白破b型流感嗜血杆菌联合疫苗</td>                	               	
+							                	<td>吸附无细胞百白破联合疫苗:1瓶（0.5ml）,b型流感嗜血杆菌结合疫苗1瓶（10μg/0.5ml）,混合后肌内注射。</td>                	               	
+							                	<td align=center>A20180102</td> 
+							                	
+							                	<td align=center>117876瓶</td> 
+							                	<td align=center nowrap>2020年1月14日</td>
+							                	<td align=center >北京民海生物科技有限公司</td>
+							                	<td align=center nowrap>SP0411201802629</td>
+							                	<td align=center nowrap>批签中检20181518</td>
+							                	<td align=center nowrap>/</td>
+							                	<td align=center nowrap>2018年04月12日</td>
+							                	
+							                	<td align=center nowrap>予以签发</td>
+							                	
+							                	<td align=center >中国食品药品检定研究院</td>
+							              	</tr>
+				                    		   
+				                           <tr  height=50 bgcolor='#f1f7e9' onMouseOut="this.bgColor = '#f1f7e9'" onMouseOver="this.bgColor = '#CCFF66'"  >
+							                	<td align=center>63</td>                	               	
+							                	<td>无细胞百白破b型流感嗜血杆菌联合疫苗</td>                	               	
+							                	<td>吸附无细胞百白破联合疫苗:1瓶（0.5ml）,b型流感嗜血杆菌结合疫苗1瓶（10μg/0.5ml）,混合后肌内注射。</td>                	               	
+							                	<td align=center>A20180103</td> 
+							                	
+							                	<td align=center>76447瓶</td> 
+							                	<td align=center nowrap>2020年1月16日</td>
+							                	<td align=center >北京民海生物科技有限公司</td>
+							                	<td align=center nowrap>SP0411201802630</td>
+							                	<td align=center nowrap>批签中检20181517</td>
+							                	<td align=center nowrap>/</td>
+							                	<td align=center nowrap>2018年04月12日</td>
+							                	
+							                	<td align=center nowrap>予以签发</td>
+							                	
+							                	<td align=center >中国食品药品检定研究院</td>
+							              	</tr>
+				                    		   
+				                           <tr  height=50 bgcolor='#f1f7e9' onMouseOut="this.bgColor = '#f1f7f9'" onMouseOver="this.bgColor = '#CCFF66'"  >
+							                	<td align=center>64</td>                	               	
+							                	<td>人类免疫缺陷病毒抗体诊断试剂盒（酶联免疫法）</td>                	               	
+							                	<td>96人份/盒</td>                	               	
+							                	<td align=center>2018020312</td> 
+							                	
+							                	<td align=center>8933盒</td> 
+							                	<td align=center nowrap>2019年2月24日</td>
+							                	<td align=center >珠海丽珠试剂股份有限公司</td>
+							                	<td align=center nowrap>SP2804201803881</td>
+							                	<td align=center nowrap>批签中检20181430</td>
+							                	<td align=center nowrap>/</td>
+							                	<td align=center nowrap>2018年04月12日</td>
+							                	
+							                	<td align=center nowrap>予以签发</td>
+							                	
+							                	<td align=center >中国食品药品检定研究院</td>
+							              	</tr>
+				                    		   
+				                           <tr  height=50 bgcolor='#f1f7e9' onMouseOut="this.bgColor = '#f1f7e9'" onMouseOver="this.bgColor = '#CCFF66'"  >
+							                	<td align=center>65</td>                	               	
+							                	<td>人类免疫缺陷病毒抗体诊断试剂盒（酶联免疫法）</td>                	               	
+							                	<td>96人份/盒</td>                	               	
+							                	<td align=center>2018020408</td> 
+							                	
+							                	<td align=center>8947盒</td> 
+							                	<td align=center nowrap>2019年2月27日</td>
+							                	<td align=center >珠海丽珠试剂股份有限公司</td>
+							                	<td align=center nowrap>SP2804201803882</td>
+							                	<td align=center nowrap>批签中检20181431</td>
+							                	<td align=center nowrap>/</td>
+							                	<td align=center nowrap>2018年04月12日</td>
+							                	
+							                	<td align=center nowrap>予以签发</td>
+							                	
+							                	<td align=center >中国食品药品检定研究院</td>
+							              	</tr>
+				                    		   
+				                           <tr  height=50 bgcolor='#f1f7e9' onMouseOut="this.bgColor = '#f1f7f9'" onMouseOver="this.bgColor = '#CCFF66'"  >
+							                	<td align=center>66</td>                	               	
+							                	<td>人类免疫缺陷病毒抗体诊断试剂盒（酶联免疫法）</td>                	               	
+							                	<td>96人份/盒</td>                	               	
+							                	<td align=center>2018030512</td> 
+							                	
+							                	<td align=center>8921盒</td> 
+							                	<td align=center nowrap>2019年3月2日</td>
+							                	<td align=center >珠海丽珠试剂股份有限公司</td>
+							                	<td align=center nowrap>SP2804201803883</td>
+							                	<td align=center nowrap>批签中检20181432</td>
+							                	<td align=center nowrap>/</td>
+							                	<td align=center nowrap>2018年04月12日</td>
+							                	
+							                	<td align=center nowrap>予以签发</td>
+							                	
+							                	<td align=center >中国食品药品检定研究院</td>
+							              	</tr>
+				                    		   
+				                           <tr  height=50 bgcolor='#f1f7e9' onMouseOut="this.bgColor = '#f1f7e9'" onMouseOver="this.bgColor = '#CCFF66'"  >
+							                	<td align=center>67</td>                	               	
+							                	<td>吸附无细胞百白破联合疫苗</td>                	               	
+							                	<td>每安瓿0.5ml</td>                	               	
+							                	<td align=center>201707052(1-2)</td> 
+							                	
+							                	<td align=center>807390支</td> 
+							                	<td align=center nowrap>2019年7月24日</td>
+							                	<td align=center >武汉生物制品研究所有限责任公司</td>
+							                	<td align=center nowrap>SP0411201712284</td>
+							                	<td align=center nowrap>批签中检20181537</td>
+							                	<td align=center nowrap>/</td>
+							                	<td align=center nowrap>2018年04月12日</td>
+							                	
+							                	<td align=center nowrap>予以签发</td>
+							                	
+							                	<td align=center >中国食品药品检定研究院</td>
+							              	</tr>
+				                    		   
+				                           <tr  height=50 bgcolor='#f1f7e9' onMouseOut="this.bgColor = '#f1f7f9'" onMouseOver="this.bgColor = '#CCFF66'"  >
+							                	<td align=center>68</td>                	               	
+							                	<td>吸附无细胞百白破联合疫苗</td>                	               	
+							                	<td>每安瓿0.5ml</td>                	               	
+							                	<td align=center>201708056(1-2)</td> 
+							                	
+							                	<td align=center>803325支</td> 
+							                	<td align=center nowrap>2019年8月28日</td>
+							                	<td align=center >武汉生物制品研究所有限责任公司</td>
+							                	<td align=center nowrap>SP0411201714813</td>
+							                	<td align=center nowrap>批签中检20181541</td>
+							                	<td align=center nowrap>/</td>
+							                	<td align=center nowrap>2018年04月12日</td>
+							                	
+							                	<td align=center nowrap>予以签发</td>
+							                	
+							                	<td align=center >中国食品药品检定研究院</td>
+							              	</tr>
+				                    		   
+				                           <tr  height=50 bgcolor='#f1f7e9' onMouseOut="this.bgColor = '#f1f7e9'" onMouseOver="this.bgColor = '#CCFF66'"  >
+							                	<td align=center>69</td>                	               	
+							                	<td>吸附无细胞百白破联合疫苗</td>                	               	
+							                	<td>每安瓿0.5ml</td>                	               	
+							                	<td align=center>201709057(1-2)</td> 
+							                	
+							                	<td align=center>779790支</td> 
+							                	<td align=center nowrap>2019年9月1日</td>
+							                	<td align=center >武汉生物制品研究所有限责任公司</td>
+							                	<td align=center nowrap>SP0411201714814</td>
+							                	<td align=center nowrap>批签中检20181538</td>
+							                	<td align=center nowrap>/</td>
+							                	<td align=center nowrap>2018年04月12日</td>
+							                	
+							                	<td align=center nowrap>予以签发</td>
+							                	
+							                	<td align=center >中国食品药品检定研究院</td>
+							              	</tr>
+				                    		   
+				                           <tr  height=50 bgcolor='#f1f7e9' onMouseOut="this.bgColor = '#f1f7f9'" onMouseOver="this.bgColor = '#CCFF66'"  >
+							                	<td align=center>70</td>                	               	
+							                	<td>吸附无细胞百白破联合疫苗</td>                	               	
+							                	<td>每安瓿0.5ml</td>                	               	
+							                	<td align=center>201709058(1-2)</td> 
+							                	
+							                	<td align=center>770540支</td> 
+							                	<td align=center nowrap>2019年9月4日</td>
+							                	<td align=center >武汉生物制品研究所有限责任公司</td>
+							                	<td align=center nowrap>SP0411201714815</td>
+							                	<td align=center nowrap>批签中检20181542</td>
+							                	<td align=center nowrap>/</td>
+							                	<td align=center nowrap>2018年04月12日</td>
+							                	
+							                	<td align=center nowrap>予以签发</td>
+							                	
+							                	<td align=center >中国食品药品检定研究院</td>
+							              	</tr>
+				                    		   
+				                           <tr  height=50 bgcolor='#f1f7e9' onMouseOut="this.bgColor = '#f1f7e9'" onMouseOver="this.bgColor = '#CCFF66'"  >
+							                	<td align=center>71</td>                	               	
+							                	<td>吸附无细胞百白破联合疫苗</td>                	               	
+							                	<td>每安瓿0.5ml</td>                	               	
+							                	<td align=center>201709059(1-2)</td> 
+							                	
+							                	<td align=center>783160支</td> 
+							                	<td align=center nowrap>2019年9月7日</td>
+							                	<td align=center >武汉生物制品研究所有限责任公司</td>
+							                	<td align=center nowrap>SP0411201714816</td>
+							                	<td align=center nowrap>批签中检20181543</td>
+							                	<td align=center nowrap>/</td>
+							                	<td align=center nowrap>2018年04月12日</td>
+							                	
+							                	<td align=center nowrap>予以签发</td>
+							                	
+							                	<td align=center >中国食品药品检定研究院</td>
+							              	</tr>
+				                    		   
+				                           <tr  height=50 bgcolor='#f1f7e9' onMouseOut="this.bgColor = '#f1f7f9'" onMouseOver="this.bgColor = '#CCFF66'"  >
+							                	<td align=center>72</td>                	               	
+							                	<td>吸附无细胞百白破联合疫苗</td>                	               	
+							                	<td>每安瓿0.5ml</td>                	               	
+							                	<td align=center>201709060(1-2)</td> 
+							                	
+							                	<td align=center>783200支</td> 
+							                	<td align=center nowrap>2019年9月11日</td>
+							                	<td align=center >武汉生物制品研究所有限责任公司</td>
+							                	<td align=center nowrap>SP0411201714992</td>
+							                	<td align=center nowrap>批签中检20181544</td>
+							                	<td align=center nowrap>/</td>
+							                	<td align=center nowrap>2018年04月12日</td>
+							                	
+							                	<td align=center nowrap>予以签发</td>
+							                	
+							                	<td align=center >中国食品药品检定研究院</td>
+							              	</tr>
+				                    		   
+				                           <tr  height=50 bgcolor='#f1f7e9' onMouseOut="this.bgColor = '#f1f7e9'" onMouseOver="this.bgColor = '#CCFF66'"  >
+							                	<td align=center>73</td>                	               	
+							                	<td>吸附无细胞百白破联合疫苗</td>                	               	
+							                	<td>每安瓿0.5ml</td>                	               	
+							                	<td align=center>201709061(1-2)</td> 
+							                	
+							                	<td align=center>782960支</td> 
+							                	<td align=center nowrap>2019年9月14日</td>
+							                	<td align=center >武汉生物制品研究所有限责任公司</td>
+							                	<td align=center nowrap>SP0411201800035</td>
+							                	<td align=center nowrap>批签中检20181545</td>
+							                	<td align=center nowrap>/</td>
+							                	<td align=center nowrap>2018年04月12日</td>
+							                	
+							                	<td align=center nowrap>予以签发</td>
+							                	
+							                	<td align=center >中国食品药品检定研究院</td>
+							              	</tr>
+				                    		   
+				                           <tr  height=50 bgcolor='#f1f7e9' onMouseOut="this.bgColor = '#f1f7f9'" onMouseOver="this.bgColor = '#CCFF66'"  >
+							                	<td align=center>74</td>                	               	
+							                	<td>吸附无细胞百白破联合疫苗</td>                	               	
+							                	<td>每安瓿0.5ml</td>                	               	
+							                	<td align=center>201710062(1-2)</td> 
+							                	
+							                	<td align=center>817575支</td> 
+							                	<td align=center nowrap>2019年10月21日</td>
+							                	<td align=center >武汉生物制品研究所有限责任公司</td>
+							                	<td align=center nowrap>SP0411201800036</td>
+							                	<td align=center nowrap>批签中检20181546</td>
+							                	<td align=center nowrap>/</td>
+							                	<td align=center nowrap>2018年04月12日</td>
+							                	
+							                	<td align=center nowrap>予以签发</td>
+							                	
+							                	<td align=center >中国食品药品检定研究院</td>
+							              	</tr>
+				                    		   
+				                           <tr  height=50 bgcolor='#f1f7e9' onMouseOut="this.bgColor = '#f1f7e9'" onMouseOver="this.bgColor = '#CCFF66'"  >
+							                	<td align=center>75</td>                	               	
+							                	<td>吸附无细胞百白破联合疫苗</td>                	               	
+							                	<td>每安瓿0.5ml</td>                	               	
+							                	<td align=center>201710063(1-2)</td> 
+							                	
+							                	<td align=center>785655支</td> 
+							                	<td align=center nowrap>2019年10月24日</td>
+							                	<td align=center >武汉生物制品研究所有限责任公司</td>
+							                	<td align=center nowrap>SP0411201800037</td>
+							                	<td align=center nowrap>批签中检20181547</td>
+							                	<td align=center nowrap>/</td>
+							                	<td align=center nowrap>2018年04月12日</td>
+							                	
+							                	<td align=center nowrap>予以签发</td>
+							                	
+							                	<td align=center >中国食品药品检定研究院</td>
+							              	</tr>
+				                    		   
+				                           <tr  height=50 bgcolor='#f1f7e9' onMouseOut="this.bgColor = '#f1f7f9'" onMouseOver="this.bgColor = '#CCFF66'"  >
+							                	<td align=center>76</td>                	               	
+							                	<td>吸附无细胞百白破联合疫苗</td>                	               	
+							                	<td>每安瓿0.5ml</td>                	               	
+							                	<td align=center>201710064(1-2)</td> 
+							                	
+							                	<td align=center>786785支</td> 
+							                	<td align=center nowrap>2019年10月27日</td>
+							                	<td align=center >武汉生物制品研究所有限责任公司</td>
+							                	<td align=center nowrap>SP0411201800244</td>
+							                	<td align=center nowrap>批签中检20181548</td>
+							                	<td align=center nowrap>/</td>
+							                	<td align=center nowrap>2018年04月12日</td>
+							                	
+							                	<td align=center nowrap>予以签发</td>
+							                	
+							                	<td align=center >中国食品药品检定研究院</td>
+							              	</tr>
+				                    		   
+				                           <tr  height=50 bgcolor='#f1f7e9' onMouseOut="this.bgColor = '#f1f7e9'" onMouseOver="this.bgColor = '#CCFF66'"  >
+							                	<td align=center>77</td>                	               	
+							                	<td>吸附无细胞百白破联合疫苗</td>                	               	
+							                	<td>0.5ml/瓶</td>                	               	
+							                	<td align=center>F201710012</td> 
+							                	
+							                	<td align=center>146682瓶</td> 
+							                	<td align=center nowrap>2019年10月4日</td>
+							                	<td align=center >玉溪沃森生物技术有限公司</td>
+							                	<td align=center nowrap>SP0411201800642</td>
+							                	<td align=center nowrap>批签中检20181530</td>
+							                	<td align=center nowrap>/</td>
+							                	<td align=center nowrap>2018年04月12日</td>
+							                	
+							                	<td align=center nowrap>予以签发</td>
+							                	
+							                	<td align=center >中国食品药品检定研究院</td>
+							              	</tr>
+				                    		   
+				                           <tr  height=50 bgcolor='#f1f7e9' onMouseOut="this.bgColor = '#f1f7f9'" onMouseOver="this.bgColor = '#CCFF66'"  >
+							                	<td align=center>78</td>                	               	
+							                	<td>吸附无细胞百白破联合疫苗</td>                	               	
+							                	<td>0.5ml/瓶</td>                	               	
+							                	<td align=center>F201710013</td> 
+							                	
+							                	<td align=center>119502瓶</td> 
+							                	<td align=center nowrap>2019年10月6日</td>
+							                	<td align=center >玉溪沃森生物技术有限公司</td>
+							                	<td align=center nowrap>SP0411201800643</td>
+							                	<td align=center nowrap>批签中检20181531</td>
+							                	<td align=center nowrap>/</td>
+							                	<td align=center nowrap>2018年04月12日</td>
+							                	
+							                	<td align=center nowrap>予以签发</td>
+							                	
+							                	<td align=center >中国食品药品检定研究院</td>
+							              	</tr>
+				                    		   
+				                           <tr  height=50 bgcolor='#f1f7e9' onMouseOut="this.bgColor = '#f1f7e9'" onMouseOver="this.bgColor = '#CCFF66'"  >
+							                	<td align=center>79</td>                	               	
+							                	<td>冻干人用狂犬病疫苗（Vero细胞）</td>                	               	
+							                	<td>重溶后每瓶0.5ml</td>                	               	
+							                	<td align=center>201711375</td> 
+							                	
+							                	<td align=center>74588瓶</td> 
+							                	<td align=center nowrap>2020年11月8日</td>
+							                	<td align=center >辽宁成大生物股份有限公司</td>
+							                	<td align=center nowrap>SP0402201801307</td>
+							                	<td align=center nowrap>批签中检20181454</td>
+							                	<td align=center nowrap>/</td>
+							                	<td align=center nowrap>2018年04月10日</td>
+							                	
+							                	<td align=center nowrap>予以签发</td>
+							                	
+							                	<td align=center >中国食品药品检定研究院</td>
+							              	</tr>
+				                    		   
+				                           <tr  height=50 bgcolor='#f1f7e9' onMouseOut="this.bgColor = '#f1f7f9'" onMouseOver="this.bgColor = '#CCFF66'"  >
+							                	<td align=center>80</td>                	               	
+							                	<td>冻干人用狂犬病疫苗（Vero细胞）</td>                	               	
+							                	<td>重溶后每瓶0.5ml</td>                	               	
+							                	<td align=center>201711374</td> 
+							                	
+							                	<td align=center>74404瓶</td> 
+							                	<td align=center nowrap>2020年11月8日</td>
+							                	<td align=center >辽宁成大生物股份有限公司</td>
+							                	<td align=center nowrap>SP0402201801306</td>
+							                	<td align=center nowrap>批签中检20181453</td>
+							                	<td align=center nowrap>/</td>
+							                	<td align=center nowrap>2018年04月10日</td>
+							                	
+							                	<td align=center nowrap>予以签发</td>
+							                	
+							                	<td align=center >中国食品药品检定研究院</td>
+							              	</tr>
+				                    		   
+				                           <tr  height=50 bgcolor='#f1f7e9' onMouseOut="this.bgColor = '#f1f7e9'" onMouseOver="this.bgColor = '#CCFF66'"  >
+							                	<td align=center>81</td>                	               	
+							                	<td>口服Ⅰ型Ⅲ型脊髓灰质炎减毒活疫苗（人二倍体细胞）</td>                	               	
+							                	<td>每瓶1.0ml(10人份)。每1次人用剂量为2滴(相当于0.1ml),含脊髓灰质炎活病毒总量应不低于6.12 lgCCID50,其中Ⅰ型应不低于6.0 lgCCID50,Ⅲ型应不低于5.5 lgCCID50。</td>                	               	
+							                	<td align=center>201712200</td> 
+							                	
+							                	<td align=center>83070瓶</td> 
+							                	<td align=center nowrap>2019年12月15日</td>
+							                	<td align=center >北京北生研生物制品有限公司</td>
+							                	<td align=center nowrap>SP0406201801143</td>
+							                	<td align=center nowrap>批签中检20181098</td>
+							                	<td align=center nowrap>/</td>
+							                	<td align=center nowrap>2018年04月11日</td>
+							                	
+							                	<td align=center nowrap>予以签发</td>
+							                	
+							                	<td align=center >中国食品药品检定研究院</td>
+							              	</tr>
+				                    		   
+				                           <tr  height=50 bgcolor='#f1f7e9' onMouseOut="this.bgColor = '#f1f7f9'" onMouseOver="this.bgColor = '#CCFF66'"  >
+							                	<td align=center>82</td>                	               	
+							                	<td>口服Ⅰ型Ⅲ型脊髓灰质炎减毒活疫苗（人二倍体细胞）</td>                	               	
+							                	<td>每瓶1.0ml(10人份)。每1次人用剂量为2滴(相当于0.1ml),含脊髓灰质炎活病毒总量应不低于6.12 lgCCID50,其中Ⅰ型应不低于6.0 lgCCID50,Ⅲ型应不低于5.5 lgCCID50。</td>                	               	
+							                	<td align=center>201712201</td> 
+							                	
+							                	<td align=center>83370瓶</td> 
+							                	<td align=center nowrap>2019年12月17日</td>
+							                	<td align=center >北京北生研生物制品有限公司</td>
+							                	<td align=center nowrap>SP0406201801144</td>
+							                	<td align=center nowrap>批签中检20181390</td>
+							                	<td align=center nowrap>/</td>
+							                	<td align=center nowrap>2018年04月11日</td>
+							                	
+							                	<td align=center nowrap>予以签发</td>
+							                	
+							                	<td align=center >中国食品药品检定研究院</td>
+							              	</tr>
+				                    		   
+				                           <tr  height=50 bgcolor='#f1f7e9' onMouseOut="this.bgColor = '#f1f7e9'" onMouseOver="this.bgColor = '#CCFF66'"  >
+							                	<td align=center>83</td>                	               	
+							                	<td>口服Ⅰ型Ⅲ型脊髓灰质炎减毒活疫苗（人二倍体细胞）</td>                	               	
+							                	<td>每瓶1.0ml(10人份)。每1次人用剂量为2滴(相当于0.1ml),含脊髓灰质炎活病毒总量应不低于6.12 lgCCID50,其中Ⅰ型应不低于6.0 lgCCID50,Ⅲ型应不低于5.5 lgCCID50。</td>                	               	
+							                	<td align=center>201712197</td> 
+							                	
+							                	<td align=center>81360瓶</td> 
+							                	<td align=center nowrap>2019年12月12日</td>
+							                	<td align=center >北京北生研生物制品有限公司</td>
+							                	<td align=center nowrap>SP0406201801140</td>
+							                	<td align=center nowrap>批签中检20181095</td>
+							                	<td align=center nowrap>/</td>
+							                	<td align=center nowrap>2018年04月11日</td>
+							                	
+							                	<td align=center nowrap>予以签发</td>
+							                	
+							                	<td align=center >中国食品药品检定研究院</td>
+							              	</tr>
+				                    		   
+				                           <tr  height=50 bgcolor='#f1f7e9' onMouseOut="this.bgColor = '#f1f7f9'" onMouseOver="this.bgColor = '#CCFF66'"  >
+							                	<td align=center>84</td>                	               	
+							                	<td>冻干人用狂犬病疫苗（Vero细胞）</td>                	               	
+							                	<td>重溶后每瓶0.5ml</td>                	               	
+							                	<td align=center>201711376</td> 
+							                	
+							                	<td align=center>74104瓶</td> 
+							                	<td align=center nowrap>2020年11月8日</td>
+							                	<td align=center >辽宁成大生物股份有限公司</td>
+							                	<td align=center nowrap>SP0402201801308</td>
+							                	<td align=center nowrap>批签中检20181455</td>
+							                	<td align=center nowrap>/</td>
+							                	<td align=center nowrap>2018年04月10日</td>
+							                	
+							                	<td align=center nowrap>予以签发</td>
+							                	
+							                	<td align=center >中国食品药品检定研究院</td>
+							              	</tr>
+				                    		   
+				                           <tr  height=50 bgcolor='#f1f7e9' onMouseOut="this.bgColor = '#f1f7e9'" onMouseOver="this.bgColor = '#CCFF66'"  >
+							                	<td align=center>85</td>                	               	
+							                	<td>口服Ⅰ型Ⅲ型脊髓灰质炎减毒活疫苗（人二倍体细胞）</td>                	               	
+							                	<td>每瓶1.0ml(10人份)。每1次人用剂量为2滴(相当于0.1ml),含脊髓灰质炎活病毒总量应不低于6.12 lgCCID50,其中Ⅰ型应不低于6.0 lgCCID50,Ⅲ型应不低于5.5 lgCCID50。</td>                	               	
+							                	<td align=center>201712202</td> 
+							                	
+							                	<td align=center>83190瓶</td> 
+							                	<td align=center nowrap>2019年12月18日</td>
+							                	<td align=center >北京北生研生物制品有限公司</td>
+							                	<td align=center nowrap>SP0406201801145</td>
+							                	<td align=center nowrap>批签中检20181391</td>
+							                	<td align=center nowrap>/</td>
+							                	<td align=center nowrap>2018年04月11日</td>
+							                	
+							                	<td align=center nowrap>予以签发</td>
+							                	
+							                	<td align=center >中国食品药品检定研究院</td>
+							              	</tr>
+				                    		   
+				                           <tr  height=50 bgcolor='#f1f7e9' onMouseOut="this.bgColor = '#f1f7f9'" onMouseOver="this.bgColor = '#CCFF66'"  >
+							                	<td align=center>86</td>                	               	
+							                	<td>口服Ⅰ型Ⅲ型脊髓灰质炎减毒活疫苗（人二倍体细胞）</td>                	               	
+							                	<td>每瓶1.0ml(10人份)。每1次人用剂量为2滴(相当于0.1ml),含脊髓灰质炎活病毒总量应不低于6.12 lgCCID50,其中Ⅰ型应不低于6.0 lgCCID50,Ⅲ型应不低于5.5 lgCCID50。</td>                	               	
+							                	<td align=center>201712203</td> 
+							                	
+							                	<td align=center>79890瓶</td> 
+							                	<td align=center nowrap>2019年12月19日</td>
+							                	<td align=center >北京北生研生物制品有限公司</td>
+							                	<td align=center nowrap>SP0406201801146</td>
+							                	<td align=center nowrap>批签中检20181392</td>
+							                	<td align=center nowrap>/</td>
+							                	<td align=center nowrap>2018年04月11日</td>
+							                	
+							                	<td align=center nowrap>予以签发</td>
+							                	
+							                	<td align=center >中国食品药品检定研究院</td>
+							              	</tr>
+				                    		   
+				                           <tr  height=50 bgcolor='#f1f7e9' onMouseOut="this.bgColor = '#f1f7e9'" onMouseOver="this.bgColor = '#CCFF66'"  >
+							                	<td align=center>87</td>                	               	
+							                	<td>重组乙型肝炎疫苗（汉逊酵母）</td>                	               	
+							                	<td>10μg/0.5ml</td>                	               	
+							                	<td align=center>201711168</td> 
+							                	
+							                	<td align=center>155820瓶</td> 
+							                	<td align=center nowrap>2020年11月24日</td>
+							                	<td align=center >大连汉信生物制药有限公司</td>
+							                	<td align=center nowrap>SP0403201801621</td>
+							                	<td align=center nowrap>批签中检20181373</td>
+							                	<td align=center nowrap>/</td>
+							                	<td align=center nowrap>2018年04月10日</td>
+							                	
+							                	<td align=center nowrap>予以签发</td>
+							                	
+							                	<td align=center >中国食品药品检定研究院</td>
+							              	</tr>
+				                    		   
+				                           <tr  height=50 bgcolor='#f1f7e9' onMouseOut="this.bgColor = '#f1f7f9'" onMouseOver="this.bgColor = '#CCFF66'"  >
+							                	<td align=center>88</td>                	               	
+							                	<td>重组乙型肝炎疫苗（汉逊酵母）</td>                	               	
+							                	<td>10μg/0.5ml</td>                	               	
+							                	<td align=center>201711169</td> 
+							                	
+							                	<td align=center>154890瓶</td> 
+							                	<td align=center nowrap>2020年11月24日</td>
+							                	<td align=center >大连汉信生物制药有限公司</td>
+							                	<td align=center nowrap>SP0403201801622</td>
+							                	<td align=center nowrap>批签中检20181374</td>
+							                	<td align=center nowrap>/</td>
+							                	<td align=center nowrap>2018年04月10日</td>
+							                	
+							                	<td align=center nowrap>予以签发</td>
+							                	
+							                	<td align=center >中国食品药品检定研究院</td>
+							              	</tr>
+				                    		   
+				                           <tr  height=50 bgcolor='#f1f7e9' onMouseOut="this.bgColor = '#f1f7e9'" onMouseOver="this.bgColor = '#CCFF66'"  >
+							                	<td align=center>89</td>                	               	
+							                	<td>重组乙型肝炎疫苗（汉逊酵母）</td>                	               	
+							                	<td>10μg/0.5ml</td>                	               	
+							                	<td align=center>201711170</td> 
+							                	
+							                	<td align=center>153600瓶</td> 
+							                	<td align=center nowrap>2020年11月24日</td>
+							                	<td align=center >大连汉信生物制药有限公司</td>
+							                	<td align=center nowrap>SP0403201801623</td>
+							                	<td align=center nowrap>批签中检20181375</td>
+							                	<td align=center nowrap>/</td>
+							                	<td align=center nowrap>2018年04月10日</td>
+							                	
+							                	<td align=center nowrap>予以签发</td>
+							                	
+							                	<td align=center >中国食品药品检定研究院</td>
+							              	</tr>
+				                    		   
+				                           <tr  height=50 bgcolor='#f1f7e9' onMouseOut="this.bgColor = '#f1f7f9'" onMouseOver="this.bgColor = '#CCFF66'"  >
+							                	<td align=center>90</td>                	               	
+							                	<td>重组乙型肝炎疫苗（汉逊酵母）</td>                	               	
+							                	<td>10μg/0.5ml</td>                	               	
+							                	<td align=center>201712171</td> 
+							                	
+							                	<td align=center>155910瓶</td> 
+							                	<td align=center nowrap>2020年12月1日</td>
+							                	<td align=center >大连汉信生物制药有限公司</td>
+							                	<td align=center nowrap>SP0403201801624</td>
+							                	<td align=center nowrap>批签中检20181376</td>
+							                	<td align=center nowrap>/</td>
+							                	<td align=center nowrap>2018年04月10日</td>
+							                	
+							                	<td align=center nowrap>予以签发</td>
+							                	
+							                	<td align=center >中国食品药品检定研究院</td>
+							              	</tr>
+				                    		   
+				                           <tr  height=50 bgcolor='#f1f7e9' onMouseOut="this.bgColor = '#f1f7e9'" onMouseOver="this.bgColor = '#CCFF66'"  >
+							                	<td align=center>91</td>                	               	
+							                	<td>重组乙型肝炎疫苗（汉逊酵母）</td>                	               	
+							                	<td>10μg/0.5ml</td>                	               	
+							                	<td align=center>201712172</td> 
+							                	
+							                	<td align=center>154920瓶</td> 
+							                	<td align=center nowrap>2020年12月1日</td>
+							                	<td align=center >大连汉信生物制药有限公司</td>
+							                	<td align=center nowrap>SP0403201801625</td>
+							                	<td align=center nowrap>批签中检20181377</td>
+							                	<td align=center nowrap>/</td>
+							                	<td align=center nowrap>2018年04月10日</td>
+							                	
+							                	<td align=center nowrap>予以签发</td>
+							                	
+							                	<td align=center >中国食品药品检定研究院</td>
+							              	</tr>
+				                    		   
+				                           <tr  height=50 bgcolor='#f1f7e9' onMouseOut="this.bgColor = '#f1f7f9'" onMouseOver="this.bgColor = '#CCFF66'"  >
+							                	<td align=center>92</td>                	               	
+							                	<td>重组乙型肝炎疫苗（汉逊酵母）</td>                	               	
+							                	<td>10μg/0.5ml</td>                	               	
+							                	<td align=center>201712173</td> 
+							                	
+							                	<td align=center>155940瓶</td> 
+							                	<td align=center nowrap>2020年12月1日</td>
+							                	<td align=center >大连汉信生物制药有限公司</td>
+							                	<td align=center nowrap>SP0403201801626</td>
+							                	<td align=center nowrap>批签中检20181378</td>
+							                	<td align=center nowrap>/</td>
+							                	<td align=center nowrap>2018年04月10日</td>
+							                	
+							                	<td align=center nowrap>予以签发</td>
+							                	
+							                	<td align=center >中国食品药品检定研究院</td>
+							              	</tr>
+				                    		   
+				                           <tr  height=50 bgcolor='#f1f7e9' onMouseOut="this.bgColor = '#f1f7e9'" onMouseOver="this.bgColor = '#CCFF66'"  >
+							                	<td align=center>93</td>                	               	
+							                	<td>重组乙型肝炎疫苗（汉逊酵母）</td>                	               	
+							                	<td>10μg/0.5ml</td>                	               	
+							                	<td align=center>201712174</td> 
+							                	
+							                	<td align=center>155850瓶</td> 
+							                	<td align=center nowrap>2020年12月1日</td>
+							                	<td align=center >大连汉信生物制药有限公司</td>
+							                	<td align=center nowrap>SP0403201801627</td>
+							                	<td align=center nowrap>批签中检20181379</td>
+							                	<td align=center nowrap>/</td>
+							                	<td align=center nowrap>2018年04月10日</td>
+							                	
+							                	<td align=center nowrap>予以签发</td>
+							                	
+							                	<td align=center >中国食品药品检定研究院</td>
+							              	</tr>
+				                    		   
+				                           <tr  height=50 bgcolor='#f1f7e9' onMouseOut="this.bgColor = '#f1f7f9'" onMouseOver="this.bgColor = '#CCFF66'"  >
+							                	<td align=center>94</td>                	               	
+							                	<td>重组乙型肝炎疫苗（汉逊酵母）</td>                	               	
+							                	<td>10μg/0.5ml</td>                	               	
+							                	<td align=center>201712175</td> 
+							                	
+							                	<td align=center>155610瓶</td> 
+							                	<td align=center nowrap>2020年12月1日</td>
+							                	<td align=center >大连汉信生物制药有限公司</td>
+							                	<td align=center nowrap>SP0403201801631</td>
+							                	<td align=center nowrap>批签中检20181380</td>
+							                	<td align=center nowrap>/</td>
+							                	<td align=center nowrap>2018年04月10日</td>
+							                	
+							                	<td align=center nowrap>予以签发</td>
+							                	
+							                	<td align=center >中国食品药品检定研究院</td>
+							              	</tr>
+				                    		   
+				                           <tr  height=50 bgcolor='#f1f7e9' onMouseOut="this.bgColor = '#f1f7e9'" onMouseOver="this.bgColor = '#CCFF66'"  >
+							                	<td align=center>95</td>                	               	
+							                	<td>水痘减毒活疫苗</td>                	               	
+							                	<td>0.5ml/支</td>                	               	
+							                	<td align=center>201712091</td> 
+							                	
+							                	<td align=center>49707支</td> 
+							                	<td align=center nowrap>2019年12月25日</td>
+							                	<td align=center >长春长生生物科技有限责任公司</td>
+							                	<td align=center nowrap>SP0404201801339</td>
+							                	<td align=center nowrap>批签中检20181471</td>
+							                	<td align=center nowrap>/</td>
+							                	<td align=center nowrap>2018年04月11日</td>
+							                	
+							                	<td align=center nowrap>予以签发</td>
+							                	
+							                	<td align=center >中国食品药品检定研究院</td>
+							              	</tr>
+				                    		   
+				                           <tr  height=50 bgcolor='#f1f7e9' onMouseOut="this.bgColor = '#f1f7f9'" onMouseOver="this.bgColor = '#CCFF66'"  >
+							                	<td align=center>96</td>                	               	
+							                	<td>水痘减毒活疫苗</td>                	               	
+							                	<td>0.5ml/支</td>                	               	
+							                	<td align=center>201712092</td> 
+							                	
+							                	<td align=center>49881支</td> 
+							                	<td align=center nowrap>2019年12月25日</td>
+							                	<td align=center >长春长生生物科技有限责任公司</td>
+							                	<td align=center nowrap>SP0404201801340</td>
+							                	<td align=center nowrap>批签中检20181472</td>
+							                	<td align=center nowrap>/</td>
+							                	<td align=center nowrap>2018年04月11日</td>
+							                	
+							                	<td align=center nowrap>予以签发</td>
+							                	
+							                	<td align=center >中国食品药品检定研究院</td>
+							              	</tr>
+				                    		   
+				                           <tr  height=50 bgcolor='#f1f7e9' onMouseOut="this.bgColor = '#f1f7e9'" onMouseOver="this.bgColor = '#CCFF66'"  >
+							                	<td align=center>97</td>                	               	
+							                	<td>水痘减毒活疫苗</td>                	               	
+							                	<td>0.5ml/支</td>                	               	
+							                	<td align=center>201712093</td> 
+							                	
+							                	<td align=center>50466支</td> 
+							                	<td align=center nowrap>2019年12月28日</td>
+							                	<td align=center >长春长生生物科技有限责任公司</td>
+							                	<td align=center nowrap>SP0404201801341</td>
+							                	<td align=center nowrap>批签中检20181474</td>
+							                	<td align=center nowrap>/</td>
+							                	<td align=center nowrap>2018年04月11日</td>
+							                	
+							                	<td align=center nowrap>予以签发</td>
+							                	
+							                	<td align=center >中国食品药品检定研究院</td>
+							              	</tr>
+				                    		   
+				                           <tr  height=50 bgcolor='#f1f7e9' onMouseOut="this.bgColor = '#f1f7f9'" onMouseOver="this.bgColor = '#CCFF66'"  >
+							                	<td align=center>98</td>                	               	
+							                	<td>水痘减毒活疫苗</td>                	               	
+							                	<td>0.5ml/支</td>                	               	
+							                	<td align=center>201712089</td> 
+							                	
+							                	<td align=center>49993支</td> 
+							                	<td align=center nowrap>2019年12月21日</td>
+							                	<td align=center >长春长生生物科技有限责任公司</td>
+							                	<td align=center nowrap>SP0404201801337</td>
+							                	<td align=center nowrap>批签中检20181483</td>
+							                	<td align=center nowrap>/</td>
+							                	<td align=center nowrap>2018年04月11日</td>
+							                	
+							                	<td align=center nowrap>予以签发</td>
+							                	
+							                	<td align=center >中国食品药品检定研究院</td>
+							              	</tr>
+				                    		   
+				                           <tr  height=50 bgcolor='#f1f7e9' onMouseOut="this.bgColor = '#f1f7e9'" onMouseOver="this.bgColor = '#CCFF66'"  >
+							                	<td align=center>99</td>                	               	
+							                	<td>水痘减毒活疫苗</td>                	               	
+							                	<td>0.5ml/支</td>                	               	
+							                	<td align=center>201712090</td> 
+							                	
+							                	<td align=center>50577支</td> 
+							                	<td align=center nowrap>2019年12月21日</td>
+							                	<td align=center >长春长生生物科技有限责任公司</td>
+							                	<td align=center nowrap>SP0404201801338</td>
+							                	<td align=center nowrap>批签中检20181470</td>
+							                	<td align=center nowrap>/</td>
+							                	<td align=center nowrap>2018年04月11日</td>
+							                	
+							                	<td align=center nowrap>予以签发</td>
+							                	
+							                	<td align=center >中国食品药品检定研究院</td>
+							              	</tr>
+				                    		   
+				                           <tr  height=50 bgcolor='#f1f7e9' onMouseOut="this.bgColor = '#f1f7f9'" onMouseOver="this.bgColor = '#CCFF66'"  >
+							                	<td align=center>100</td>                	               	
+							                	<td>水痘减毒活疫苗</td>                	               	
+							                	<td>复溶后每瓶0.5ml。每1次人用剂量为0.5ml,含水痘-带状疱疹活病毒应不低于3.3 lg PFU。</td>                	               	
+							                	<td align=center>201712075-(1、2）</td> 
+							                	
+							                	<td align=center>71540瓶</td> 
+							                	<td align=center nowrap>2020年12月14日</td>
+							                	<td align=center >长春百克生物科技股份公司</td>
+							                	<td align=center nowrap>SP0404201801684</td>
+							                	<td align=center nowrap>批签中检20181446</td>
+							                	<td align=center nowrap>/</td>
+							                	<td align=center nowrap>2018年04月11日</td>
+							                	
+							                	<td align=center nowrap>予以签发</td>
+							                	
+							                	<td align=center >中国食品药品检定研究院</td>
+							              	</tr>
+				                    		   
+				                           <tr  height=50 bgcolor='#f1f7e9' onMouseOut="this.bgColor = '#f1f7e9'" onMouseOver="this.bgColor = '#CCFF66'"  >
+							                	<td align=center>101</td>                	               	
+							                	<td>水痘减毒活疫苗</td>                	               	
+							                	<td>复溶后每瓶0.5ml。每1次人用剂量为0.5ml,含水痘-带状疱疹活病毒应不低于3.3 lg PFU。</td>                	               	
+							                	<td align=center>201712076-（1、2）</td> 
+							                	
+							                	<td align=center>73935瓶</td> 
+							                	<td align=center nowrap>2020年12月20日</td>
+							                	<td align=center >长春百克生物科技股份公司</td>
+							                	<td align=center nowrap>SP0404201801687</td>
+							                	<td align=center nowrap>批签中检20181448</td>
+							                	<td align=center nowrap>/</td>
+							                	<td align=center nowrap>2018年04月11日</td>
+							                	
+							                	<td align=center nowrap>予以签发</td>
+							                	
+							                	<td align=center >中国食品药品检定研究院</td>
+							              	</tr>
+				                    		   
+				                           <tr  height=50 bgcolor='#f1f7e9' onMouseOut="this.bgColor = '#f1f7f9'" onMouseOver="this.bgColor = '#CCFF66'"  >
+							                	<td align=center>102</td>                	               	
+							                	<td>丙型肝炎病毒抗体诊断试剂盒（酶联免疫法）</td>                	               	
+							                	<td>96人份/盒</td>                	               	
+							                	<td align=center>2018010108</td> 
+							                	
+							                	<td align=center>8956盒</td> 
+							                	<td align=center nowrap>2019年1月30日</td>
+							                	<td align=center >珠海丽珠试剂股份有限公司</td>
+							                	<td align=center nowrap>SP2803201803395</td>
+							                	<td align=center nowrap>批签中检20181407</td>
+							                	<td align=center nowrap>/</td>
+							                	<td align=center nowrap>2018年04月11日</td>
+							                	
+							                	<td align=center nowrap>予以签发</td>
+							                	
+							                	<td align=center >中国食品药品检定研究院</td>
+							              	</tr>
+				                    		   
+				                           <tr  height=50 bgcolor='#f1f7e9' onMouseOut="this.bgColor = '#f1f7e9'" onMouseOver="this.bgColor = '#CCFF66'"  >
+							                	<td align=center>103</td>                	               	
+							                	<td>人血白蛋白</td>                	               	
+							                	<td>50ml:10g</td>                	               	
+							                	<td align=center>20171202</td> 
+							                	
+							                	<td align=center>8703瓶</td> 
+							                	<td align=center nowrap>2020年12月7日</td>
+							                	<td align=center >哈尔滨派斯菲科生物制药股份有限公司</td>
+							                	<td align=center nowrap>SP0412201802386</td>
+							                	<td align=center nowrap>批签中检20181426</td>
+							                	<td align=center nowrap>/</td>
+							                	<td align=center nowrap>2018年04月10日</td>
+							                	
+							                	<td align=center nowrap>予以签发</td>
+							                	
+							                	<td align=center >中国食品药品检定研究院</td>
+							              	</tr>
+				                    		   
+				                           <tr  height=50 bgcolor='#f1f7e9' onMouseOut="this.bgColor = '#f1f7f9'" onMouseOver="this.bgColor = '#CCFF66'"  >
+							                	<td align=center>104</td>                	               	
+							                	<td>A群C群脑膜炎球菌多糖疫苗</td>                	               	
+							                	<td>复溶后每瓶0.5ml。每1次人用剂量0.5ml,含A群、C群脑膜炎球菌荚膜多糖各50μg。</td>                	               	
+							                	<td align=center>D201712141</td> 
+							                	
+							                	<td align=center>92060瓶</td> 
+							                	<td align=center nowrap>2019年12月5日</td>
+							                	<td align=center >玉溪沃森生物技术有限公司</td>
+							                	<td align=center nowrap>SP0408201801064</td>
+							                	<td align=center nowrap>批签中检20181473</td>
+							                	<td align=center nowrap>/</td>
+							                	<td align=center nowrap>2018年04月10日</td>
+							                	
+							                	<td align=center nowrap>予以签发</td>
+							                	
+							                	<td align=center >中国食品药品检定研究院</td>
+							              	</tr>
+				                    		   
+				                           <tr  height=50 bgcolor='#f1f7e9' onMouseOut="this.bgColor = '#f1f7e9'" onMouseOver="this.bgColor = '#CCFF66'"  >
+							                	<td align=center>105</td>                	               	
+							                	<td>A群C群脑膜炎球菌多糖疫苗</td>                	               	
+							                	<td>复溶后每瓶0.5ml。每1次人用剂量0.5ml,含A群、C群脑膜炎球菌荚膜多糖各50μg。</td>                	               	
+							                	<td align=center>D201712142</td> 
+							                	
+							                	<td align=center>90140瓶</td> 
+							                	<td align=center nowrap>2019年12月6日</td>
+							                	<td align=center >玉溪沃森生物技术有限公司</td>
+							                	<td align=center nowrap>SP0408201801065</td>
+							                	<td align=center nowrap>批签中检20181475</td>
+							                	<td align=center nowrap>/</td>
+							                	<td align=center nowrap>2018年04月10日</td>
+							                	
+							                	<td align=center nowrap>予以签发</td>
+							                	
+							                	<td align=center >中国食品药品检定研究院</td>
+							              	</tr>
+				                    		   
+				                           <tr  height=50 bgcolor='#f1f7e9' onMouseOut="this.bgColor = '#f1f7f9'" onMouseOver="this.bgColor = '#CCFF66'"  >
+							                	<td align=center>106</td>                	               	
+							                	<td>A群C群脑膜炎球菌多糖疫苗</td>                	               	
+							                	<td>复溶后每瓶0.5ml。每1次人用剂量0.5ml,含A群、C群脑膜炎球菌荚膜多糖各50μg。</td>                	               	
+							                	<td align=center>D201712143</td> 
+							                	
+							                	<td align=center>91940瓶</td> 
+							                	<td align=center nowrap>2019年12月7日</td>
+							                	<td align=center >玉溪沃森生物技术有限公司</td>
+							                	<td align=center nowrap>SP0408201801066</td>
+							                	<td align=center nowrap>批签中检20181476</td>
+							                	<td align=center nowrap>/</td>
+							                	<td align=center nowrap>2018年04月10日</td>
+							                	
+							                	<td align=center nowrap>予以签发</td>
+							                	
+							                	<td align=center >中国食品药品检定研究院</td>
+							              	</tr>
+				                    		   
+				                           <tr  height=50 bgcolor='#f1f7e9' onMouseOut="this.bgColor = '#f1f7e9'" onMouseOver="this.bgColor = '#CCFF66'"  >
+							                	<td align=center>107</td>                	               	
+							                	<td>A群C群脑膜炎球菌多糖疫苗</td>                	               	
+							                	<td>复溶后每瓶0.5ml。每1次人用剂量0.5ml,含A群、C群脑膜炎球菌荚膜多糖各50μg。</td>                	               	
+							                	<td align=center>D201712144</td> 
+							                	
+							                	<td align=center>92500瓶</td> 
+							                	<td align=center nowrap>2019年12月8日</td>
+							                	<td align=center >玉溪沃森生物技术有限公司</td>
+							                	<td align=center nowrap>SP0408201801067</td>
+							                	<td align=center nowrap>批签中检20181477</td>
+							                	<td align=center nowrap>/</td>
+							                	<td align=center nowrap>2018年04月10日</td>
+							                	
+							                	<td align=center nowrap>予以签发</td>
+							                	
+							                	<td align=center >中国食品药品检定研究院</td>
+							              	</tr>
+				                    		   
+				                           <tr  height=50 bgcolor='#f1f7e9' onMouseOut="this.bgColor = '#f1f7f9'" onMouseOver="this.bgColor = '#CCFF66'"  >
+							                	<td align=center>108</td>                	               	
+							                	<td>人血白蛋白</td>                	               	
+							                	<td>50ml:10g</td>                	               	
+							                	<td align=center>20180101</td> 
+							                	
+							                	<td align=center>8643瓶</td> 
+							                	<td align=center nowrap>2021年1月10日</td>
+							                	<td align=center >哈尔滨派斯菲科生物制药股份有限公司</td>
+							                	<td align=center nowrap>SP0412201802383</td>
+							                	<td align=center nowrap>批签中检20181424</td>
+							                	<td align=center nowrap>/</td>
+							                	<td align=center nowrap>2018年04月10日</td>
+							                	
+							                	<td align=center nowrap>予以签发</td>
+							                	
+							                	<td align=center >中国食品药品检定研究院</td>
+							              	</tr>
+				                    		   
+				                           <tr  height=50 bgcolor='#f1f7e9' onMouseOut="this.bgColor = '#f1f7e9'" onMouseOver="this.bgColor = '#CCFF66'"  >
+							                	<td align=center>109</td>                	               	
+							                	<td>人血白蛋白</td>                	               	
+							                	<td>50ml:10g</td>                	               	
+							                	<td align=center>20171203</td> 
+							                	
+							                	<td align=center>8771瓶</td> 
+							                	<td align=center nowrap>2020年12月14日</td>
+							                	<td align=center >哈尔滨派斯菲科生物制药股份有限公司</td>
+							                	<td align=center nowrap>SP0412201802387</td>
+							                	<td align=center nowrap>批签中检20181427</td>
+							                	<td align=center nowrap>/</td>
+							                	<td align=center nowrap>2018年04月10日</td>
+							                	
+							                	<td align=center nowrap>予以签发</td>
+							                	
+							                	<td align=center >中国食品药品检定研究院</td>
+							              	</tr>
+				                    		   
+				                           <tr  height=50 bgcolor='#f1f7e9' onMouseOut="this.bgColor = '#f1f7f9'" onMouseOver="this.bgColor = '#CCFF66'"  >
+							                	<td align=center>110</td>                	               	
+							                	<td>人血白蛋白</td>                	               	
+							                	<td>50ml:10g</td>                	               	
+							                	<td align=center>20180102</td> 
+							                	
+							                	<td align=center>8776瓶</td> 
+							                	<td align=center nowrap>2021年1月15日</td>
+							                	<td align=center >哈尔滨派斯菲科生物制药股份有限公司</td>
+							                	<td align=center nowrap>SP0412201802384</td>
+							                	<td align=center nowrap>批签中检20181425</td>
+							                	<td align=center nowrap>/</td>
+							                	<td align=center nowrap>2018年04月10日</td>
+							                	
+							                	<td align=center nowrap>予以签发</td>
+							                	
+							                	<td align=center >中国食品药品检定研究院</td>
+							              	</tr>
+				                    		   
+				                           <tr  height=50 bgcolor='#f1f7e9' onMouseOut="this.bgColor = '#f1f7e9'" onMouseOver="this.bgColor = '#CCFF66'"  >
+							                	<td align=center>111</td>                	               	
+							                	<td>静注人免疫球蛋白（pH4）</td>                	               	
+							                	<td>50ml:2.5g</td>                	               	
+							                	<td align=center>20180101</td> 
+							                	
+							                	<td align=center>3537瓶</td> 
+							                	<td align=center nowrap>2021年1月11日</td>
+							                	<td align=center >哈尔滨派斯菲科生物制药股份有限公司</td>
+							                	<td align=center nowrap>SP0412201802389</td>
+							                	<td align=center nowrap>批签中检20181405</td>
+							                	<td align=center nowrap>/</td>
+							                	<td align=center nowrap>2018年04月10日</td>
+							                	
+							                	<td align=center nowrap>予以签发</td>
+							                	
+							                	<td align=center >中国食品药品检定研究院</td>
+							              	</tr>
+				                    		   
+				                           <tr  height=50 bgcolor='#f1f7e9' onMouseOut="this.bgColor = '#f1f7f9'" onMouseOver="this.bgColor = '#CCFF66'"  >
+							                	<td align=center>112</td>                	               	
+							                	<td>丙型肝炎病毒抗体诊断试剂盒（酶联免疫法）</td>                	               	
+							                	<td>96人份/盒</td>                	               	
+							                	<td align=center>2018010312</td> 
+							                	
+							                	<td align=center>2963盒</td> 
+							                	<td align=center nowrap>2019年1月29日</td>
+							                	<td align=center >珠海丽珠试剂股份有限公司</td>
+							                	<td align=center nowrap>SP2803201803394</td>
+							                	<td align=center nowrap>批签中检20181406</td>
+							                	<td align=center nowrap>/</td>
+							                	<td align=center nowrap>2018年04月11日</td>
+							                	
+							                	<td align=center nowrap>予以签发</td>
+							                	
+							                	<td align=center >中国食品药品检定研究院</td>
+							              	</tr>
+				                    		   
+				                           <tr  height=50 bgcolor='#f1f7e9' onMouseOut="this.bgColor = '#f1f7e9'" onMouseOver="this.bgColor = '#CCFF66'"  >
+							                	<td align=center>113</td>                	               	
+							                	<td>无细胞百白破b型流感嗜血杆菌联合疫苗</td>                	               	
+							                	<td>吸附无细胞百白破联合疫苗:1瓶（0.5ml）,b型流感嗜血杆菌结合疫苗1瓶（10μg/0.5ml）,混合后肌内注射。</td>                	               	
+							                	<td align=center>A20171108</td> 
+							                	
+							                	<td align=center>71788瓶</td> 
+							                	<td align=center nowrap>2019年11月29日</td>
+							                	<td align=center >北京民海生物科技有限公司</td>
+							                	<td align=center nowrap>SP0411201802627</td>
+							                	<td align=center nowrap>批签中检20181504</td>
+							                	<td align=center nowrap>/</td>
+							                	<td align=center nowrap>2018年04月11日</td>
+							                	
+							                	<td align=center nowrap>予以签发</td>
+							                	
+							                	<td align=center >中国食品药品检定研究院</td>
+							              	</tr>
+				                    		   
+				                           <tr  height=50 bgcolor='#f1f7e9' onMouseOut="this.bgColor = '#f1f7f9'" onMouseOver="this.bgColor = '#CCFF66'"  >
+							                	<td align=center>114</td>                	               	
+							                	<td>丙型肝炎病毒抗体诊断试剂盒（酶联免疫法）</td>                	               	
+							                	<td>96人份/盒</td>                	               	
+							                	<td align=center>20180101CV</td> 
+							                	
+							                	<td align=center>2936盒</td> 
+							                	<td align=center nowrap>2019年2月23日</td>
+							                	<td align=center >沈阳惠民生物技术有限公司</td>
+							                	<td align=center nowrap>SP2803201802968</td>
+							                	<td align=center nowrap>批签中检20181309</td>
+							                	<td align=center nowrap>/</td>
+							                	<td align=center nowrap>2018年04月11日</td>
+							                	
+							                	<td align=center nowrap>予以签发</td>
+							                	
+							                	<td align=center >中国食品药品检定研究院</td>
+							              	</tr>
+				                    		   
+				                           <tr  height=50 bgcolor='#f1f7e9' onMouseOut="this.bgColor = '#f1f7e9'" onMouseOver="this.bgColor = '#CCFF66'"  >
+							                	<td align=center>115</td>                	               	
+							                	<td>冻干人用狂犬病疫苗（Vero细胞）</td>                	               	
+							                	<td>重溶后每瓶0.5ml</td>                	               	
+							                	<td align=center>201711377</td> 
+							                	
+							                	<td align=center>74428瓶</td> 
+							                	<td align=center nowrap>2020年11月8日</td>
+							                	<td align=center >辽宁成大生物股份有限公司</td>
+							                	<td align=center nowrap>SP0402201801309</td>
+							                	<td align=center nowrap>批签中检20181456</td>
+							                	<td align=center nowrap>/</td>
+							                	<td align=center nowrap>2018年04月10日</td>
+							                	
+							                	<td align=center nowrap>予以签发</td>
+							                	
+							                	<td align=center >中国食品药品检定研究院</td>
+							              	</tr>
+				                    		   
+				                           <tr  height=50 bgcolor='#f1f7e9' onMouseOut="this.bgColor = '#f1f7f9'" onMouseOver="this.bgColor = '#CCFF66'"  >
+							                	<td align=center>116</td>                	               	
+							                	<td>冻干人用狂犬病疫苗（Vero细胞）</td>                	               	
+							                	<td>重溶后每瓶0.5ml</td>                	               	
+							                	<td align=center>201711378</td> 
+							                	
+							                	<td align=center>73832瓶</td> 
+							                	<td align=center nowrap>2020年11月8日</td>
+							                	<td align=center >辽宁成大生物股份有限公司</td>
+							                	<td align=center nowrap>SP0402201801310</td>
+							                	<td align=center nowrap>批签中检20181457</td>
+							                	<td align=center nowrap>/</td>
+							                	<td align=center nowrap>2018年04月10日</td>
+							                	
+							                	<td align=center nowrap>予以签发</td>
+							                	
+							                	<td align=center >中国食品药品检定研究院</td>
+							              	</tr>
+				                    		   
+				                           <tr  height=50 bgcolor='#f1f7e9' onMouseOut="this.bgColor = '#f1f7e9'" onMouseOver="this.bgColor = '#CCFF66'"  >
+							                	<td align=center>117</td>                	               	
+							                	<td>冻干人用狂犬病疫苗（Vero细胞）</td>                	               	
+							                	<td>重溶后每瓶0.5ml</td>                	               	
+							                	<td align=center>201711379</td> 
+							                	
+							                	<td align=center>74652瓶</td> 
+							                	<td align=center nowrap>2020年11月9日</td>
+							                	<td align=center >辽宁成大生物股份有限公司</td>
+							                	<td align=center nowrap>SP0402201801311</td>
+							                	<td align=center nowrap>批签中检20181458</td>
+							                	<td align=center nowrap>/</td>
+							                	<td align=center nowrap>2018年04月10日</td>
+							                	
+							                	<td align=center nowrap>予以签发</td>
+							                	
+							                	<td align=center >中国食品药品检定研究院</td>
+							              	</tr>
+				                    		   
+				                           <tr  height=50 bgcolor='#f1f7e9' onMouseOut="this.bgColor = '#f1f7f9'" onMouseOver="this.bgColor = '#CCFF66'"  >
+							                	<td align=center>118</td>                	               	
+							                	<td>冻干人用狂犬病疫苗（Vero细胞）</td>                	               	
+							                	<td>重溶后每瓶0.5ml</td>                	               	
+							                	<td align=center>201711380</td> 
+							                	
+							                	<td align=center>74868瓶</td> 
+							                	<td align=center nowrap>2020年11月9日</td>
+							                	<td align=center >辽宁成大生物股份有限公司</td>
+							                	<td align=center nowrap>SP0402201801312</td>
+							                	<td align=center nowrap>批签中检20181459</td>
+							                	<td align=center nowrap>/</td>
+							                	<td align=center nowrap>2018年04月10日</td>
+							                	
+							                	<td align=center nowrap>予以签发</td>
+							                	
+							                	<td align=center >中国食品药品检定研究院</td>
+							              	</tr>
+				                    		   
+				                           <tr  height=50 bgcolor='#f1f7e9' onMouseOut="this.bgColor = '#f1f7e9'" onMouseOver="this.bgColor = '#CCFF66'"  >
+							                	<td align=center>119</td>                	               	
+							                	<td>冻干人用狂犬病疫苗（Vero细胞）</td>                	               	
+							                	<td>重溶后每瓶0.5ml</td>                	               	
+							                	<td align=center>201711381</td> 
+							                	
+							                	<td align=center>74580瓶</td> 
+							                	<td align=center nowrap>2020年11月9日</td>
+							                	<td align=center >辽宁成大生物股份有限公司</td>
+							                	<td align=center nowrap>SP0402201801313</td>
+							                	<td align=center nowrap>批签中检20181460</td>
+							                	<td align=center nowrap>/</td>
+							                	<td align=center nowrap>2018年04月10日</td>
+							                	
+							                	<td align=center nowrap>予以签发</td>
+							                	
+							                	<td align=center >中国食品药品检定研究院</td>
+							              	</tr>
+				                    	
+				            </table>
+				        </td>
+				    </tr>
+			</TABLE>
+	</DIV>
+</DIV>
+</CENTER>
+</HTML>

@@ -1,0 +1,781 @@
+
+
+
+
+<html>
+
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "">
+<HTML>
+<HEAD>
+<TITLE>中国食品药品检定研究院</TITLE>
+<link href="styles/style_1.css" rel="stylesheet" type="text/css" />
+<META content="text/html; charset=GBK" http-equiv=Content-Type>
+<STYLE>BODY {
+	FONT-SIZE: 12px; BORDER-TOP: 0px; FONT-FAMILY: "宋体"; BORDER-RIGHT: 0px; BORDER-BOTTOM: 0px; PADDING-BOTTOM: 0px; PADDING-TOP: 0px; PADDING-LEFT: 0px; BORDER-LEFT: 0px; MARGIN: 0px; PADDING-RIGHT: 0px
+}
+A {
+	FONT-SIZE: 12px; BORDER-TOP: 0px; FONT-FAMILY: "宋体"; BORDER-RIGHT: 0px; BORDER-BOTTOM: 0px; PADDING-BOTTOM: 0px; PADDING-TOP: 0px; PADDING-LEFT: 0px; BORDER-LEFT: 0px; MARGIN: 0px; PADDING-RIGHT: 0px
+}
+P {
+	FONT-SIZE: 12px; BORDER-TOP: 0px; FONT-FAMILY: "宋体"; BORDER-RIGHT: 0px; BORDER-BOTTOM: 0px; PADDING-BOTTOM: 0px; PADDING-TOP: 0px; PADDING-LEFT: 0px; BORDER-LEFT: 0px; MARGIN: 0px; PADDING-RIGHT: 0px
+}
+UL {
+	FONT-SIZE: 12px; BORDER-TOP: 0px; FONT-FAMILY: "宋体"; BORDER-RIGHT: 0px; BORDER-BOTTOM: 0px; PADDING-BOTTOM: 0px; PADDING-TOP: 0px; PADDING-LEFT: 0px; BORDER-LEFT: 0px; MARGIN: 0px; PADDING-RIGHT: 0px
+}
+LI {
+	FONT-SIZE: 12px; BORDER-TOP: 0px; FONT-FAMILY: "宋体"; BORDER-RIGHT: 0px; BORDER-BOTTOM: 0px; PADDING-BOTTOM: 0px; PADDING-TOP: 0px; PADDING-LEFT: 0px; BORDER-LEFT: 0px; MARGIN: 0px; PADDING-RIGHT: 0px
+}
+UL {
+	LIST-STYLE-TYPE: none
+}
+LI {
+	LIST-STYLE-TYPE: none
+}
+.middle {
+	HEIGHT: auto; WIDTH: 100%; MARGIN: auto
+}
+.top {
+	 WIDTH: 100%; BACKGROUND: url(images/top_02.png) repeat-x
+}
+.topfont {
+	FONT-SIZE: 22px;
+	float:center;
+	text-align:center;
+	vertical-align:middle;
+	margin-top:20;
+}
+.content {
+	HEIGHT: 805px;WIDTH: 100%; BACKGROUND: url(images/content_09.png) repeat-x
+}
+.content UL {
+	WIDTH: 100%; FLOAT: left
+}
+.content UL LI {
+	FLOAT: left
+}
+
+</STYLE>
+</HEAD>
+
+<BODY>
+<CENTER align="center">
+<DIV class=middle>
+	<DIV class=top>
+		<DIV class=topfont>生物制品批签发产品公示情况汇总 </DIV>
+	</DIV>
+	<DIV class=content>
+			<TABLE border=0 cellSpacing=0 cellPadding=0  style="width: 100%">
+				     <tr valign="top">
+				    	<td align="center">
+				        	<table class="list_table" style="font-size:16px;" border=0 cellspacing="1" cellPadding=0 width="98%" align="center" bgcolor="#f6f7fb" onClick="sortColumn(event)">
+				            <thead>
+			             	<tr bgcolor="#C9DBF2" height=30>
+								<td   width="2%" align=center nowrap >序号</td>             	 	
+		 						<td   width="10%" align=center nowrap>产品名称</td>
+		 						<td   width="8%" align=center nowrap>规格</td>
+			             	 	<td   width="5%" align=center>批号</td>
+			             	 	<td   width="5%" align=center nowrap>签发量/拒签量</td>
+			             	 	<td   width="5%" align=center nowrap>有效期至</td>
+			             	 	<td   width="12%" align=center nowrap>生产企业</td>
+			             	 	<td   width="6%" align=center nowrap>收检编号</td>
+			             	 	<td   width="7%" align=center nowrap>证书编号</td>
+			             	 	<td   width="6%" align=center nowrap>报告编号</td>
+			             	 	<td   width="6%" align=center nowrap>签发日期</td>
+			             	 	<td   width="5%" align=center nowrap>签发结论</td>
+			             	 	<td   width="9%" align=center nowrap>批签发机构</td>
+			                 </tr>
+			       		   </thead>
+				                    		   
+				                           <tr  height=50 bgcolor='#f1f7e9' onMouseOut="this.bgColor = '#f1f7e9'" onMouseOver="this.bgColor = '#CCFF66'"  >
+							                	<td align=center>1</td>                	               	
+							                	<td>人血白蛋白</td>                	               	
+							                	<td>10g/瓶(20%,50ml)</td>                	               	
+							                	<td align=center>20180627</td> 
+							                	
+							                	<td align=center>16268瓶</td> 
+							                	<td align=center nowrap>2021年6月29日</td>
+							                	<td align=center >博雅生物制药集团股份有限公司</td>
+							                	<td align=center nowrap>SH201801031</td>
+							                	<td align=center nowrap>批签沪检20180999</td>
+							                	<td align=center nowrap>bgs201800999</td>
+							                	<td align=center nowrap>2018年10月18日</td>
+							                	
+							                	<td align=center nowrap>该批制品符合规定，建议予以签发</td>
+							                	
+							                	<td align=center >上海市食品药品检验所</td>
+							              	</tr>
+				                    		   
+				                           <tr  height=50 bgcolor='#f1f7e9' onMouseOut="this.bgColor = '#f1f7f9'" onMouseOver="this.bgColor = '#CCFF66'"  >
+							                	<td align=center>2</td>                	               	
+							                	<td>人血白蛋白</td>                	               	
+							                	<td>10g/瓶(20%,50ml)</td>                	               	
+							                	<td align=center>20180628</td> 
+							                	
+							                	<td align=center>16056瓶</td> 
+							                	<td align=center nowrap>2021年7月2日</td>
+							                	<td align=center >博雅生物制药集团股份有限公司</td>
+							                	<td align=center nowrap>SH201801032</td>
+							                	<td align=center nowrap>批签沪检20181000</td>
+							                	<td align=center nowrap>bgs201801000</td>
+							                	<td align=center nowrap>2018年10月18日</td>
+							                	
+							                	<td align=center nowrap>该批制品符合规定，建议予以签发</td>
+							                	
+							                	<td align=center >上海市食品药品检验所</td>
+							              	</tr>
+				                    		   
+				                           <tr  height=50 bgcolor='#f1f7e9' onMouseOut="this.bgColor = '#f1f7e9'" onMouseOver="this.bgColor = '#CCFF66'"  >
+							                	<td align=center>3</td>                	               	
+							                	<td>狂犬病人免疫球蛋白</td>                	               	
+							                	<td>每瓶含狂犬病抗体200IU(2ml)</td>                	               	
+							                	<td align=center>20180603(1-3)</td> 
+							                	
+							                	<td align=center>136403瓶</td> 
+							                	<td align=center nowrap>2020年7月1日</td>
+							                	<td align=center >博雅生物制药集团股份有限公司</td>
+							                	<td align=center nowrap>SH201801033</td>
+							                	<td align=center nowrap>批签沪检20181001</td>
+							                	<td align=center nowrap>bgs201801001</td>
+							                	<td align=center nowrap>2018年10月18日</td>
+							                	
+							                	<td align=center nowrap>该批制品符合规定，建议予以签发</td>
+							                	
+							                	<td align=center >上海市食品药品检验所</td>
+							              	</tr>
+				                    		   
+				                           <tr  height=50 bgcolor='#f1f7e9' onMouseOut="this.bgColor = '#f1f7f9'" onMouseOver="this.bgColor = '#CCFF66'"  >
+							                	<td align=center>4</td>                	               	
+							                	<td>人血白蛋白</td>                	               	
+							                	<td>10g</td>                	               	
+							                	<td align=center>20180515A</td> 
+							                	
+							                	<td align=center>7536瓶</td> 
+							                	<td align=center nowrap>2023年5月29日</td>
+							                	<td align=center >上海新兴医药股份有限公司</td>
+							                	<td align=center nowrap>SH201801043</td>
+							                	<td align=center nowrap>批签沪检20181011</td>
+							                	<td align=center nowrap>bgs201801011</td>
+							                	<td align=center nowrap>2018年10月18日</td>
+							                	
+							                	<td align=center nowrap>该批制品符合规定，建议予以签发</td>
+							                	
+							                	<td align=center >上海市食品药品检验所</td>
+							              	</tr>
+				                    		   
+				                           <tr  height=50 bgcolor='#f1f7e9' onMouseOut="this.bgColor = '#f1f7e9'" onMouseOver="this.bgColor = '#CCFF66'"  >
+							                	<td align=center>5</td>                	               	
+							                	<td>人血白蛋白</td>                	               	
+							                	<td>12.5g(25%,50ml)/瓶</td>                	               	
+							                	<td align=center>M810A6671</td> 
+							                	
+							                	<td align=center>11482瓶</td> 
+							                	<td align=center nowrap>2021年3月14日</td>
+							                	<td align=center >奥克特珐玛AB公司（瑞典）</td>
+							                	<td align=center nowrap>SH201800859</td>
+							                	<td align=center nowrap>批签沪（进）检20180827</td>
+							                	<td align=center nowrap>bgs201800827</td>
+							                	<td align=center nowrap>2018年10月15日</td>
+							                	
+							                	<td align=center nowrap>该批制品符合规定，建议予以签发</td>
+							                	
+							                	<td align=center >上海市食品药品检验所</td>
+							              	</tr>
+				                    		   
+				                           <tr  height=50 bgcolor='#f1f7e9' onMouseOut="this.bgColor = '#f1f7f9'" onMouseOver="this.bgColor = '#CCFF66'"  >
+							                	<td align=center>6</td>                	               	
+							                	<td>人血白蛋白</td>                	               	
+							                	<td>10g(20%,50ml)/瓶</td>                	               	
+							                	<td align=center>A4T115AA</td> 
+							                	
+							                	<td align=center>22478瓶</td> 
+							                	<td align=center nowrap>2021年3月31日</td>
+							                	<td align=center >Baxter AG/奥地利</td>
+							                	<td align=center nowrap>SH201800942</td>
+							                	<td align=center nowrap>批签沪（进）检20180910</td>
+							                	<td align=center nowrap>bgs201800910</td>
+							                	<td align=center nowrap>2018年10月18日</td>
+							                	
+							                	<td align=center nowrap>该批制品符合规定，建议予以签发</td>
+							                	
+							                	<td align=center >上海市食品药品检验所</td>
+							              	</tr>
+				                    		   
+				                           <tr  height=50 bgcolor='#f1f7e9' onMouseOut="this.bgColor = '#f1f7e9'" onMouseOver="this.bgColor = '#CCFF66'"  >
+							                	<td align=center>7</td>                	               	
+							                	<td>人血白蛋白</td>                	               	
+							                	<td>10g(20%,50ml)/瓶</td>                	               	
+							                	<td align=center>A4T117AA</td> 
+							                	
+							                	<td align=center>22354瓶</td> 
+							                	<td align=center nowrap>2021年3月31日</td>
+							                	<td align=center >Baxter AG/奥地利</td>
+							                	<td align=center nowrap>SH201800943</td>
+							                	<td align=center nowrap>批签沪（进）检20180911</td>
+							                	<td align=center nowrap>bgs201800911</td>
+							                	<td align=center nowrap>2018年10月18日</td>
+							                	
+							                	<td align=center nowrap>该批制品符合规定，建议予以签发</td>
+							                	
+							                	<td align=center >上海市食品药品检验所</td>
+							              	</tr>
+				                    		   
+				                           <tr  height=50 bgcolor='#f1f7e9' onMouseOut="this.bgColor = '#f1f7f9'" onMouseOver="this.bgColor = '#CCFF66'"  >
+							                	<td align=center>8</td>                	               	
+							                	<td>人血白蛋白</td>                	               	
+							                	<td>10g(20%,50ml)/瓶</td>                	               	
+							                	<td align=center>A4T136AA</td> 
+							                	
+							                	<td align=center>13482瓶</td> 
+							                	<td align=center nowrap>2021年4月30日</td>
+							                	<td align=center >Baxter AG/奥地利</td>
+							                	<td align=center nowrap>SH201800944</td>
+							                	<td align=center nowrap>批签沪（进）检20180912</td>
+							                	<td align=center nowrap>bgs201800912</td>
+							                	<td align=center nowrap>2018年10月18日</td>
+							                	
+							                	<td align=center nowrap>该批制品符合规定，建议予以签发</td>
+							                	
+							                	<td align=center >上海市食品药品检验所</td>
+							              	</tr>
+				                    		   
+				                           <tr  height=50 bgcolor='#f1f7e9' onMouseOut="this.bgColor = '#f1f7e9'" onMouseOver="this.bgColor = '#CCFF66'"  >
+							                	<td align=center>9</td>                	               	
+							                	<td>人血白蛋白</td>                	               	
+							                	<td>10g(20%,50ml)/瓶</td>                	               	
+							                	<td align=center>A4T132AAA</td> 
+							                	
+							                	<td align=center>14377瓶</td> 
+							                	<td align=center nowrap>2021年4月30日</td>
+							                	<td align=center >Baxter AG/奥地利</td>
+							                	<td align=center nowrap>SH201800945</td>
+							                	<td align=center nowrap>批签沪（进）检20180913</td>
+							                	<td align=center nowrap>bgs201800913</td>
+							                	<td align=center nowrap>2018年10月18日</td>
+							                	
+							                	<td align=center nowrap>该批制品符合规定，建议予以签发</td>
+							                	
+							                	<td align=center >上海市食品药品检验所</td>
+							              	</tr>
+				                    		   
+				                           <tr  height=50 bgcolor='#f1f7e9' onMouseOut="this.bgColor = '#f1f7f9'" onMouseOver="this.bgColor = '#CCFF66'"  >
+							                	<td align=center>10</td>                	               	
+							                	<td>人血白蛋白</td>                	               	
+							                	<td>10g(20%,50ml)/瓶</td>                	               	
+							                	<td align=center>A4T137AA</td> 
+							                	
+							                	<td align=center>22440瓶</td> 
+							                	<td align=center nowrap>2021年4月30日</td>
+							                	<td align=center >Baxter AG/奥地利</td>
+							                	<td align=center nowrap>SH201800946</td>
+							                	<td align=center nowrap>批签沪（进）检20180914</td>
+							                	<td align=center nowrap>bgs201800914</td>
+							                	<td align=center nowrap>2018年10月18日</td>
+							                	
+							                	<td align=center nowrap>该批制品符合规定，建议予以签发</td>
+							                	
+							                	<td align=center >上海市食品药品检验所</td>
+							              	</tr>
+				                    		   
+				                           <tr  height=50 bgcolor='#f1f7e9' onMouseOut="this.bgColor = '#f1f7e9'" onMouseOver="this.bgColor = '#CCFF66'"  >
+							                	<td align=center>11</td>                	               	
+							                	<td>人血白蛋白</td>                	               	
+							                	<td>10g(20%,50ml)/瓶</td>                	               	
+							                	<td align=center>A4T140AA</td> 
+							                	
+							                	<td align=center>22433瓶</td> 
+							                	<td align=center nowrap>2021年4月30日</td>
+							                	<td align=center >Baxter AG/奥地利</td>
+							                	<td align=center nowrap>SH201800947</td>
+							                	<td align=center nowrap>批签沪（进）检20180915</td>
+							                	<td align=center nowrap>bgs201800915</td>
+							                	<td align=center nowrap>2018年10月18日</td>
+							                	
+							                	<td align=center nowrap>该批制品符合规定，建议予以签发</td>
+							                	
+							                	<td align=center >上海市食品药品检验所</td>
+							              	</tr>
+				                    		   
+				                           <tr  height=50 bgcolor='#f1f7e9' onMouseOut="this.bgColor = '#f1f7f9'" onMouseOver="this.bgColor = '#CCFF66'"  >
+							                	<td align=center>12</td>                	               	
+							                	<td>人血白蛋白</td>                	               	
+							                	<td>10g(20%,50ml)/瓶</td>                	               	
+							                	<td align=center>A4T129AA</td> 
+							                	
+							                	<td align=center>22348瓶</td> 
+							                	<td align=center nowrap>2021年4月30日</td>
+							                	<td align=center >Baxter AG/奥地利</td>
+							                	<td align=center nowrap>SH201800961</td>
+							                	<td align=center nowrap>批签沪（进）检20180929</td>
+							                	<td align=center nowrap>bgs201800929</td>
+							                	<td align=center nowrap>2018年10月18日</td>
+							                	
+							                	<td align=center nowrap>该批制品符合规定，建议予以签发</td>
+							                	
+							                	<td align=center >上海市食品药品检验所</td>
+							              	</tr>
+				                    		   
+				                           <tr  height=50 bgcolor='#f1f7e9' onMouseOut="this.bgColor = '#f1f7e9'" onMouseOver="this.bgColor = '#CCFF66'"  >
+							                	<td align=center>13</td>                	               	
+							                	<td>人血白蛋白</td>                	               	
+							                	<td>10g(20%,50ml)/瓶</td>                	               	
+							                	<td align=center>A4T130AA</td> 
+							                	
+							                	<td align=center>22436瓶</td> 
+							                	<td align=center nowrap>2021年4月30日</td>
+							                	<td align=center >Baxter AG/奥地利</td>
+							                	<td align=center nowrap>SH201800962</td>
+							                	<td align=center nowrap>批签沪（进）检20180930</td>
+							                	<td align=center nowrap>bgs201800930</td>
+							                	<td align=center nowrap>2018年10月18日</td>
+							                	
+							                	<td align=center nowrap>该批制品符合规定，建议予以签发</td>
+							                	
+							                	<td align=center >上海市食品药品检验所</td>
+							              	</tr>
+				                    		   
+				                           <tr  height=50 bgcolor='#f1f7e9' onMouseOut="this.bgColor = '#f1f7f9'" onMouseOver="this.bgColor = '#CCFF66'"  >
+							                	<td align=center>14</td>                	               	
+							                	<td>人血白蛋白</td>                	               	
+							                	<td>10g(20%,50ml)/瓶</td>                	               	
+							                	<td align=center>A4T131AA</td> 
+							                	
+							                	<td align=center>22410瓶</td> 
+							                	<td align=center nowrap>2021年4月30日</td>
+							                	<td align=center >Baxter AG/奥地利</td>
+							                	<td align=center nowrap>SH201800963</td>
+							                	<td align=center nowrap>批签沪（进）检20180931</td>
+							                	<td align=center nowrap>bgs201800931</td>
+							                	<td align=center nowrap>2018年10月18日</td>
+							                	
+							                	<td align=center nowrap>该批制品符合规定，建议予以签发</td>
+							                	
+							                	<td align=center >上海市食品药品检验所</td>
+							              	</tr>
+				                    		   
+				                           <tr  height=50 bgcolor='#f1f7e9' onMouseOut="this.bgColor = '#f1f7e9'" onMouseOver="this.bgColor = '#CCFF66'"  >
+							                	<td align=center>15</td>                	               	
+							                	<td>人血白蛋白</td>                	               	
+							                	<td>10g(20%,50ml)/瓶</td>                	               	
+							                	<td align=center>A4T134AA</td> 
+							                	
+							                	<td align=center>22051瓶</td> 
+							                	<td align=center nowrap>2021年4月30日</td>
+							                	<td align=center >Baxter AG/奥地利</td>
+							                	<td align=center nowrap>SH201800964</td>
+							                	<td align=center nowrap>批签沪（进）检20180932</td>
+							                	<td align=center nowrap>bgs201800932</td>
+							                	<td align=center nowrap>2018年10月18日</td>
+							                	
+							                	<td align=center nowrap>该批制品符合规定，建议予以签发</td>
+							                	
+							                	<td align=center >上海市食品药品检验所</td>
+							              	</tr>
+				                    		   
+				                           <tr  height=50 bgcolor='#f1f7e9' onMouseOut="this.bgColor = '#f1f7f9'" onMouseOver="this.bgColor = '#CCFF66'"  >
+							                	<td align=center>16</td>                	               	
+							                	<td>人血白蛋白</td>                	               	
+							                	<td>10g(20%,50ml)/瓶</td>                	               	
+							                	<td align=center>M817C6661</td> 
+							                	
+							                	<td align=center>17467瓶</td> 
+							                	<td align=center nowrap>2021年4月28日</td>
+							                	<td align=center >奥克特珐玛AB公司（瑞典）</td>
+							                	<td align=center nowrap>SH201800965</td>
+							                	<td align=center nowrap>批签沪（进）检20180933</td>
+							                	<td align=center nowrap>bgs201800933</td>
+							                	<td align=center nowrap>2018年10月18日</td>
+							                	
+							                	<td align=center nowrap>该批制品符合规定，建议予以签发</td>
+							                	
+							                	<td align=center >上海市食品药品检验所</td>
+							              	</tr>
+				                    		   
+				                           <tr  height=50 bgcolor='#f1f7e9' onMouseOut="this.bgColor = '#f1f7e9'" onMouseOver="this.bgColor = '#CCFF66'"  >
+							                	<td align=center>17</td>                	               	
+							                	<td>人血白蛋白</td>                	               	
+							                	<td>10g(20%,50ml)/瓶</td>                	               	
+							                	<td align=center>M819A6661</td> 
+							                	
+							                	<td align=center>16628瓶</td> 
+							                	<td align=center nowrap>2021年5月6日</td>
+							                	<td align=center >奥克特珐玛AB公司（瑞典）</td>
+							                	<td align=center nowrap>SH201800966</td>
+							                	<td align=center nowrap>批签沪（进）检20180934</td>
+							                	<td align=center nowrap>bgs201800934</td>
+							                	<td align=center nowrap>2018年10月18日</td>
+							                	
+							                	<td align=center nowrap>该批制品符合规定，建议予以签发</td>
+							                	
+							                	<td align=center >上海市食品药品检验所</td>
+							              	</tr>
+				                    		   
+				                           <tr  height=50 bgcolor='#f1f7e9' onMouseOut="this.bgColor = '#f1f7f9'" onMouseOver="this.bgColor = '#CCFF66'"  >
+							                	<td align=center>18</td>                	               	
+							                	<td>人血白蛋白</td>                	               	
+							                	<td>10g(20%,50ml)/瓶</td>                	               	
+							                	<td align=center>M819B6661</td> 
+							                	
+							                	<td align=center>16599瓶</td> 
+							                	<td align=center nowrap>2021年5月12日</td>
+							                	<td align=center >奥克特珐玛AB公司（瑞典）</td>
+							                	<td align=center nowrap>SH201800967</td>
+							                	<td align=center nowrap>批签沪（进）检20180935</td>
+							                	<td align=center nowrap>bgs201800935</td>
+							                	<td align=center nowrap>2018年10月18日</td>
+							                	
+							                	<td align=center nowrap>该批制品符合规定，建议予以签发</td>
+							                	
+							                	<td align=center >上海市食品药品检验所</td>
+							              	</tr>
+				                    		   
+				                           <tr  height=50 bgcolor='#f1f7e9' onMouseOut="this.bgColor = '#f1f7e9'" onMouseOver="this.bgColor = '#CCFF66'"  >
+							                	<td align=center>19</td>                	               	
+							                	<td>人血白蛋白</td>                	               	
+							                	<td>10g(20%,50ml)/瓶</td>                	               	
+							                	<td align=center>M816A6661</td> 
+							                	
+							                	<td align=center>17696瓶</td> 
+							                	<td align=center nowrap>2021年4月16日</td>
+							                	<td align=center >奥克特珐玛AB公司（瑞典）</td>
+							                	<td align=center nowrap>SH201800968</td>
+							                	<td align=center nowrap>批签沪（进）检20180936</td>
+							                	<td align=center nowrap>bgs201800936</td>
+							                	<td align=center nowrap>2018年10月18日</td>
+							                	
+							                	<td align=center nowrap>该批制品符合规定，建议予以签发</td>
+							                	
+							                	<td align=center >上海市食品药品检验所</td>
+							              	</tr>
+				                    		   
+				                           <tr  height=50 bgcolor='#f1f7e9' onMouseOut="this.bgColor = '#f1f7f9'" onMouseOver="this.bgColor = '#CCFF66'"  >
+							                	<td align=center>20</td>                	               	
+							                	<td>人血白蛋白</td>                	               	
+							                	<td>10g(20%,50ml)/瓶</td>                	               	
+							                	<td align=center>M816B6661</td> 
+							                	
+							                	<td align=center>17067瓶</td> 
+							                	<td align=center nowrap>2021年4月16日</td>
+							                	<td align=center >奥克特珐玛AB公司（瑞典）</td>
+							                	<td align=center nowrap>SH201800969</td>
+							                	<td align=center nowrap>批签沪（进）检20180937</td>
+							                	<td align=center nowrap>bgs201800937</td>
+							                	<td align=center nowrap>2018年10月18日</td>
+							                	
+							                	<td align=center nowrap>该批制品符合规定，建议予以签发</td>
+							                	
+							                	<td align=center >上海市食品药品检验所</td>
+							              	</tr>
+				                    		   
+				                           <tr  height=50 bgcolor='#f1f7e9' onMouseOut="this.bgColor = '#f1f7e9'" onMouseOver="this.bgColor = '#CCFF66'"  >
+							                	<td align=center>21</td>                	               	
+							                	<td>人血白蛋白</td>                	               	
+							                	<td>10g(20%,50ml)/瓶</td>                	               	
+							                	<td align=center>M816C6661</td> 
+							                	
+							                	<td align=center>16963瓶</td> 
+							                	<td align=center nowrap>2021年4月18日</td>
+							                	<td align=center >奥克特珐玛AB公司（瑞典）</td>
+							                	<td align=center nowrap>SH201800970</td>
+							                	<td align=center nowrap>批签沪（进）检20180938</td>
+							                	<td align=center nowrap>bgs201800938</td>
+							                	<td align=center nowrap>2018年10月18日</td>
+							                	
+							                	<td align=center nowrap>该批制品符合规定，建议予以签发</td>
+							                	
+							                	<td align=center >上海市食品药品检验所</td>
+							              	</tr>
+				                    		   
+				                           <tr  height=50 bgcolor='#f1f7e9' onMouseOut="this.bgColor = '#f1f7f9'" onMouseOver="this.bgColor = '#CCFF66'"  >
+							                	<td align=center>22</td>                	               	
+							                	<td>人血白蛋白</td>                	               	
+							                	<td>10g(20%,50ml)/瓶</td>                	               	
+							                	<td align=center>M816D6661</td> 
+							                	
+							                	<td align=center>17139瓶</td> 
+							                	<td align=center nowrap>2021年4月23日</td>
+							                	<td align=center >奥克特珐玛AB公司（瑞典）</td>
+							                	<td align=center nowrap>SH201800971</td>
+							                	<td align=center nowrap>批签沪（进）检20180939</td>
+							                	<td align=center nowrap>bgs201800939</td>
+							                	<td align=center nowrap>2018年10月18日</td>
+							                	
+							                	<td align=center nowrap>该批制品符合规定，建议予以签发</td>
+							                	
+							                	<td align=center >上海市食品药品检验所</td>
+							              	</tr>
+				                    		   
+				                           <tr  height=50 bgcolor='#f1f7e9' onMouseOut="this.bgColor = '#f1f7e9'" onMouseOver="this.bgColor = '#CCFF66'"  >
+							                	<td align=center>23</td>                	               	
+							                	<td>人血白蛋白</td>                	               	
+							                	<td>10g(20%,50ml)/瓶</td>                	               	
+							                	<td align=center>M818A6661</td> 
+							                	
+							                	<td align=center>17069瓶</td> 
+							                	<td align=center nowrap>2021年5月2日</td>
+							                	<td align=center >奥克特珐玛AB公司（瑞典）</td>
+							                	<td align=center nowrap>SH201800972</td>
+							                	<td align=center nowrap>批签沪（进）检20180940</td>
+							                	<td align=center nowrap>bgs201800940</td>
+							                	<td align=center nowrap>2018年10月18日</td>
+							                	
+							                	<td align=center nowrap>该批制品符合规定，建议予以签发</td>
+							                	
+							                	<td align=center >上海市食品药品检验所</td>
+							              	</tr>
+				                    		   
+				                           <tr  height=50 bgcolor='#f1f7e9' onMouseOut="this.bgColor = '#f1f7f9'" onMouseOver="this.bgColor = '#CCFF66'"  >
+							                	<td align=center>24</td>                	               	
+							                	<td>人血白蛋白</td>                	               	
+							                	<td>10g(20%,50ml)/瓶</td>                	               	
+							                	<td align=center>M818B6661</td> 
+							                	
+							                	<td align=center>17105瓶</td> 
+							                	<td align=center nowrap>2021年5月4日</td>
+							                	<td align=center >奥克特珐玛AB公司（瑞典）</td>
+							                	<td align=center nowrap>SH201800973</td>
+							                	<td align=center nowrap>批签沪（进）检20180941</td>
+							                	<td align=center nowrap>bgs201800941</td>
+							                	<td align=center nowrap>2018年10月18日</td>
+							                	
+							                	<td align=center nowrap>该批制品符合规定，建议予以签发</td>
+							                	
+							                	<td align=center >上海市食品药品检验所</td>
+							              	</tr>
+				                    		   
+				                           <tr  height=50 bgcolor='#f1f7e9' onMouseOut="this.bgColor = '#f1f7e9'" onMouseOver="this.bgColor = '#CCFF66'"  >
+							                	<td align=center>25</td>                	               	
+							                	<td>人血白蛋白</td>                	               	
+							                	<td>10g(20%,50ml)/瓶</td>                	               	
+							                	<td align=center>M820A6661</td> 
+							                	
+							                	<td align=center>16623瓶</td> 
+							                	<td align=center nowrap>2021年5月13日</td>
+							                	<td align=center >奥克特珐玛AB公司（瑞典）</td>
+							                	<td align=center nowrap>SH201800976</td>
+							                	<td align=center nowrap>批签沪（进）检20180944</td>
+							                	<td align=center nowrap>bgs201800944</td>
+							                	<td align=center nowrap>2018年10月18日</td>
+							                	
+							                	<td align=center nowrap>该批制品符合规定，建议予以签发</td>
+							                	
+							                	<td align=center >上海市食品药品检验所</td>
+							              	</tr>
+				                    		   
+				                           <tr  height=50 bgcolor='#f1f7e9' onMouseOut="this.bgColor = '#f1f7f9'" onMouseOver="this.bgColor = '#CCFF66'"  >
+							                	<td align=center>26</td>                	               	
+							                	<td>人血白蛋白</td>                	               	
+							                	<td>10g(20%,50ml)/瓶</td>                	               	
+							                	<td align=center>M820B6661</td> 
+							                	
+							                	<td align=center>16787瓶</td> 
+							                	<td align=center nowrap>2021年5月15日</td>
+							                	<td align=center >奥克特珐玛AB公司（瑞典）</td>
+							                	<td align=center nowrap>SH201800977</td>
+							                	<td align=center nowrap>批签沪（进）检20180945</td>
+							                	<td align=center nowrap>bgs201800945</td>
+							                	<td align=center nowrap>2018年10月18日</td>
+							                	
+							                	<td align=center nowrap>该批制品符合规定，建议予以签发</td>
+							                	
+							                	<td align=center >上海市食品药品检验所</td>
+							              	</tr>
+				                    		   
+				                           <tr  height=50 bgcolor='#f1f7e9' onMouseOut="this.bgColor = '#f1f7e9'" onMouseOver="this.bgColor = '#CCFF66'"  >
+							                	<td align=center>27</td>                	               	
+							                	<td>人血白蛋白</td>                	               	
+							                	<td>10g(20%,50ml)/瓶</td>                	               	
+							                	<td align=center>M816E6661</td> 
+							                	
+							                	<td align=center>16954瓶</td> 
+							                	<td align=center nowrap>2021年4月19日</td>
+							                	<td align=center >奥克特珐玛AB公司（瑞典）</td>
+							                	<td align=center nowrap>SH201800981</td>
+							                	<td align=center nowrap>批签沪（进）检20180949</td>
+							                	<td align=center nowrap>bgs201800949</td>
+							                	<td align=center nowrap>2018年10月18日</td>
+							                	
+							                	<td align=center nowrap>该批制品符合规定，建议予以签发</td>
+							                	
+							                	<td align=center >上海市食品药品检验所</td>
+							              	</tr>
+				                    		   
+				                           <tr  height=50 bgcolor='#f1f7e9' onMouseOut="this.bgColor = '#f1f7f9'" onMouseOver="this.bgColor = '#CCFF66'"  >
+							                	<td align=center>28</td>                	               	
+							                	<td>人血白蛋白</td>                	               	
+							                	<td>10g(20%,50ml)/瓶</td>                	               	
+							                	<td align=center>M816F6661</td> 
+							                	
+							                	<td align=center>17138瓶</td> 
+							                	<td align=center nowrap>2021年4月21日</td>
+							                	<td align=center >奥克特珐玛AB公司（瑞典）</td>
+							                	<td align=center nowrap>SH201800982</td>
+							                	<td align=center nowrap>批签沪（进）检20180950</td>
+							                	<td align=center nowrap>bgs201800950</td>
+							                	<td align=center nowrap>2018年10月18日</td>
+							                	
+							                	<td align=center nowrap>该批制品符合规定，建议予以签发</td>
+							                	
+							                	<td align=center >上海市食品药品检验所</td>
+							              	</tr>
+				                    		   
+				                           <tr  height=50 bgcolor='#f1f7e9' onMouseOut="this.bgColor = '#f1f7e9'" onMouseOver="this.bgColor = '#CCFF66'"  >
+							                	<td align=center>29</td>                	               	
+							                	<td>人血白蛋白</td>                	               	
+							                	<td>10g(20%,50ml)/瓶</td>                	               	
+							                	<td align=center>M816G6661</td> 
+							                	
+							                	<td align=center>17030瓶</td> 
+							                	<td align=center nowrap>2021年4月21日</td>
+							                	<td align=center >奥克特珐玛AB公司（瑞典）</td>
+							                	<td align=center nowrap>SH201800983</td>
+							                	<td align=center nowrap>批签沪（进）检20180951</td>
+							                	<td align=center nowrap>bgs201800951</td>
+							                	<td align=center nowrap>2018年10月18日</td>
+							                	
+							                	<td align=center nowrap>该批制品符合规定，建议予以签发</td>
+							                	
+							                	<td align=center >上海市食品药品检验所</td>
+							              	</tr>
+				                    		   
+				                           <tr  height=50 bgcolor='#f1f7e9' onMouseOut="this.bgColor = '#f1f7f9'" onMouseOver="this.bgColor = '#CCFF66'"  >
+							                	<td align=center>30</td>                	               	
+							                	<td>人血白蛋白</td>                	               	
+							                	<td>10g(20%,50ml)/瓶</td>                	               	
+							                	<td align=center>A4T142AA</td> 
+							                	
+							                	<td align=center>22135瓶</td> 
+							                	<td align=center nowrap>2021年4月</td>
+							                	<td align=center >Baxter AG/奥地利</td>
+							                	<td align=center nowrap>SH201800987</td>
+							                	<td align=center nowrap>批签沪（进）检20180955</td>
+							                	<td align=center nowrap>bgs201800955</td>
+							                	<td align=center nowrap>2018年10月15日</td>
+							                	
+							                	<td align=center nowrap>该批制品符合规定，建议予以签发</td>
+							                	
+							                	<td align=center >上海市食品药品检验所</td>
+							              	</tr>
+				                    		   
+				                           <tr  height=50 bgcolor='#f1f7e9' onMouseOut="this.bgColor = '#f1f7e9'" onMouseOver="this.bgColor = '#CCFF66'"  >
+							                	<td align=center>31</td>                	               	
+							                	<td>人血白蛋白</td>                	               	
+							                	<td>10g(20%,50ml)/瓶</td>                	               	
+							                	<td align=center>A4T143AA</td> 
+							                	
+							                	<td align=center>22608瓶</td> 
+							                	<td align=center nowrap>2021年4月</td>
+							                	<td align=center >Baxter AG/奥地利</td>
+							                	<td align=center nowrap>SH201800988</td>
+							                	<td align=center nowrap>批签沪（进）检20180956</td>
+							                	<td align=center nowrap>bgs201800956</td>
+							                	<td align=center nowrap>2018年10月15日</td>
+							                	
+							                	<td align=center nowrap>该批制品符合规定，建议予以签发</td>
+							                	
+							                	<td align=center >上海市食品药品检验所</td>
+							              	</tr>
+				                    		   
+				                           <tr  height=50 bgcolor='#f1f7e9' onMouseOut="this.bgColor = '#f1f7f9'" onMouseOver="this.bgColor = '#CCFF66'"  >
+							                	<td align=center>32</td>                	               	
+							                	<td>人凝血因子Ⅷ</td>                	               	
+							                	<td>300IU/瓶</td>                	               	
+							                	<td align=center>201709H031</td> 
+							                	
+							                	<td align=center>5528瓶</td> 
+							                	<td align=center nowrap>2019年9月16日</td>
+							                	<td align=center >上海莱士血液制品股份有限公司</td>
+							                	<td align=center nowrap>SH201800197</td>
+							                	<td align=center nowrap>批签沪检20180196</td>
+							                	<td align=center nowrap>bgs201800196</td>
+							                	<td align=center nowrap>2018年10月15日</td>
+							                	
+							                	<td align=center nowrap>该批制品符合规定，建议予以签发</td>
+							                	
+							                	<td align=center >上海市食品药品检验所</td>
+							              	</tr>
+				                    		   
+				                           <tr  height=50 bgcolor='#f1f7e9' onMouseOut="this.bgColor = '#f1f7e9'" onMouseOver="this.bgColor = '#CCFF66'"  >
+							                	<td align=center>33</td>                	               	
+							                	<td>人凝血酶原复合物</td>                	               	
+							                	<td>300IU/瓶</td>                	               	
+							                	<td align=center>20180205P</td> 
+							                	
+							                	<td align=center>3590瓶</td> 
+							                	<td align=center nowrap>2020年2月8日</td>
+							                	<td align=center >上海新兴医药股份有限公司</td>
+							                	<td align=center nowrap>SH201800992</td>
+							                	<td align=center nowrap>批签沪检20180960</td>
+							                	<td align=center nowrap>bgs201800960</td>
+							                	<td align=center nowrap>2018年10月15日</td>
+							                	
+							                	<td align=center nowrap>该批制品符合规定，建议予以签发</td>
+							                	
+							                	<td align=center >上海市食品药品检验所</td>
+							              	</tr>
+				                    		   
+				                           <tr  height=50 bgcolor='#f1f7e9' onMouseOut="this.bgColor = '#f1f7f9'" onMouseOver="this.bgColor = '#CCFF66'"  >
+							                	<td align=center>34</td>                	               	
+							                	<td>人纤维蛋白原</td>                	               	
+							                	<td>0.5g/瓶</td>                	               	
+							                	<td align=center>20171229F</td> 
+							                	
+							                	<td align=center>4634瓶</td> 
+							                	<td align=center nowrap>2022年12月20日</td>
+							                	<td align=center >上海新兴医药股份有限公司</td>
+							                	<td align=center nowrap>SH201800995</td>
+							                	<td align=center nowrap>批签沪检20180963</td>
+							                	<td align=center nowrap>bgs201800963</td>
+							                	<td align=center nowrap>2018年10月15日</td>
+							                	
+							                	<td align=center nowrap>该批制品符合规定，建议予以签发</td>
+							                	
+							                	<td align=center >上海市食品药品检验所</td>
+							              	</tr>
+				                    		   
+				                           <tr  height=50 bgcolor='#f1f7e9' onMouseOut="this.bgColor = '#f1f7e9'" onMouseOver="this.bgColor = '#CCFF66'"  >
+							                	<td align=center>35</td>                	               	
+							                	<td>静注人免疫球蛋白（pH4）</td>                	               	
+							                	<td>2.5g/瓶(5%,50ml)</td>                	               	
+							                	<td align=center>20180625</td> 
+							                	
+							                	<td align=center>13109瓶</td> 
+							                	<td align=center nowrap>2021年6月26日</td>
+							                	<td align=center >博雅生物制药集团股份有限公司</td>
+							                	<td align=center nowrap>SH201801028</td>
+							                	<td align=center nowrap>批签沪检20180996</td>
+							                	<td align=center nowrap>bgs201800996</td>
+							                	<td align=center nowrap>2018年10月18日</td>
+							                	
+							                	<td align=center nowrap>该批制品符合规定，建议予以签发</td>
+							                	
+							                	<td align=center >上海市食品药品检验所</td>
+							              	</tr>
+				                    		   
+				                           <tr  height=50 bgcolor='#f1f7e9' onMouseOut="this.bgColor = '#f1f7f9'" onMouseOver="this.bgColor = '#CCFF66'"  >
+							                	<td align=center>36</td>                	               	
+							                	<td>静注人免疫球蛋白（pH4）</td>                	               	
+							                	<td>2.5g/瓶(5%,50ml)</td>                	               	
+							                	<td align=center>20180626</td> 
+							                	
+							                	<td align=center>12913瓶</td> 
+							                	<td align=center nowrap>2021年6月29日</td>
+							                	<td align=center >博雅生物制药集团股份有限公司</td>
+							                	<td align=center nowrap>SH201801029</td>
+							                	<td align=center nowrap>批签沪检20180997</td>
+							                	<td align=center nowrap>bgs201800997</td>
+							                	<td align=center nowrap>2018年10月18日</td>
+							                	
+							                	<td align=center nowrap>该批制品符合规定，建议予以签发</td>
+							                	
+							                	<td align=center >上海市食品药品检验所</td>
+							              	</tr>
+				                    	
+				            </table>
+				        </td>
+				    </tr>
+			</TABLE>
+	</DIV>
+</DIV>
+</CENTER>
+</HTML>

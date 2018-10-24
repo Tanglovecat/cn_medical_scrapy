@@ -1,0 +1,1522 @@
+
+
+
+
+<html>
+
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "">
+<HTML>
+<HEAD>
+<TITLE>中国食品药品检定研究院</TITLE>
+<link href="styles/style_1.css" rel="stylesheet" type="text/css" />
+<META content="text/html; charset=GBK" http-equiv=Content-Type>
+<STYLE>BODY {
+	FONT-SIZE: 12px; BORDER-TOP: 0px; FONT-FAMILY: "宋体"; BORDER-RIGHT: 0px; BORDER-BOTTOM: 0px; PADDING-BOTTOM: 0px; PADDING-TOP: 0px; PADDING-LEFT: 0px; BORDER-LEFT: 0px; MARGIN: 0px; PADDING-RIGHT: 0px
+}
+A {
+	FONT-SIZE: 12px; BORDER-TOP: 0px; FONT-FAMILY: "宋体"; BORDER-RIGHT: 0px; BORDER-BOTTOM: 0px; PADDING-BOTTOM: 0px; PADDING-TOP: 0px; PADDING-LEFT: 0px; BORDER-LEFT: 0px; MARGIN: 0px; PADDING-RIGHT: 0px
+}
+P {
+	FONT-SIZE: 12px; BORDER-TOP: 0px; FONT-FAMILY: "宋体"; BORDER-RIGHT: 0px; BORDER-BOTTOM: 0px; PADDING-BOTTOM: 0px; PADDING-TOP: 0px; PADDING-LEFT: 0px; BORDER-LEFT: 0px; MARGIN: 0px; PADDING-RIGHT: 0px
+}
+UL {
+	FONT-SIZE: 12px; BORDER-TOP: 0px; FONT-FAMILY: "宋体"; BORDER-RIGHT: 0px; BORDER-BOTTOM: 0px; PADDING-BOTTOM: 0px; PADDING-TOP: 0px; PADDING-LEFT: 0px; BORDER-LEFT: 0px; MARGIN: 0px; PADDING-RIGHT: 0px
+}
+LI {
+	FONT-SIZE: 12px; BORDER-TOP: 0px; FONT-FAMILY: "宋体"; BORDER-RIGHT: 0px; BORDER-BOTTOM: 0px; PADDING-BOTTOM: 0px; PADDING-TOP: 0px; PADDING-LEFT: 0px; BORDER-LEFT: 0px; MARGIN: 0px; PADDING-RIGHT: 0px
+}
+UL {
+	LIST-STYLE-TYPE: none
+}
+LI {
+	LIST-STYLE-TYPE: none
+}
+.middle {
+	HEIGHT: auto; WIDTH: 100%; MARGIN: auto
+}
+.top {
+	 WIDTH: 100%; BACKGROUND: url(images/top_02.png) repeat-x
+}
+.topfont {
+	FONT-SIZE: 22px;
+	float:center;
+	text-align:center;
+	vertical-align:middle;
+	margin-top:20;
+}
+.content {
+	HEIGHT: 805px;WIDTH: 100%; BACKGROUND: url(images/content_09.png) repeat-x
+}
+.content UL {
+	WIDTH: 100%; FLOAT: left
+}
+.content UL LI {
+	FLOAT: left
+}
+
+</STYLE>
+</HEAD>
+
+<BODY>
+<CENTER align="center">
+<DIV class=middle>
+	<DIV class=top>
+		<DIV class=topfont>生物制品批签发产品公示情况汇总 </DIV>
+	</DIV>
+	<DIV class=content>
+			<TABLE border=0 cellSpacing=0 cellPadding=0  style="width: 100%">
+				     <tr valign="top">
+				    	<td align="center">
+				        	<table class="list_table" style="font-size:16px;" border=0 cellspacing="1" cellPadding=0 width="98%" align="center" bgcolor="#f6f7fb" onClick="sortColumn(event)">
+				            <thead>
+			             	<tr bgcolor="#C9DBF2" height=30>
+								<td   width="2%" align=center nowrap >序号</td>             	 	
+		 						<td   width="10%" align=center nowrap>产品名称</td>
+		 						<td   width="8%" align=center nowrap>规格</td>
+			             	 	<td   width="5%" align=center>批号</td>
+			             	 	<td   width="5%" align=center nowrap>签发量/拒签量</td>
+			             	 	<td   width="5%" align=center nowrap>有效期至</td>
+			             	 	<td   width="12%" align=center nowrap>生产企业</td>
+			             	 	<td   width="6%" align=center nowrap>收检编号</td>
+			             	 	<td   width="7%" align=center nowrap>证书编号</td>
+			             	 	<td   width="6%" align=center nowrap>报告编号</td>
+			             	 	<td   width="6%" align=center nowrap>签发日期</td>
+			             	 	<td   width="5%" align=center nowrap>签发结论</td>
+			             	 	<td   width="9%" align=center nowrap>批签发机构</td>
+			                 </tr>
+			       		   </thead>
+				                    		   
+				                           <tr  height=50 bgcolor='#f1f7e9' onMouseOut="this.bgColor = '#f1f7e9'" onMouseOver="this.bgColor = '#CCFF66'"  >
+							                	<td align=center>1</td>                	               	
+							                	<td>人血白蛋白</td>                	               	
+							                	<td>10克（20% ；50ml）/瓶</td>                	               	
+							                	<td align=center>A4AFB04821</td> 
+							                	
+							                	<td align=center>8836瓶</td> 
+							                	<td align=center nowrap>2020年8月</td>
+							                	<td align=center >西班牙基立福公司</td>
+							                	<td align=center nowrap>JS1800005</td>
+							                	<td align=center nowrap>批签京(进)检20180273</td>
+							                	<td align=center nowrap>JS1800005</td>
+							                	<td align=center nowrap></td>
+							                	
+							                	<td align=center nowrap>予以签发</td>
+							                	
+							                	<td align=center >北京市药品检验所</td>
+							              	</tr>
+				                    		   
+				                           <tr  height=50 bgcolor='#f1f7e9' onMouseOut="this.bgColor = '#f1f7f9'" onMouseOver="this.bgColor = '#CCFF66'"  >
+							                	<td align=center>2</td>                	               	
+							                	<td>人纤维蛋白原</td>                	               	
+							                	<td>0.5g/瓶</td>                	               	
+							                	<td align=center>201801002</td> 
+							                	
+							                	<td align=center>2408瓶</td> 
+							                	<td align=center nowrap>2021年1月15日</td>
+							                	<td align=center >华兰生物工程股份有限公司</td>
+							                	<td align=center nowrap>JS1800307</td>
+							                	<td align=center nowrap>批签京检20180765</td>
+							                	<td align=center nowrap>JS1800307</td>
+							                	<td align=center nowrap>2018年07月20日</td>
+							                	
+							                	<td align=center nowrap>予以签发</td>
+							                	
+							                	<td align=center >北京市药品检验所</td>
+							              	</tr>
+				                    		   
+				                           <tr  height=50 bgcolor='#f1f7e9' onMouseOut="this.bgColor = '#f1f7e9'" onMouseOver="this.bgColor = '#CCFF66'"  >
+							                	<td align=center>3</td>                	               	
+							                	<td>人纤维蛋白原</td>                	               	
+							                	<td>0.5g/瓶</td>                	               	
+							                	<td align=center>201801003</td> 
+							                	
+							                	<td align=center>2419瓶</td> 
+							                	<td align=center nowrap>2021年1月21日</td>
+							                	<td align=center >华兰生物工程股份有限公司</td>
+							                	<td align=center nowrap>JS1800308</td>
+							                	<td align=center nowrap>批签京检20180766</td>
+							                	<td align=center nowrap>JS1800308</td>
+							                	<td align=center nowrap>2018年07月20日</td>
+							                	
+							                	<td align=center nowrap>予以签发</td>
+							                	
+							                	<td align=center >北京市药品检验所</td>
+							              	</tr>
+				                    		   
+				                           <tr  height=50 bgcolor='#f1f7e9' onMouseOut="this.bgColor = '#f1f7f9'" onMouseOver="this.bgColor = '#CCFF66'"  >
+							                	<td align=center>4</td>                	               	
+							                	<td>人血白蛋白</td>                	               	
+							                	<td>10g（20% ;50ml）/瓶</td>                	               	
+							                	<td align=center>A4AFB06711</td> 
+							                	
+							                	<td align=center>8329瓶</td> 
+							                	<td align=center nowrap>2020年11月</td>
+							                	<td align=center >西班牙基立福公司</td>
+							                	<td align=center nowrap>JS1800409</td>
+							                	<td align=center nowrap>批签京(进)检20180785</td>
+							                	<td align=center nowrap>JS1800409</td>
+							                	<td align=center nowrap>2018年07月24日</td>
+							                	
+							                	<td align=center nowrap>予以签发</td>
+							                	
+							                	<td align=center >北京市药品检验所</td>
+							              	</tr>
+				                    		   
+				                           <tr  height=50 bgcolor='#f1f7e9' onMouseOut="this.bgColor = '#f1f7e9'" onMouseOver="this.bgColor = '#CCFF66'"  >
+							                	<td align=center>5</td>                	               	
+							                	<td>人血白蛋白</td>                	               	
+							                	<td>10g（20% ;50ml）/瓶</td>                	               	
+							                	<td align=center>A4AFB06781</td> 
+							                	
+							                	<td align=center>8671瓶</td> 
+							                	<td align=center nowrap>2020年11月</td>
+							                	<td align=center >西班牙基立福公司</td>
+							                	<td align=center nowrap>JS1800410</td>
+							                	<td align=center nowrap>批签京(进)检20180786</td>
+							                	<td align=center nowrap>JS1800410</td>
+							                	<td align=center nowrap>2018年07月24日</td>
+							                	
+							                	<td align=center nowrap>予以签发</td>
+							                	
+							                	<td align=center >北京市药品检验所</td>
+							              	</tr>
+				                    		   
+				                           <tr  height=50 bgcolor='#f1f7e9' onMouseOut="this.bgColor = '#f1f7f9'" onMouseOver="this.bgColor = '#CCFF66'"  >
+							                	<td align=center>6</td>                	               	
+							                	<td>人血白蛋白</td>                	               	
+							                	<td>10g（20% ;50ml）/瓶</td>                	               	
+							                	<td align=center>A4AFB06831</td> 
+							                	
+							                	<td align=center>8725瓶</td> 
+							                	<td align=center nowrap>2020年11月</td>
+							                	<td align=center >西班牙基立福公司</td>
+							                	<td align=center nowrap>JS1800411</td>
+							                	<td align=center nowrap>批签京(进)检20180787</td>
+							                	<td align=center nowrap>JS1800411</td>
+							                	<td align=center nowrap>2018年07月24日</td>
+							                	
+							                	<td align=center nowrap>予以签发</td>
+							                	
+							                	<td align=center >北京市药品检验所</td>
+							              	</tr>
+				                    		   
+				                           <tr  height=50 bgcolor='#f1f7e9' onMouseOut="this.bgColor = '#f1f7e9'" onMouseOver="this.bgColor = '#CCFF66'"  >
+							                	<td align=center>7</td>                	               	
+							                	<td>人血白蛋白</td>                	               	
+							                	<td>10g（20% ;50ml）/瓶</td>                	               	
+							                	<td align=center>A4AFB06841</td> 
+							                	
+							                	<td align=center>8580瓶</td> 
+							                	<td align=center nowrap>2020年11月</td>
+							                	<td align=center >西班牙基立福公司</td>
+							                	<td align=center nowrap>JS1800412</td>
+							                	<td align=center nowrap>批签京(进)检20180788</td>
+							                	<td align=center nowrap>JS1800412</td>
+							                	<td align=center nowrap>2018年07月24日</td>
+							                	
+							                	<td align=center nowrap>予以签发</td>
+							                	
+							                	<td align=center >北京市药品检验所</td>
+							              	</tr>
+				                    		   
+				                           <tr  height=50 bgcolor='#f1f7e9' onMouseOut="this.bgColor = '#f1f7f9'" onMouseOver="this.bgColor = '#CCFF66'"  >
+							                	<td align=center>8</td>                	               	
+							                	<td>人血白蛋白</td>                	               	
+							                	<td>10g（20% ;50ml）/瓶</td>                	               	
+							                	<td align=center>A4AFB06881</td> 
+							                	
+							                	<td align=center>8561瓶</td> 
+							                	<td align=center nowrap>2020年11月</td>
+							                	<td align=center >西班牙基立福公司</td>
+							                	<td align=center nowrap>JS1800413</td>
+							                	<td align=center nowrap>批签京(进)检20180789</td>
+							                	<td align=center nowrap>JS1800413</td>
+							                	<td align=center nowrap>2018年07月24日</td>
+							                	
+							                	<td align=center nowrap>予以签发</td>
+							                	
+							                	<td align=center >北京市药品检验所</td>
+							              	</tr>
+				                    		   
+				                           <tr  height=50 bgcolor='#f1f7e9' onMouseOut="this.bgColor = '#f1f7e9'" onMouseOver="this.bgColor = '#CCFF66'"  >
+							                	<td align=center>9</td>                	               	
+							                	<td>人血白蛋白</td>                	               	
+							                	<td>10g（20% ;50ml）/瓶</td>                	               	
+							                	<td align=center>A4AFB06541</td> 
+							                	
+							                	<td align=center>8538瓶</td> 
+							                	<td align=center nowrap>2020年10月</td>
+							                	<td align=center >西班牙基立福公司</td>
+							                	<td align=center nowrap>JS1800414</td>
+							                	<td align=center nowrap>批签京(进)检20180790</td>
+							                	<td align=center nowrap>JS1800414</td>
+							                	<td align=center nowrap>2018年07月24日</td>
+							                	
+							                	<td align=center nowrap>予以签发</td>
+							                	
+							                	<td align=center >北京市药品检验所</td>
+							              	</tr>
+				                    		   
+				                           <tr  height=50 bgcolor='#f1f7e9' onMouseOut="this.bgColor = '#f1f7f9'" onMouseOver="this.bgColor = '#CCFF66'"  >
+							                	<td align=center>10</td>                	               	
+							                	<td>人纤维蛋白原</td>                	               	
+							                	<td>0.5g/瓶</td>                	               	
+							                	<td align=center>201711027</td> 
+							                	
+							                	<td align=center>2281瓶</td> 
+							                	<td align=center nowrap>2020年11月7日</td>
+							                	<td align=center >华兰生物工程股份有限公司</td>
+							                	<td align=center nowrap>JS1800069</td>
+							                	<td align=center nowrap>批签京检20180743</td>
+							                	<td align=center nowrap>JS1800069</td>
+							                	<td align=center nowrap>2018年07月18日</td>
+							                	
+							                	<td align=center nowrap>予以签发</td>
+							                	
+							                	<td align=center >北京市药品检验所</td>
+							              	</tr>
+				                    		   
+				                           <tr  height=50 bgcolor='#f1f7e9' onMouseOut="this.bgColor = '#f1f7e9'" onMouseOver="this.bgColor = '#CCFF66'"  >
+							                	<td align=center>11</td>                	               	
+							                	<td>人纤维蛋白原</td>                	               	
+							                	<td>0.5g/瓶</td>                	               	
+							                	<td align=center>201711028</td> 
+							                	
+							                	<td align=center>2382瓶</td> 
+							                	<td align=center nowrap>2017年11月13日</td>
+							                	<td align=center >华兰生物工程股份有限公司</td>
+							                	<td align=center nowrap>JS1800070</td>
+							                	<td align=center nowrap>批签京检20180744</td>
+							                	<td align=center nowrap>JS1800070</td>
+							                	<td align=center nowrap>2018年07月18日</td>
+							                	
+							                	<td align=center nowrap>予以签发</td>
+							                	
+							                	<td align=center >北京市药品检验所</td>
+							              	</tr>
+				                    		   
+				                           <tr  height=50 bgcolor='#f1f7e9' onMouseOut="this.bgColor = '#f1f7f9'" onMouseOver="this.bgColor = '#CCFF66'"  >
+							                	<td align=center>12</td>                	               	
+							                	<td>人凝血酶原复合物</td>                	               	
+							                	<td>200IU/瓶</td>                	               	
+							                	<td align=center>201802007</td> 
+							                	
+							                	<td align=center>7535瓶</td> 
+							                	<td align=center nowrap>2020年2月1日</td>
+							                	<td align=center >华兰生物工程股份有限公司</td>
+							                	<td align=center nowrap>JS1800394</td>
+							                	<td align=center nowrap>批签京检20180745</td>
+							                	<td align=center nowrap>JS1800394</td>
+							                	<td align=center nowrap>2018年07月18日</td>
+							                	
+							                	<td align=center nowrap>予以签发</td>
+							                	
+							                	<td align=center >北京市药品检验所</td>
+							              	</tr>
+				                    		   
+				                           <tr  height=50 bgcolor='#f1f7e9' onMouseOut="this.bgColor = '#f1f7e9'" onMouseOver="this.bgColor = '#CCFF66'"  >
+							                	<td align=center>13</td>                	               	
+							                	<td>人凝血酶原复合物</td>                	               	
+							                	<td>200IU/瓶</td>                	               	
+							                	<td align=center>201802008</td> 
+							                	
+							                	<td align=center>7803瓶</td> 
+							                	<td align=center nowrap>2020年2月4日</td>
+							                	<td align=center >华兰生物工程股份有限公司</td>
+							                	<td align=center nowrap>JS1800395</td>
+							                	<td align=center nowrap>批签京检20180746</td>
+							                	<td align=center nowrap>JS1800395</td>
+							                	<td align=center nowrap>2018年07月18日</td>
+							                	
+							                	<td align=center nowrap>予以签发</td>
+							                	
+							                	<td align=center >北京市药品检验所</td>
+							              	</tr>
+				                    		   
+				                           <tr  height=50 bgcolor='#f1f7e9' onMouseOut="this.bgColor = '#f1f7f9'" onMouseOver="this.bgColor = '#CCFF66'"  >
+							                	<td align=center>14</td>                	               	
+							                	<td>人凝血酶原复合物</td>                	               	
+							                	<td>200IU/瓶</td>                	               	
+							                	<td align=center>201802009</td> 
+							                	
+							                	<td align=center>7751瓶</td> 
+							                	<td align=center nowrap>2020年2月7日</td>
+							                	<td align=center >华兰生物工程股份有限公司</td>
+							                	<td align=center nowrap>JS1800396</td>
+							                	<td align=center nowrap>批签京检20180747</td>
+							                	<td align=center nowrap>JS1800396</td>
+							                	<td align=center nowrap>2018年07月18日</td>
+							                	
+							                	<td align=center nowrap>予以签发</td>
+							                	
+							                	<td align=center >北京市药品检验所</td>
+							              	</tr>
+				                    		   
+				                           <tr  height=50 bgcolor='#f1f7e9' onMouseOut="this.bgColor = '#f1f7e9'" onMouseOver="this.bgColor = '#CCFF66'"  >
+							                	<td align=center>15</td>                	               	
+							                	<td>破伤风人免疫球蛋白</td>                	               	
+							                	<td>250IU/支</td>                	               	
+							                	<td align=center>201802001</td> 
+							                	
+							                	<td align=center>28957支</td> 
+							                	<td align=center nowrap>2021年1月31日</td>
+							                	<td align=center >华兰生物工程股份有限公司</td>
+							                	<td align=center nowrap>JS1800426</td>
+							                	<td align=center nowrap>批签京检20180748</td>
+							                	<td align=center nowrap>JS1800426</td>
+							                	<td align=center nowrap>2018年07月18日</td>
+							                	
+							                	<td align=center nowrap>予以签发</td>
+							                	
+							                	<td align=center >北京市药品检验所</td>
+							              	</tr>
+				                    		   
+				                           <tr  height=50 bgcolor='#f1f7e9' onMouseOut="this.bgColor = '#f1f7f9'" onMouseOver="this.bgColor = '#CCFF66'"  >
+							                	<td align=center>16</td>                	               	
+							                	<td>破伤风人免疫球蛋白</td>                	               	
+							                	<td>250IU/支</td>                	               	
+							                	<td align=center>201802002</td> 
+							                	
+							                	<td align=center>44191支</td> 
+							                	<td align=center nowrap>2021年2月1日</td>
+							                	<td align=center >华兰生物工程股份有限公司</td>
+							                	<td align=center nowrap>JS1800427</td>
+							                	<td align=center nowrap>批签京检20180749</td>
+							                	<td align=center nowrap>JS1800427</td>
+							                	<td align=center nowrap>2018年07月18日</td>
+							                	
+							                	<td align=center nowrap>予以签发</td>
+							                	
+							                	<td align=center >北京市药品检验所</td>
+							              	</tr>
+				                    		   
+				                           <tr  height=50 bgcolor='#f1f7e9' onMouseOut="this.bgColor = '#f1f7e9'" onMouseOver="this.bgColor = '#CCFF66'"  >
+							                	<td align=center>17</td>                	               	
+							                	<td>破伤风人免疫球蛋白</td>                	               	
+							                	<td>250IU/支</td>                	               	
+							                	<td align=center>201802003</td> 
+							                	
+							                	<td align=center>37717支</td> 
+							                	<td align=center nowrap>2021年2月2日</td>
+							                	<td align=center >华兰生物工程股份有限公司</td>
+							                	<td align=center nowrap>JS1800428</td>
+							                	<td align=center nowrap>批签京检20180750</td>
+							                	<td align=center nowrap>JS1800428</td>
+							                	<td align=center nowrap>2018年07月18日</td>
+							                	
+							                	<td align=center nowrap>予以签发</td>
+							                	
+							                	<td align=center >北京市药品检验所</td>
+							              	</tr>
+				                    		   
+				                           <tr  height=50 bgcolor='#f1f7e9' onMouseOut="this.bgColor = '#f1f7f9'" onMouseOver="this.bgColor = '#CCFF66'"  >
+							                	<td align=center>18</td>                	               	
+							                	<td>人纤维蛋白原</td>                	               	
+							                	<td>0.5g/瓶</td>                	               	
+							                	<td align=center>201801004</td> 
+							                	
+							                	<td align=center>2624瓶</td> 
+							                	<td align=center nowrap>2021年1月27日</td>
+							                	<td align=center >华兰生物工程股份有限公司</td>
+							                	<td align=center nowrap>JS1800309</td>
+							                	<td align=center nowrap>批签京检20180767</td>
+							                	<td align=center nowrap>JS1800309</td>
+							                	<td align=center nowrap>2018年07月20日</td>
+							                	
+							                	<td align=center nowrap>予以签发</td>
+							                	
+							                	<td align=center >北京市药品检验所</td>
+							              	</tr>
+				                    		   
+				                           <tr  height=50 bgcolor='#f1f7e9' onMouseOut="this.bgColor = '#f1f7e9'" onMouseOver="this.bgColor = '#CCFF66'"  >
+							                	<td align=center>19</td>                	               	
+							                	<td>人血白蛋白</td>                	               	
+							                	<td>10g/瓶(20%,50ml)</td>                	               	
+							                	<td align=center>201803005</td> 
+							                	
+							                	<td align=center>5527瓶</td> 
+							                	<td align=center nowrap>2021年3月15日</td>
+							                	<td align=center >河北大安制药有限公司</td>
+							                	<td align=center nowrap>JS1800442</td>
+							                	<td align=center nowrap>批签京检20180768</td>
+							                	<td align=center nowrap>JS1800442</td>
+							                	<td align=center nowrap>2018年07月20日</td>
+							                	
+							                	<td align=center nowrap>予以签发</td>
+							                	
+							                	<td align=center >北京市药品检验所</td>
+							              	</tr>
+				                    		   
+				                           <tr  height=50 bgcolor='#f1f7e9' onMouseOut="this.bgColor = '#f1f7f9'" onMouseOver="this.bgColor = '#CCFF66'"  >
+							                	<td align=center>20</td>                	               	
+							                	<td>人凝血因子Ⅷ</td>                	               	
+							                	<td>300IU/瓶</td>                	               	
+							                	<td align=center>201803022</td> 
+							                	
+							                	<td align=center>4998瓶</td> 
+							                	<td align=center nowrap>2020年3月13日</td>
+							                	<td align=center >华兰生物工程股份有限公司</td>
+							                	<td align=center nowrap>JS1800479</td>
+							                	<td align=center nowrap>批签京检20180769</td>
+							                	<td align=center nowrap>JS1800479</td>
+							                	<td align=center nowrap>2018年07月20日</td>
+							                	
+							                	<td align=center nowrap>予以签发</td>
+							                	
+							                	<td align=center >北京市药品检验所</td>
+							              	</tr>
+				                    		   
+				                           <tr  height=50 bgcolor='#f1f7e9' onMouseOut="this.bgColor = '#f1f7e9'" onMouseOver="this.bgColor = '#CCFF66'"  >
+							                	<td align=center>21</td>                	               	
+							                	<td>人血白蛋白</td>                	               	
+							                	<td>10g/瓶(20%,50ml)</td>                	               	
+							                	<td align=center>201803006</td> 
+							                	
+							                	<td align=center>5288瓶</td> 
+							                	<td align=center nowrap>2021年3月20日</td>
+							                	<td align=center >河北大安制药有限公司</td>
+							                	<td align=center nowrap>JS1800460</td>
+							                	<td align=center nowrap>批签京检20180770</td>
+							                	<td align=center nowrap>JS1800460</td>
+							                	<td align=center nowrap>2018年07月23日</td>
+							                	
+							                	<td align=center nowrap>予以签发</td>
+							                	
+							                	<td align=center >北京市药品检验所</td>
+							              	</tr>
+				                    		   
+				                           <tr  height=50 bgcolor='#f1f7e9' onMouseOut="this.bgColor = '#f1f7f9'" onMouseOver="this.bgColor = '#CCFF66'"  >
+							                	<td align=center>22</td>                	               	
+							                	<td>人血白蛋白</td>                	               	
+							                	<td>10g/瓶(20%,50ml)</td>                	               	
+							                	<td align=center>201803007</td> 
+							                	
+							                	<td align=center>12477瓶</td> 
+							                	<td align=center nowrap>2021年3月26日</td>
+							                	<td align=center >河北大安制药有限公司</td>
+							                	<td align=center nowrap>JS1800527</td>
+							                	<td align=center nowrap>批签京检20180771</td>
+							                	<td align=center nowrap>JS1800527</td>
+							                	<td align=center nowrap>2018年07月23日</td>
+							                	
+							                	<td align=center nowrap>予以签发</td>
+							                	
+							                	<td align=center >北京市药品检验所</td>
+							              	</tr>
+				                    		   
+				                           <tr  height=50 bgcolor='#f1f7e9' onMouseOut="this.bgColor = '#f1f7e9'" onMouseOver="this.bgColor = '#CCFF66'"  >
+							                	<td align=center>23</td>                	               	
+							                	<td>人血白蛋白</td>                	               	
+							                	<td>10g/瓶(20%,50ml)</td>                	               	
+							                	<td align=center>201804008</td> 
+							                	
+							                	<td align=center>12770瓶</td> 
+							                	<td align=center nowrap>2021年4月4日</td>
+							                	<td align=center >河北大安制药有限公司</td>
+							                	<td align=center nowrap>JS1800546</td>
+							                	<td align=center nowrap>批签京检20180772</td>
+							                	<td align=center nowrap>JS1800546</td>
+							                	<td align=center nowrap>2018年07月23日</td>
+							                	
+							                	<td align=center nowrap>予以签发</td>
+							                	
+							                	<td align=center >北京市药品检验所</td>
+							              	</tr>
+				                    		   
+				                           <tr  height=50 bgcolor='#f1f7e9' onMouseOut="this.bgColor = '#f1f7f9'" onMouseOver="this.bgColor = '#CCFF66'"  >
+							                	<td align=center>24</td>                	               	
+							                	<td>人血白蛋白</td>                	               	
+							                	<td>10g（20% ;50ml）/瓶</td>                	               	
+							                	<td align=center>A4AFB06341</td> 
+							                	
+							                	<td align=center>8721瓶</td> 
+							                	<td align=center nowrap>2020年10月</td>
+							                	<td align=center >西班牙基立福公司</td>
+							                	<td align=center nowrap>JS1800397</td>
+							                	<td align=center nowrap>批签京(进)检20180773</td>
+							                	<td align=center nowrap>JS1800397</td>
+							                	<td align=center nowrap>2018年07月24日</td>
+							                	
+							                	<td align=center nowrap>予以签发</td>
+							                	
+							                	<td align=center >北京市药品检验所</td>
+							              	</tr>
+				                    		   
+				                           <tr  height=50 bgcolor='#f1f7e9' onMouseOut="this.bgColor = '#f1f7e9'" onMouseOver="this.bgColor = '#CCFF66'"  >
+							                	<td align=center>25</td>                	               	
+							                	<td>人血白蛋白</td>                	               	
+							                	<td>10g（20% ;50ml）/瓶</td>                	               	
+							                	<td align=center>A4AFB06351</td> 
+							                	
+							                	<td align=center>8702瓶</td> 
+							                	<td align=center nowrap>2020年10月</td>
+							                	<td align=center >西班牙基立福公司</td>
+							                	<td align=center nowrap>JS1800398</td>
+							                	<td align=center nowrap>批签京(进)检20180774</td>
+							                	<td align=center nowrap>JS1800398</td>
+							                	<td align=center nowrap>2018年07月24日</td>
+							                	
+							                	<td align=center nowrap>予以签发</td>
+							                	
+							                	<td align=center >北京市药品检验所</td>
+							              	</tr>
+				                    		   
+				                           <tr  height=50 bgcolor='#f1f7e9' onMouseOut="this.bgColor = '#f1f7f9'" onMouseOver="this.bgColor = '#CCFF66'"  >
+							                	<td align=center>26</td>                	               	
+							                	<td>人凝血酶原复合物</td>                	               	
+							                	<td>200IU/瓶</td>                	               	
+							                	<td align=center>201803010</td> 
+							                	
+							                	<td align=center>8029瓶</td> 
+							                	<td align=center nowrap>2020年2月28日</td>
+							                	<td align=center >华兰生物工程股份有限公司</td>
+							                	<td align=center nowrap>JS1800436</td>
+							                	<td align=center nowrap>批签京检20180751</td>
+							                	<td align=center nowrap>JS1800436</td>
+							                	<td align=center nowrap>2018年07月18日</td>
+							                	
+							                	<td align=center nowrap>予以签发</td>
+							                	
+							                	<td align=center >北京市药品检验所</td>
+							              	</tr>
+				                    		   
+				                           <tr  height=50 bgcolor='#f1f7e9' onMouseOut="this.bgColor = '#f1f7e9'" onMouseOver="this.bgColor = '#CCFF66'"  >
+							                	<td align=center>27</td>                	               	
+							                	<td>人凝血酶原复合物</td>                	               	
+							                	<td>200IU/瓶</td>                	               	
+							                	<td align=center>201803011</td> 
+							                	
+							                	<td align=center>8049瓶</td> 
+							                	<td align=center nowrap>2020年3月6日</td>
+							                	<td align=center >华兰生物工程股份有限公司</td>
+							                	<td align=center nowrap>JS1800437</td>
+							                	<td align=center nowrap>批签京检20180752</td>
+							                	<td align=center nowrap>JS1800437</td>
+							                	<td align=center nowrap>2018年07月18日</td>
+							                	
+							                	<td align=center nowrap>予以签发</td>
+							                	
+							                	<td align=center >北京市药品检验所</td>
+							              	</tr>
+				                    		   
+				                           <tr  height=50 bgcolor='#f1f7e9' onMouseOut="this.bgColor = '#f1f7f9'" onMouseOver="this.bgColor = '#CCFF66'"  >
+							                	<td align=center>28</td>                	               	
+							                	<td>人凝血因子Ⅷ</td>                	               	
+							                	<td>300IU/瓶</td>                	               	
+							                	<td align=center>201802017</td> 
+							                	
+							                	<td align=center>4856瓶</td> 
+							                	<td align=center nowrap>2020年2月24日</td>
+							                	<td align=center >华兰生物工程股份有限公司</td>
+							                	<td align=center nowrap>JS1800438</td>
+							                	<td align=center nowrap>批签京检20180753</td>
+							                	<td align=center nowrap>JS1800438</td>
+							                	<td align=center nowrap>2018年07月18日</td>
+							                	
+							                	<td align=center nowrap>予以签发</td>
+							                	
+							                	<td align=center >北京市药品检验所</td>
+							              	</tr>
+				                    		   
+				                           <tr  height=50 bgcolor='#f1f7e9' onMouseOut="this.bgColor = '#f1f7e9'" onMouseOver="this.bgColor = '#CCFF66'"  >
+							                	<td align=center>29</td>                	               	
+							                	<td>人凝血因子Ⅷ</td>                	               	
+							                	<td>200IU/瓶</td>                	               	
+							                	<td align=center>201802018</td> 
+							                	
+							                	<td align=center>6745瓶</td> 
+							                	<td align=center nowrap>2020年2月27日</td>
+							                	<td align=center >华兰生物工程股份有限公司</td>
+							                	<td align=center nowrap>JS1800439</td>
+							                	<td align=center nowrap>批签京检20180754</td>
+							                	<td align=center nowrap>JS1800439</td>
+							                	<td align=center nowrap>2018年07月18日</td>
+							                	
+							                	<td align=center nowrap>予以签发</td>
+							                	
+							                	<td align=center >北京市药品检验所</td>
+							              	</tr>
+				                    		   
+				                           <tr  height=50 bgcolor='#f1f7e9' onMouseOut="this.bgColor = '#f1f7f9'" onMouseOver="this.bgColor = '#CCFF66'"  >
+							                	<td align=center>30</td>                	               	
+							                	<td>人凝血因子Ⅷ</td>                	               	
+							                	<td>200IU/瓶</td>                	               	
+							                	<td align=center>201803019</td> 
+							                	
+							                	<td align=center>6193瓶</td> 
+							                	<td align=center nowrap>2020年3月2日</td>
+							                	<td align=center >华兰生物工程股份有限公司</td>
+							                	<td align=center nowrap>JS1800440</td>
+							                	<td align=center nowrap>批签京检20180755</td>
+							                	<td align=center nowrap>JS1800440</td>
+							                	<td align=center nowrap>2018年07月18日</td>
+							                	
+							                	<td align=center nowrap>予以签发</td>
+							                	
+							                	<td align=center >北京市药品检验所</td>
+							              	</tr>
+				                    		   
+				                           <tr  height=50 bgcolor='#f1f7e9' onMouseOut="this.bgColor = '#f1f7e9'" onMouseOver="this.bgColor = '#CCFF66'"  >
+							                	<td align=center>31</td>                	               	
+							                	<td>人凝血因子Ⅷ</td>                	               	
+							                	<td>200IU/瓶</td>                	               	
+							                	<td align=center>201803020</td> 
+							                	
+							                	<td align=center>7364瓶</td> 
+							                	<td align=center nowrap>2020年3月5日</td>
+							                	<td align=center >华兰生物工程股份有限公司</td>
+							                	<td align=center nowrap>JS1800441</td>
+							                	<td align=center nowrap>批签京检20180756</td>
+							                	<td align=center nowrap>JS1800441</td>
+							                	<td align=center nowrap>2018年07月18日</td>
+							                	
+							                	<td align=center nowrap>予以签发</td>
+							                	
+							                	<td align=center >北京市药品检验所</td>
+							              	</tr>
+				                    		   
+				                           <tr  height=50 bgcolor='#f1f7e9' onMouseOut="this.bgColor = '#f1f7f9'" onMouseOver="this.bgColor = '#CCFF66'"  >
+							                	<td align=center>32</td>                	               	
+							                	<td>人凝血因子Ⅷ</td>                	               	
+							                	<td>300IU/瓶</td>                	               	
+							                	<td align=center>201803021</td> 
+							                	
+							                	<td align=center>5527瓶</td> 
+							                	<td align=center nowrap>2020年3月9日</td>
+							                	<td align=center >华兰生物工程股份有限公司</td>
+							                	<td align=center nowrap>JS1800478</td>
+							                	<td align=center nowrap>批签京检20180757</td>
+							                	<td align=center nowrap>JS1800478</td>
+							                	<td align=center nowrap>2018年07月18日</td>
+							                	
+							                	<td align=center nowrap>予以签发</td>
+							                	
+							                	<td align=center >北京市药品检验所</td>
+							              	</tr>
+				                    		   
+				                           <tr  height=50 bgcolor='#f1f7e9' onMouseOut="this.bgColor = '#f1f7e9'" onMouseOver="this.bgColor = '#CCFF66'"  >
+							                	<td align=center>33</td>                	               	
+							                	<td>人血白蛋白</td>                	               	
+							                	<td>10g（20% ;50ml）/瓶</td>                	               	
+							                	<td align=center>A4AFB06361</td> 
+							                	
+							                	<td align=center>8610瓶</td> 
+							                	<td align=center nowrap>2020年10月</td>
+							                	<td align=center >西班牙基立福公司</td>
+							                	<td align=center nowrap>JS1800399</td>
+							                	<td align=center nowrap>批签京(进)检20180775</td>
+							                	<td align=center nowrap>JS1800399</td>
+							                	<td align=center nowrap>2018年07月24日</td>
+							                	
+							                	<td align=center nowrap>予以签发</td>
+							                	
+							                	<td align=center >北京市药品检验所</td>
+							              	</tr>
+				                    		   
+				                           <tr  height=50 bgcolor='#f1f7e9' onMouseOut="this.bgColor = '#f1f7f9'" onMouseOver="this.bgColor = '#CCFF66'"  >
+							                	<td align=center>34</td>                	               	
+							                	<td>人凝血因子Ⅷ</td>                	               	
+							                	<td>200IU/瓶</td>                	               	
+							                	<td align=center>201803023</td> 
+							                	
+							                	<td align=center>6696瓶</td> 
+							                	<td align=center nowrap>2020年3月16日</td>
+							                	<td align=center >华兰生物工程股份有限公司</td>
+							                	<td align=center nowrap>JS1800480</td>
+							                	<td align=center nowrap>批签京检20180758</td>
+							                	<td align=center nowrap>JS1800480</td>
+							                	<td align=center nowrap>2018年07月18日</td>
+							                	
+							                	<td align=center nowrap>予以签发</td>
+							                	
+							                	<td align=center >北京市药品检验所</td>
+							              	</tr>
+				                    		   
+				                           <tr  height=50 bgcolor='#f1f7e9' onMouseOut="this.bgColor = '#f1f7e9'" onMouseOver="this.bgColor = '#CCFF66'"  >
+							                	<td align=center>35</td>                	               	
+							                	<td>人血白蛋白</td>                	               	
+							                	<td>10g（20% ;50ml）/瓶</td>                	               	
+							                	<td align=center>A4AFB06391</td> 
+							                	
+							                	<td align=center>8816瓶</td> 
+							                	<td align=center nowrap>2020年10月</td>
+							                	<td align=center >西班牙基立福公司</td>
+							                	<td align=center nowrap>JS1800400</td>
+							                	<td align=center nowrap>批签京(进)检20180776</td>
+							                	<td align=center nowrap>JS1800400</td>
+							                	<td align=center nowrap>2018年07月24日</td>
+							                	
+							                	<td align=center nowrap>予以签发</td>
+							                	
+							                	<td align=center >北京市药品检验所</td>
+							              	</tr>
+				                    		   
+				                           <tr  height=50 bgcolor='#f1f7e9' onMouseOut="this.bgColor = '#f1f7f9'" onMouseOver="this.bgColor = '#CCFF66'"  >
+							                	<td align=center>36</td>                	               	
+							                	<td>人血白蛋白</td>                	               	
+							                	<td>10g（20% ;50ml）/瓶</td>                	               	
+							                	<td align=center>A4AFB06441</td> 
+							                	
+							                	<td align=center>8321瓶</td> 
+							                	<td align=center nowrap>2020年10月</td>
+							                	<td align=center >西班牙基立福公司</td>
+							                	<td align=center nowrap>JS1800401</td>
+							                	<td align=center nowrap>批签京(进)检20180777</td>
+							                	<td align=center nowrap>JS1800401</td>
+							                	<td align=center nowrap>2018年07月24日</td>
+							                	
+							                	<td align=center nowrap>予以签发</td>
+							                	
+							                	<td align=center >北京市药品检验所</td>
+							              	</tr>
+				                    		   
+				                           <tr  height=50 bgcolor='#f1f7e9' onMouseOut="this.bgColor = '#f1f7e9'" onMouseOver="this.bgColor = '#CCFF66'"  >
+							                	<td align=center>37</td>                	               	
+							                	<td>人血白蛋白</td>                	               	
+							                	<td>10g（20% ;50ml）/瓶</td>                	               	
+							                	<td align=center>A4AFB06461</td> 
+							                	
+							                	<td align=center>8613瓶</td> 
+							                	<td align=center nowrap>2020年10月</td>
+							                	<td align=center >西班牙基立福公司</td>
+							                	<td align=center nowrap>JS1800402</td>
+							                	<td align=center nowrap>批签京(进)检20180778</td>
+							                	<td align=center nowrap>JS1800402</td>
+							                	<td align=center nowrap>2018年07月24日</td>
+							                	
+							                	<td align=center nowrap>予以签发</td>
+							                	
+							                	<td align=center >北京市药品检验所</td>
+							              	</tr>
+				                    		   
+				                           <tr  height=50 bgcolor='#f1f7e9' onMouseOut="this.bgColor = '#f1f7f9'" onMouseOver="this.bgColor = '#CCFF66'"  >
+							                	<td align=center>38</td>                	               	
+							                	<td>人血白蛋白</td>                	               	
+							                	<td>10g（20% ;50ml）/瓶</td>                	               	
+							                	<td align=center>A4AFB06021</td> 
+							                	
+							                	<td align=center>8389瓶</td> 
+							                	<td align=center nowrap>2020年10月</td>
+							                	<td align=center >西班牙基立福公司</td>
+							                	<td align=center nowrap>JS1800403</td>
+							                	<td align=center nowrap>批签京(进)检20180779</td>
+							                	<td align=center nowrap>JS1800403</td>
+							                	<td align=center nowrap>2018年07月24日</td>
+							                	
+							                	<td align=center nowrap>予以签发</td>
+							                	
+							                	<td align=center >北京市药品检验所</td>
+							              	</tr>
+				                    		   
+				                           <tr  height=50 bgcolor='#f1f7e9' onMouseOut="this.bgColor = '#f1f7e9'" onMouseOver="this.bgColor = '#CCFF66'"  >
+							                	<td align=center>39</td>                	               	
+							                	<td>人血白蛋白</td>                	               	
+							                	<td>10g（20% ;50ml）/瓶</td>                	               	
+							                	<td align=center>A4AFB06271</td> 
+							                	
+							                	<td align=center>8861瓶</td> 
+							                	<td align=center nowrap>2020年10月</td>
+							                	<td align=center >西班牙基立福公司</td>
+							                	<td align=center nowrap>JS1800404</td>
+							                	<td align=center nowrap>批签京(进)检20180780</td>
+							                	<td align=center nowrap>JS1800404</td>
+							                	<td align=center nowrap>2018年07月24日</td>
+							                	
+							                	<td align=center nowrap>予以签发</td>
+							                	
+							                	<td align=center >北京市药品检验所</td>
+							              	</tr>
+				                    		   
+				                           <tr  height=50 bgcolor='#f1f7e9' onMouseOut="this.bgColor = '#f1f7f9'" onMouseOver="this.bgColor = '#CCFF66'"  >
+							                	<td align=center>40</td>                	               	
+							                	<td>人血白蛋白</td>                	               	
+							                	<td>10g（20% ;50ml）/瓶</td>                	               	
+							                	<td align=center>A4AFB06281</td> 
+							                	
+							                	<td align=center>8854瓶</td> 
+							                	<td align=center nowrap>2020年10月</td>
+							                	<td align=center >西班牙基立福公司</td>
+							                	<td align=center nowrap>JS1800405</td>
+							                	<td align=center nowrap>批签京(进)检20180781</td>
+							                	<td align=center nowrap>JS1800405</td>
+							                	<td align=center nowrap>2018年07月24日</td>
+							                	
+							                	<td align=center nowrap>予以签发</td>
+							                	
+							                	<td align=center >北京市药品检验所</td>
+							              	</tr>
+				                    		   
+				                           <tr  height=50 bgcolor='#f1f7e9' onMouseOut="this.bgColor = '#f1f7e9'" onMouseOver="this.bgColor = '#CCFF66'"  >
+							                	<td align=center>41</td>                	               	
+							                	<td>人血白蛋白</td>                	               	
+							                	<td>10g（20% ;50ml）/瓶</td>                	               	
+							                	<td align=center>A4AFB06291</td> 
+							                	
+							                	<td align=center>8632瓶</td> 
+							                	<td align=center nowrap>2020年10月</td>
+							                	<td align=center >西班牙基立福公司</td>
+							                	<td align=center nowrap>JS1800406</td>
+							                	<td align=center nowrap>批签京(进)检20180782</td>
+							                	<td align=center nowrap>JS1800406</td>
+							                	<td align=center nowrap>2018年07月24日</td>
+							                	
+							                	<td align=center nowrap>予以签发</td>
+							                	
+							                	<td align=center >北京市药品检验所</td>
+							              	</tr>
+				                    		   
+				                           <tr  height=50 bgcolor='#f1f7e9' onMouseOut="this.bgColor = '#f1f7f9'" onMouseOver="this.bgColor = '#CCFF66'"  >
+							                	<td align=center>42</td>                	               	
+							                	<td>人血白蛋白</td>                	               	
+							                	<td>10g（20% ;50ml）/瓶</td>                	               	
+							                	<td align=center>A4AFB06311</td> 
+							                	
+							                	<td align=center>8000瓶</td> 
+							                	<td align=center nowrap>2020年10月</td>
+							                	<td align=center >西班牙基立福公司</td>
+							                	<td align=center nowrap>JS1800407</td>
+							                	<td align=center nowrap>批签京(进)检20180783</td>
+							                	<td align=center nowrap>JS1800407</td>
+							                	<td align=center nowrap>2018年07月24日</td>
+							                	
+							                	<td align=center nowrap>予以签发</td>
+							                	
+							                	<td align=center >北京市药品检验所</td>
+							              	</tr>
+				                    		   
+				                           <tr  height=50 bgcolor='#f1f7e9' onMouseOut="this.bgColor = '#f1f7e9'" onMouseOver="this.bgColor = '#CCFF66'"  >
+							                	<td align=center>43</td>                	               	
+							                	<td>人凝血因子Ⅷ</td>                	               	
+							                	<td>300IU/瓶</td>                	               	
+							                	<td align=center>201803024</td> 
+							                	
+							                	<td align=center>4936瓶</td> 
+							                	<td align=center nowrap>2020年3月19日</td>
+							                	<td align=center >华兰生物工程股份有限公司</td>
+							                	<td align=center nowrap>JS1800481</td>
+							                	<td align=center nowrap>批签京检20180759</td>
+							                	<td align=center nowrap>JS1800481</td>
+							                	<td align=center nowrap>2018年07月18日</td>
+							                	
+							                	<td align=center nowrap>予以签发</td>
+							                	
+							                	<td align=center >北京市药品检验所</td>
+							              	</tr>
+				                    		   
+				                           <tr  height=50 bgcolor='#f1f7e9' onMouseOut="this.bgColor = '#f1f7f9'" onMouseOver="this.bgColor = '#CCFF66'"  >
+							                	<td align=center>44</td>                	               	
+							                	<td>人凝血因子Ⅷ</td>                	               	
+							                	<td>300IU/瓶</td>                	               	
+							                	<td align=center>201803025</td> 
+							                	
+							                	<td align=center>5393瓶</td> 
+							                	<td align=center nowrap>2020年3月22日</td>
+							                	<td align=center >华兰生物工程股份有限公司</td>
+							                	<td align=center nowrap>JS1800482</td>
+							                	<td align=center nowrap>批签京检20180760</td>
+							                	<td align=center nowrap>JS1800482</td>
+							                	<td align=center nowrap>2018年07月18日</td>
+							                	
+							                	<td align=center nowrap>予以签发</td>
+							                	
+							                	<td align=center >北京市药品检验所</td>
+							              	</tr>
+				                    		   
+				                           <tr  height=50 bgcolor='#f1f7e9' onMouseOut="this.bgColor = '#f1f7e9'" onMouseOver="this.bgColor = '#CCFF66'"  >
+							                	<td align=center>45</td>                	               	
+							                	<td>人凝血因子Ⅷ</td>                	               	
+							                	<td>200IU/瓶</td>                	               	
+							                	<td align=center>201803026</td> 
+							                	
+							                	<td align=center>7225瓶</td> 
+							                	<td align=center nowrap>2020年3月25日</td>
+							                	<td align=center >华兰生物工程股份有限公司</td>
+							                	<td align=center nowrap>JS1800483</td>
+							                	<td align=center nowrap>批签京检20180761</td>
+							                	<td align=center nowrap>JS1800483</td>
+							                	<td align=center nowrap>2018年07月18日</td>
+							                	
+							                	<td align=center nowrap>予以签发</td>
+							                	
+							                	<td align=center >北京市药品检验所</td>
+							              	</tr>
+				                    		   
+				                           <tr  height=50 bgcolor='#f1f7e9' onMouseOut="this.bgColor = '#f1f7f9'" onMouseOver="this.bgColor = '#CCFF66'"  >
+							                	<td align=center>46</td>                	               	
+							                	<td>人凝血因子Ⅷ</td>                	               	
+							                	<td>200IU/瓶</td>                	               	
+							                	<td align=center>201803027</td> 
+							                	
+							                	<td align=center>6626瓶</td> 
+							                	<td align=center nowrap>2020年3月28日</td>
+							                	<td align=center >华兰生物工程股份有限公司</td>
+							                	<td align=center nowrap>JS1800541</td>
+							                	<td align=center nowrap>批签京检20180762</td>
+							                	<td align=center nowrap>JS1800541</td>
+							                	<td align=center nowrap>2018年07月18日</td>
+							                	
+							                	<td align=center nowrap>予以签发</td>
+							                	
+							                	<td align=center >北京市药品检验所</td>
+							              	</tr>
+				                    		   
+				                           <tr  height=50 bgcolor='#f1f7e9' onMouseOut="this.bgColor = '#f1f7e9'" onMouseOver="this.bgColor = '#CCFF66'"  >
+							                	<td align=center>47</td>                	               	
+							                	<td>人凝血因子Ⅷ</td>                	               	
+							                	<td>300IU/瓶</td>                	               	
+							                	<td align=center>201804028</td> 
+							                	
+							                	<td align=center>5268瓶</td> 
+							                	<td align=center nowrap>2020年3月31日</td>
+							                	<td align=center >华兰生物工程股份有限公司</td>
+							                	<td align=center nowrap>JS1800542</td>
+							                	<td align=center nowrap>批签京检20180763</td>
+							                	<td align=center nowrap>JS1800542</td>
+							                	<td align=center nowrap>2018年07月18日</td>
+							                	
+							                	<td align=center nowrap>予以签发</td>
+							                	
+							                	<td align=center >北京市药品检验所</td>
+							              	</tr>
+				                    		   
+				                           <tr  height=50 bgcolor='#f1f7e9' onMouseOut="this.bgColor = '#f1f7f9'" onMouseOver="this.bgColor = '#CCFF66'"  >
+							                	<td align=center>48</td>                	               	
+							                	<td>人凝血因子Ⅷ</td>                	               	
+							                	<td>300IU/瓶</td>                	               	
+							                	<td align=center>201804029</td> 
+							                	
+							                	<td align=center>4629瓶</td> 
+							                	<td align=center nowrap>2020年4月3日</td>
+							                	<td align=center >华兰生物工程股份有限公司</td>
+							                	<td align=center nowrap>JS1800543</td>
+							                	<td align=center nowrap>批签京检20180764</td>
+							                	<td align=center nowrap>JS1800543</td>
+							                	<td align=center nowrap>2018年07月18日</td>
+							                	
+							                	<td align=center nowrap>予以签发</td>
+							                	
+							                	<td align=center >北京市药品检验所</td>
+							              	</tr>
+				                    		   
+				                           <tr  height=50 bgcolor='#f1f7e9' onMouseOut="this.bgColor = '#f1f7e9'" onMouseOver="this.bgColor = '#CCFF66'"  >
+							                	<td align=center>49</td>                	               	
+							                	<td>人血白蛋白</td>                	               	
+							                	<td>10g（20% ;50ml）/瓶</td>                	               	
+							                	<td align=center>A4AFB06321</td> 
+							                	
+							                	<td align=center>8501瓶</td> 
+							                	<td align=center nowrap>2020年10月</td>
+							                	<td align=center >西班牙基立福公司</td>
+							                	<td align=center nowrap>JS1800408</td>
+							                	<td align=center nowrap>批签京(进)检20180784</td>
+							                	<td align=center nowrap>JS1800408</td>
+							                	<td align=center nowrap>2018年07月24日</td>
+							                	
+							                	<td align=center nowrap>予以签发</td>
+							                	
+							                	<td align=center >北京市药品检验所</td>
+							              	</tr>
+				                    		   
+				                           <tr  height=50 bgcolor='#f1f7e9' onMouseOut="this.bgColor = '#f1f7f9'" onMouseOver="this.bgColor = '#CCFF66'"  >
+							                	<td align=center>50</td>                	               	
+							                	<td>人血白蛋白</td>                	               	
+							                	<td>10g（20% ;50ml）/瓶</td>                	               	
+							                	<td align=center>A4AFB06681</td> 
+							                	
+							                	<td align=center>8369瓶</td> 
+							                	<td align=center nowrap>2020年10月</td>
+							                	<td align=center >西班牙基立福公司</td>
+							                	<td align=center nowrap>JS1800418</td>
+							                	<td align=center nowrap>批签京(进)检20180794</td>
+							                	<td align=center nowrap>JS1800418</td>
+							                	<td align=center nowrap>2018年07月24日</td>
+							                	
+							                	<td align=center nowrap>予以签发</td>
+							                	
+							                	<td align=center >北京市药品检验所</td>
+							              	</tr>
+				                    		   
+				                           <tr  height=50 bgcolor='#f1f7e9' onMouseOut="this.bgColor = '#f1f7e9'" onMouseOver="this.bgColor = '#CCFF66'"  >
+							                	<td align=center>51</td>                	               	
+							                	<td>人血白蛋白</td>                	               	
+							                	<td>10g（20% ;50ml）/瓶</td>                	               	
+							                	<td align=center>A4AFB06691</td> 
+							                	
+							                	<td align=center>8335瓶</td> 
+							                	<td align=center nowrap>2020年11月</td>
+							                	<td align=center >西班牙基立福公司</td>
+							                	<td align=center nowrap>JS1800419</td>
+							                	<td align=center nowrap>批签京(进)检20180795</td>
+							                	<td align=center nowrap>JS1800419</td>
+							                	<td align=center nowrap>2018年07月24日</td>
+							                	
+							                	<td align=center nowrap>予以签发</td>
+							                	
+							                	<td align=center >北京市药品检验所</td>
+							              	</tr>
+				                    		   
+				                           <tr  height=50 bgcolor='#f1f7e9' onMouseOut="this.bgColor = '#f1f7f9'" onMouseOver="this.bgColor = '#CCFF66'"  >
+							                	<td align=center>52</td>                	               	
+							                	<td>人血白蛋白</td>                	               	
+							                	<td>10g（20% ;50ml）/瓶</td>                	               	
+							                	<td align=center>A4AFB05691</td> 
+							                	
+							                	<td align=center>8502瓶</td> 
+							                	<td align=center nowrap>2020年9月</td>
+							                	<td align=center >西班牙基立福公司</td>
+							                	<td align=center nowrap>JS1800420</td>
+							                	<td align=center nowrap>批签京(进)检20180796</td>
+							                	<td align=center nowrap>JS1800420</td>
+							                	<td align=center nowrap>2018年07月24日</td>
+							                	
+							                	<td align=center nowrap>予以签发</td>
+							                	
+							                	<td align=center >北京市药品检验所</td>
+							              	</tr>
+				                    		   
+				                           <tr  height=50 bgcolor='#f1f7e9' onMouseOut="this.bgColor = '#f1f7e9'" onMouseOver="this.bgColor = '#CCFF66'"  >
+							                	<td align=center>53</td>                	               	
+							                	<td>人血白蛋白</td>                	               	
+							                	<td>10g（20% ;50ml）/瓶</td>                	               	
+							                	<td align=center>A4AFB06401</td> 
+							                	
+							                	<td align=center>8905瓶</td> 
+							                	<td align=center nowrap>2020年10月</td>
+							                	<td align=center >西班牙基立福公司</td>
+							                	<td align=center nowrap>JS1800421</td>
+							                	<td align=center nowrap>批签京(进)检20180797</td>
+							                	<td align=center nowrap>JS1800421</td>
+							                	<td align=center nowrap>2018年07月24日</td>
+							                	
+							                	<td align=center nowrap>予以签发</td>
+							                	
+							                	<td align=center >北京市药品检验所</td>
+							              	</tr>
+				                    		   
+				                           <tr  height=50 bgcolor='#f1f7e9' onMouseOut="this.bgColor = '#f1f7f9'" onMouseOver="this.bgColor = '#CCFF66'"  >
+							                	<td align=center>54</td>                	               	
+							                	<td>人血白蛋白</td>                	               	
+							                	<td>10g（20% ;50ml）/瓶</td>                	               	
+							                	<td align=center>A4AFB06431</td> 
+							                	
+							                	<td align=center>8757瓶</td> 
+							                	<td align=center nowrap>2020年10月</td>
+							                	<td align=center >西班牙基立福公司</td>
+							                	<td align=center nowrap>JS1800422</td>
+							                	<td align=center nowrap>批签京(进)检20180798</td>
+							                	<td align=center nowrap>JS1800422</td>
+							                	<td align=center nowrap>2018年07月24日</td>
+							                	
+							                	<td align=center nowrap>予以签发</td>
+							                	
+							                	<td align=center >北京市药品检验所</td>
+							              	</tr>
+				                    		   
+				                           <tr  height=50 bgcolor='#f1f7e9' onMouseOut="this.bgColor = '#f1f7e9'" onMouseOver="this.bgColor = '#CCFF66'"  >
+							                	<td align=center>55</td>                	               	
+							                	<td>人血白蛋白</td>                	               	
+							                	<td>10g（20% ;50ml）/瓶</td>                	               	
+							                	<td align=center>A4AFB06511</td> 
+							                	
+							                	<td align=center>8557瓶</td> 
+							                	<td align=center nowrap>2020年10月</td>
+							                	<td align=center >西班牙基立福公司</td>
+							                	<td align=center nowrap>JS1800423</td>
+							                	<td align=center nowrap>批签京(进)检20180799</td>
+							                	<td align=center nowrap>JS1800423</td>
+							                	<td align=center nowrap>2018年07月24日</td>
+							                	
+							                	<td align=center nowrap>予以签发</td>
+							                	
+							                	<td align=center >北京市药品检验所</td>
+							              	</tr>
+				                    		   
+				                           <tr  height=50 bgcolor='#f1f7e9' onMouseOut="this.bgColor = '#f1f7f9'" onMouseOver="this.bgColor = '#CCFF66'"  >
+							                	<td align=center>56</td>                	               	
+							                	<td>人血白蛋白</td>                	               	
+							                	<td>10g（20% ;50ml）/瓶</td>                	               	
+							                	<td align=center>A4AFB06661</td> 
+							                	
+							                	<td align=center>8436瓶</td> 
+							                	<td align=center nowrap>2020年10月</td>
+							                	<td align=center >西班牙基立福公司</td>
+							                	<td align=center nowrap>JS1800424</td>
+							                	<td align=center nowrap>批签京(进)检20180800</td>
+							                	<td align=center nowrap>JS1800424</td>
+							                	<td align=center nowrap>2018年07月24日</td>
+							                	
+							                	<td align=center nowrap>予以签发</td>
+							                	
+							                	<td align=center >北京市药品检验所</td>
+							              	</tr>
+				                    		   
+				                           <tr  height=50 bgcolor='#f1f7e9' onMouseOut="this.bgColor = '#f1f7e9'" onMouseOver="this.bgColor = '#CCFF66'"  >
+							                	<td align=center>57</td>                	               	
+							                	<td>人血白蛋白</td>                	               	
+							                	<td>10g（20% ;50ml）/瓶</td>                	               	
+							                	<td align=center>A4AFB06701</td> 
+							                	
+							                	<td align=center>8652瓶</td> 
+							                	<td align=center nowrap>2020年10月</td>
+							                	<td align=center >西班牙基立福公司</td>
+							                	<td align=center nowrap>JS1800425</td>
+							                	<td align=center nowrap>批签京(进)检20180801</td>
+							                	<td align=center nowrap>JS1800425</td>
+							                	<td align=center nowrap>2018年07月24日</td>
+							                	
+							                	<td align=center nowrap>予以签发</td>
+							                	
+							                	<td align=center >北京市药品检验所</td>
+							              	</tr>
+				                    		   
+				                           <tr  height=50 bgcolor='#f1f7e9' onMouseOut="this.bgColor = '#f1f7f9'" onMouseOver="this.bgColor = '#CCFF66'"  >
+							                	<td align=center>58</td>                	               	
+							                	<td>人血白蛋白</td>                	               	
+							                	<td>12.5g(25%,50ml)/瓶</td>                	               	
+							                	<td align=center>201802018</td> 
+							                	
+							                	<td align=center>8543瓶</td> 
+							                	<td align=center nowrap>2021年2月27日</td>
+							                	<td align=center >华兰生物工程股份有限公司</td>
+							                	<td align=center nowrap>JS1800430</td>
+							                	<td align=center nowrap>批签京检20180802</td>
+							                	<td align=center nowrap>JS1800430</td>
+							                	<td align=center nowrap>2018年07月24日</td>
+							                	
+							                	<td align=center nowrap>予以签发</td>
+							                	
+							                	<td align=center >北京市药品检验所</td>
+							              	</tr>
+				                    		   
+				                           <tr  height=50 bgcolor='#f1f7e9' onMouseOut="this.bgColor = '#f1f7e9'" onMouseOver="this.bgColor = '#CCFF66'"  >
+							                	<td align=center>59</td>                	               	
+							                	<td>静注人免疫球蛋白（pH4）</td>                	               	
+							                	<td>2.5g（5%，50ml）/瓶</td>                	               	
+							                	<td align=center>201802006</td> 
+							                	
+							                	<td align=center>19266瓶</td> 
+							                	<td align=center nowrap>2021年2月26日</td>
+							                	<td align=center >华兰生物工程股份有限公司</td>
+							                	<td align=center nowrap>JS1800475</td>
+							                	<td align=center nowrap>批签京检20180803</td>
+							                	<td align=center nowrap>JS1800475</td>
+							                	<td align=center nowrap>2018年07月24日</td>
+							                	
+							                	<td align=center nowrap>予以签发</td>
+							                	
+							                	<td align=center >北京市药品检验所</td>
+							              	</tr>
+				                    		   
+				                           <tr  height=50 bgcolor='#f1f7e9' onMouseOut="this.bgColor = '#f1f7f9'" onMouseOver="this.bgColor = '#CCFF66'"  >
+							                	<td align=center>60</td>                	               	
+							                	<td>人凝血酶原复合物</td>                	               	
+							                	<td>200IU/瓶</td>                	               	
+							                	<td align=center>201801001</td> 
+							                	
+							                	<td align=center>7550瓶</td> 
+							                	<td align=center nowrap>2020年1月1日</td>
+							                	<td align=center >华兰生物工程股份有限公司</td>
+							                	<td align=center nowrap>JS1800353</td>
+							                	<td align=center nowrap>批签京检20180804</td>
+							                	<td align=center nowrap>JS1800353</td>
+							                	<td align=center nowrap>2018年07月26日</td>
+							                	
+							                	<td align=center nowrap>予以签发</td>
+							                	
+							                	<td align=center >北京市药品检验所</td>
+							              	</tr>
+				                    		   
+				                           <tr  height=50 bgcolor='#f1f7e9' onMouseOut="this.bgColor = '#f1f7e9'" onMouseOver="this.bgColor = '#CCFF66'"  >
+							                	<td align=center>61</td>                	               	
+							                	<td>人凝血酶原复合物</td>                	               	
+							                	<td>200IU/瓶</td>                	               	
+							                	<td align=center>201801002</td> 
+							                	
+							                	<td align=center>8096瓶</td> 
+							                	<td align=center nowrap>2020年1月4日</td>
+							                	<td align=center >华兰生物工程股份有限公司</td>
+							                	<td align=center nowrap>JS1800354</td>
+							                	<td align=center nowrap>批签京检20180805</td>
+							                	<td align=center nowrap>JS1800354</td>
+							                	<td align=center nowrap>2018年07月26日</td>
+							                	
+							                	<td align=center nowrap>予以签发</td>
+							                	
+							                	<td align=center >北京市药品检验所</td>
+							              	</tr>
+				                    		   
+				                           <tr  height=50 bgcolor='#f1f7e9' onMouseOut="this.bgColor = '#f1f7f9'" onMouseOver="this.bgColor = '#CCFF66'"  >
+							                	<td align=center>62</td>                	               	
+							                	<td>人凝血因子Ⅷ</td>                	               	
+							                	<td>200IU/瓶</td>                	               	
+							                	<td align=center>201802016</td> 
+							                	
+							                	<td align=center>7809瓶</td> 
+							                	<td align=center nowrap>2020年2月9日</td>
+							                	<td align=center >华兰生物工程股份有限公司</td>
+							                	<td align=center nowrap>JS1800386</td>
+							                	<td align=center nowrap>批签京检20180807</td>
+							                	<td align=center nowrap>JS1800386</td>
+							                	<td align=center nowrap>2018年07月26日</td>
+							                	
+							                	<td align=center nowrap>予以签发</td>
+							                	
+							                	<td align=center >北京市药品检验所</td>
+							              	</tr>
+				                    		   
+				                           <tr  height=50 bgcolor='#f1f7e9' onMouseOut="this.bgColor = '#f1f7e9'" onMouseOver="this.bgColor = '#CCFF66'"  >
+							                	<td align=center>63</td>                	               	
+							                	<td>人血白蛋白</td>                	               	
+							                	<td>20% 50ml(10g/瓶)</td>                	               	
+							                	<td align=center>20180206</td> 
+							                	
+							                	<td align=center>13844瓶</td> 
+							                	<td align=center nowrap>2021年1月</td>
+							                	<td align=center >山西康宝生物制品股份有限公司</td>
+							                	<td align=center nowrap>JS1800534</td>
+							                	<td align=center nowrap>批签京检20180808</td>
+							                	<td align=center nowrap>JS1800534</td>
+							                	<td align=center nowrap>2018年07月26日</td>
+							                	
+							                	<td align=center nowrap>予以签发</td>
+							                	
+							                	<td align=center >北京市药品检验所</td>
+							              	</tr>
+				                    		   
+				                           <tr  height=50 bgcolor='#f1f7e9' onMouseOut="this.bgColor = '#f1f7f9'" onMouseOver="this.bgColor = '#CCFF66'"  >
+							                	<td align=center>64</td>                	               	
+							                	<td>人血白蛋白</td>                	               	
+							                	<td>5g/瓶(10%,50ml)</td>                	               	
+							                	<td align=center>201803026</td> 
+							                	
+							                	<td align=center>21842瓶</td> 
+							                	<td align=center nowrap>2021年3月28日</td>
+							                	<td align=center >华兰生物工程股份有限公司</td>
+							                	<td align=center nowrap>JS1800564</td>
+							                	<td align=center nowrap>批签京检20180809</td>
+							                	<td align=center nowrap>JS1800564</td>
+							                	<td align=center nowrap>2018年07月26日</td>
+							                	
+							                	<td align=center nowrap>予以签发</td>
+							                	
+							                	<td align=center >北京市药品检验所</td>
+							              	</tr>
+				                    		   
+				                           <tr  height=50 bgcolor='#f1f7e9' onMouseOut="this.bgColor = '#f1f7e9'" onMouseOver="this.bgColor = '#CCFF66'"  >
+							                	<td align=center>65</td>                	               	
+							                	<td>人血白蛋白</td>                	               	
+							                	<td>5g/瓶(10%,50ml)</td>                	               	
+							                	<td align=center>201804028</td> 
+							                	
+							                	<td align=center>22460瓶</td> 
+							                	<td align=center nowrap>2021年4月2日</td>
+							                	<td align=center >华兰生物工程股份有限公司</td>
+							                	<td align=center nowrap>JS1800586</td>
+							                	<td align=center nowrap>批签京检20180810</td>
+							                	<td align=center nowrap>JS1800586</td>
+							                	<td align=center nowrap>2018年07月26日</td>
+							                	
+							                	<td align=center nowrap>予以签发</td>
+							                	
+							                	<td align=center >北京市药品检验所</td>
+							              	</tr>
+				                    		   
+				                           <tr  height=50 bgcolor='#f1f7e9' onMouseOut="this.bgColor = '#f1f7f9'" onMouseOver="this.bgColor = '#CCFF66'"  >
+							                	<td align=center>66</td>                	               	
+							                	<td>人血白蛋白</td>                	               	
+							                	<td>20% 50ml(10g/瓶)</td>                	               	
+							                	<td align=center>20180207</td> 
+							                	
+							                	<td align=center>13991瓶</td> 
+							                	<td align=center nowrap>2021年1月</td>
+							                	<td align=center >山西康宝生物制品股份有限公司</td>
+							                	<td align=center nowrap>JS1800567</td>
+							                	<td align=center nowrap>批签京检20180811</td>
+							                	<td align=center nowrap>JS1800567</td>
+							                	<td align=center nowrap>2018年07月31日</td>
+							                	
+							                	<td align=center nowrap>予以签发</td>
+							                	
+							                	<td align=center >北京市药品检验所</td>
+							              	</tr>
+				                    		   
+				                           <tr  height=50 bgcolor='#f1f7e9' onMouseOut="this.bgColor = '#f1f7e9'" onMouseOver="this.bgColor = '#CCFF66'"  >
+							                	<td align=center>67</td>                	               	
+							                	<td>人血白蛋白</td>                	               	
+							                	<td>20% 50ml(10g/瓶)</td>                	               	
+							                	<td align=center>20180308</td> 
+							                	
+							                	<td align=center>13863瓶</td> 
+							                	<td align=center nowrap>2021年2月</td>
+							                	<td align=center >山西康宝生物制品股份有限公司</td>
+							                	<td align=center nowrap>JS1800607</td>
+							                	<td align=center nowrap>批签京检20180812</td>
+							                	<td align=center nowrap>JS1800607</td>
+							                	<td align=center nowrap>2018年07月31日</td>
+							                	
+							                	<td align=center nowrap>予以签发</td>
+							                	
+							                	<td align=center >北京市药品检验所</td>
+							              	</tr>
+				                    		   
+				                           <tr  height=50 bgcolor='#f1f7e9' onMouseOut="this.bgColor = '#f1f7f9'" onMouseOver="this.bgColor = '#CCFF66'"  >
+							                	<td align=center>68</td>                	               	
+							                	<td>人血白蛋白</td>                	               	
+							                	<td>20% 50ml(10g/瓶)</td>                	               	
+							                	<td align=center>20180309</td> 
+							                	
+							                	<td align=center>13956瓶</td> 
+							                	<td align=center nowrap>2021年2月</td>
+							                	<td align=center >山西康宝生物制品股份有限公司</td>
+							                	<td align=center nowrap>JS1800608</td>
+							                	<td align=center nowrap>批签京检20180813</td>
+							                	<td align=center nowrap>JS1800608</td>
+							                	<td align=center nowrap>2018年07月31日</td>
+							                	
+							                	<td align=center nowrap>予以签发</td>
+							                	
+							                	<td align=center >北京市药品检验所</td>
+							              	</tr>
+				                    		   
+				                           <tr  height=50 bgcolor='#f1f7e9' onMouseOut="this.bgColor = '#f1f7e9'" onMouseOver="this.bgColor = '#CCFF66'"  >
+							                	<td align=center>69</td>                	               	
+							                	<td>人凝血因子Ⅷ</td>                	               	
+							                	<td>200IU/瓶</td>                	               	
+							                	<td align=center>201801012</td> 
+							                	
+							                	<td align=center>6811瓶</td> 
+							                	<td align=center nowrap>2020年1月28日</td>
+							                	<td align=center >华兰生物工程股份有限公司</td>
+							                	<td align=center nowrap>JS1800382</td>
+							                	<td align=center nowrap>批签京检20180806</td>
+							                	<td align=center nowrap>JS1800382</td>
+							                	<td align=center nowrap>2018年07月26日</td>
+							                	
+							                	<td align=center nowrap>予以签发</td>
+							                	
+							                	<td align=center >北京市药品检验所</td>
+							              	</tr>
+				                    		   
+				                           <tr  height=50 bgcolor='#f1f7e9' onMouseOut="this.bgColor = '#f1f7f9'" onMouseOver="this.bgColor = '#CCFF66'"  >
+							                	<td align=center>70</td>                	               	
+							                	<td>人血白蛋白</td>                	               	
+							                	<td>20% 50ml(10g/瓶)</td>                	               	
+							                	<td align=center>20180310</td> 
+							                	
+							                	<td align=center>13883瓶</td> 
+							                	<td align=center nowrap>2021年2月</td>
+							                	<td align=center >山西康宝生物制品股份有限公司</td>
+							                	<td align=center nowrap>JS1800609</td>
+							                	<td align=center nowrap>批签京检20180814</td>
+							                	<td align=center nowrap>JS1800609</td>
+							                	<td align=center nowrap>2018年07月31日</td>
+							                	
+							                	<td align=center nowrap>予以签发</td>
+							                	
+							                	<td align=center >北京市药品检验所</td>
+							              	</tr>
+				                    		   
+				                           <tr  height=50 bgcolor='#f1f7e9' onMouseOut="this.bgColor = '#f1f7e9'" onMouseOver="this.bgColor = '#CCFF66'"  >
+							                	<td align=center>71</td>                	               	
+							                	<td>人血白蛋白</td>                	               	
+							                	<td>10g（20% ;50ml）/瓶</td>                	               	
+							                	<td align=center>A4AFB06631</td> 
+							                	
+							                	<td align=center>8815瓶</td> 
+							                	<td align=center nowrap>2020年10月</td>
+							                	<td align=center >西班牙基立福公司</td>
+							                	<td align=center nowrap>JS1800415</td>
+							                	<td align=center nowrap>批签京(进)检20180791</td>
+							                	<td align=center nowrap>JS1800415</td>
+							                	<td align=center nowrap>2018年07月24日</td>
+							                	
+							                	<td align=center nowrap>予以签发</td>
+							                	
+							                	<td align=center >北京市药品检验所</td>
+							              	</tr>
+				                    		   
+				                           <tr  height=50 bgcolor='#f1f7e9' onMouseOut="this.bgColor = '#f1f7f9'" onMouseOver="this.bgColor = '#CCFF66'"  >
+							                	<td align=center>72</td>                	               	
+							                	<td>人血白蛋白</td>                	               	
+							                	<td>10g（20% ;50ml）/瓶</td>                	               	
+							                	<td align=center>A4AFB06651</td> 
+							                	
+							                	<td align=center>8764瓶</td> 
+							                	<td align=center nowrap>2020年10月</td>
+							                	<td align=center >西班牙基立福公司</td>
+							                	<td align=center nowrap>JS1800416</td>
+							                	<td align=center nowrap>批签京(进)检20180792</td>
+							                	<td align=center nowrap>JS1800416</td>
+							                	<td align=center nowrap>2018年07月24日</td>
+							                	
+							                	<td align=center nowrap>予以签发</td>
+							                	
+							                	<td align=center >北京市药品检验所</td>
+							              	</tr>
+				                    		   
+				                           <tr  height=50 bgcolor='#f1f7e9' onMouseOut="this.bgColor = '#f1f7e9'" onMouseOver="this.bgColor = '#CCFF66'"  >
+							                	<td align=center>73</td>                	               	
+							                	<td>人血白蛋白</td>                	               	
+							                	<td>10g（20% ;50ml）/瓶</td>                	               	
+							                	<td align=center>A4AFB06671</td> 
+							                	
+							                	<td align=center>8746瓶</td> 
+							                	<td align=center nowrap>2020年10月</td>
+							                	<td align=center >西班牙基立福公司</td>
+							                	<td align=center nowrap>JS1800417</td>
+							                	<td align=center nowrap>批签京(进)检20180793</td>
+							                	<td align=center nowrap>JS1800417</td>
+							                	<td align=center nowrap>2018年07月24日</td>
+							                	
+							                	<td align=center nowrap>予以签发</td>
+							                	
+							                	<td align=center >北京市药品检验所</td>
+							              	</tr>
+				                    		   
+				                           <tr  height=50 bgcolor='#f1f7e9' onMouseOut="this.bgColor = '#f1f7f9'" onMouseOver="this.bgColor = '#CCFF66'"  >
+							                	<td align=center>74</td>                	               	
+							                	<td>人血白蛋白</td>                	               	
+							                	<td>20% 50ml(10g/瓶)</td>                	               	
+							                	<td align=center>20180311</td> 
+							                	
+							                	<td align=center>13950瓶</td> 
+							                	<td align=center nowrap>2021年2月</td>
+							                	<td align=center >山西康宝生物制品股份有限公司</td>
+							                	<td align=center nowrap>JS1800610</td>
+							                	<td align=center nowrap>批签京检20180815</td>
+							                	<td align=center nowrap>JS1800610</td>
+							                	<td align=center nowrap>2018年07月31日</td>
+							                	
+							                	<td align=center nowrap>予以签发</td>
+							                	
+							                	<td align=center >北京市药品检验所</td>
+							              	</tr>
+				                    		   
+				                           <tr  height=50 bgcolor='#f1f7e9' onMouseOut="this.bgColor = '#f1f7e9'" onMouseOver="this.bgColor = '#CCFF66'"  >
+							                	<td align=center>75</td>                	               	
+							                	<td>人血白蛋白</td>                	               	
+							                	<td>20% 50ml(10g/瓶)</td>                	               	
+							                	<td align=center>20180412</td> 
+							                	
+							                	<td align=center>13831瓶</td> 
+							                	<td align=center nowrap>2021年3月</td>
+							                	<td align=center >山西康宝生物制品股份有限公司</td>
+							                	<td align=center nowrap>JS1800611</td>
+							                	<td align=center nowrap>批签京检20180816</td>
+							                	<td align=center nowrap>JS1800611</td>
+							                	<td align=center nowrap>2018年07月31日</td>
+							                	
+							                	<td align=center nowrap>予以签发</td>
+							                	
+							                	<td align=center >北京市药品检验所</td>
+							              	</tr>
+				                    	
+				            </table>
+				        </td>
+				    </tr>
+			</TABLE>
+	</DIV>
+</DIV>
+</CENTER>
+</HTML>

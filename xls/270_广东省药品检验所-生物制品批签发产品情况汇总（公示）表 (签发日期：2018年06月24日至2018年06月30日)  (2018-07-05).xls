@@ -1,0 +1,382 @@
+
+
+
+
+<html>
+
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "">
+<HTML>
+<HEAD>
+<TITLE>中国食品药品检定研究院</TITLE>
+<link href="styles/style_1.css" rel="stylesheet" type="text/css" />
+<META content="text/html; charset=GBK" http-equiv=Content-Type>
+<STYLE>BODY {
+	FONT-SIZE: 12px; BORDER-TOP: 0px; FONT-FAMILY: "宋体"; BORDER-RIGHT: 0px; BORDER-BOTTOM: 0px; PADDING-BOTTOM: 0px; PADDING-TOP: 0px; PADDING-LEFT: 0px; BORDER-LEFT: 0px; MARGIN: 0px; PADDING-RIGHT: 0px
+}
+A {
+	FONT-SIZE: 12px; BORDER-TOP: 0px; FONT-FAMILY: "宋体"; BORDER-RIGHT: 0px; BORDER-BOTTOM: 0px; PADDING-BOTTOM: 0px; PADDING-TOP: 0px; PADDING-LEFT: 0px; BORDER-LEFT: 0px; MARGIN: 0px; PADDING-RIGHT: 0px
+}
+P {
+	FONT-SIZE: 12px; BORDER-TOP: 0px; FONT-FAMILY: "宋体"; BORDER-RIGHT: 0px; BORDER-BOTTOM: 0px; PADDING-BOTTOM: 0px; PADDING-TOP: 0px; PADDING-LEFT: 0px; BORDER-LEFT: 0px; MARGIN: 0px; PADDING-RIGHT: 0px
+}
+UL {
+	FONT-SIZE: 12px; BORDER-TOP: 0px; FONT-FAMILY: "宋体"; BORDER-RIGHT: 0px; BORDER-BOTTOM: 0px; PADDING-BOTTOM: 0px; PADDING-TOP: 0px; PADDING-LEFT: 0px; BORDER-LEFT: 0px; MARGIN: 0px; PADDING-RIGHT: 0px
+}
+LI {
+	FONT-SIZE: 12px; BORDER-TOP: 0px; FONT-FAMILY: "宋体"; BORDER-RIGHT: 0px; BORDER-BOTTOM: 0px; PADDING-BOTTOM: 0px; PADDING-TOP: 0px; PADDING-LEFT: 0px; BORDER-LEFT: 0px; MARGIN: 0px; PADDING-RIGHT: 0px
+}
+UL {
+	LIST-STYLE-TYPE: none
+}
+LI {
+	LIST-STYLE-TYPE: none
+}
+.middle {
+	HEIGHT: auto; WIDTH: 100%; MARGIN: auto
+}
+.top {
+	 WIDTH: 100%; BACKGROUND: url(images/top_02.png) repeat-x
+}
+.topfont {
+	FONT-SIZE: 22px;
+	float:center;
+	text-align:center;
+	vertical-align:middle;
+	margin-top:20;
+}
+.content {
+	HEIGHT: 805px;WIDTH: 100%; BACKGROUND: url(images/content_09.png) repeat-x
+}
+.content UL {
+	WIDTH: 100%; FLOAT: left
+}
+.content UL LI {
+	FLOAT: left
+}
+
+</STYLE>
+</HEAD>
+
+<BODY>
+<CENTER align="center">
+<DIV class=middle>
+	<DIV class=top>
+		<DIV class=topfont>生物制品批签发产品公示情况汇总 </DIV>
+	</DIV>
+	<DIV class=content>
+			<TABLE border=0 cellSpacing=0 cellPadding=0  style="width: 100%">
+				     <tr valign="top">
+				    	<td align="center">
+				        	<table class="list_table" style="font-size:16px;" border=0 cellspacing="1" cellPadding=0 width="98%" align="center" bgcolor="#f6f7fb" onClick="sortColumn(event)">
+				            <thead>
+			             	<tr bgcolor="#C9DBF2" height=30>
+								<td   width="2%" align=center nowrap >序号</td>             	 	
+		 						<td   width="10%" align=center nowrap>产品名称</td>
+		 						<td   width="8%" align=center nowrap>规格</td>
+			             	 	<td   width="5%" align=center>批号</td>
+			             	 	<td   width="5%" align=center nowrap>签发量/拒签量</td>
+			             	 	<td   width="5%" align=center nowrap>有效期至</td>
+			             	 	<td   width="12%" align=center nowrap>生产企业</td>
+			             	 	<td   width="6%" align=center nowrap>收检编号</td>
+			             	 	<td   width="7%" align=center nowrap>证书编号</td>
+			             	 	<td   width="6%" align=center nowrap>报告编号</td>
+			             	 	<td   width="6%" align=center nowrap>签发日期</td>
+			             	 	<td   width="5%" align=center nowrap>签发结论</td>
+			             	 	<td   width="9%" align=center nowrap>批签发机构</td>
+			                 </tr>
+			       		   </thead>
+				                    		   
+				                           <tr  height=50 bgcolor='#f1f7e9' onMouseOut="this.bgColor = '#f1f7e9'" onMouseOver="this.bgColor = '#CCFF66'"  >
+							                	<td align=center>1</td>                	               	
+							                	<td>人血白蛋白</td>                	               	
+							                	<td>每瓶含蛋白质5g。蛋白质浓度20%</td>                	               	
+							                	<td align=center>20180305</td> 
+							                	
+							                	<td align=center>24803</td> 
+							                	<td align=center nowrap>2021年02月01日</td>
+							                	<td align=center >广东双林生物制药有限公司</td>
+							                	<td align=center nowrap>2018A10357</td>
+							                	<td align=center nowrap>批签粤检{2018A10357}号</td>
+							                	<td align=center nowrap>2018A10357</td>
+							                	<td align=center nowrap>2018年06月29日</td>
+							                	
+							                	<td align=center nowrap>予以签发</td>
+							                	
+							                	<td align=center >广东省药品检验所</td>
+							              	</tr>
+				                    		   
+				                           <tr  height=50 bgcolor='#f1f7e9' onMouseOut="this.bgColor = '#f1f7f9'" onMouseOver="this.bgColor = '#CCFF66'"  >
+							                	<td align=center>2</td>                	               	
+							                	<td>人血白蛋白</td>                	               	
+							                	<td>每瓶含蛋白质10g。蛋白质浓度20%</td>                	               	
+							                	<td align=center>20180406</td> 
+							                	
+							                	<td align=center>25448瓶</td> 
+							                	<td align=center nowrap>2021年3月</td>
+							                	<td align=center >广东双林生物制药有限公司</td>
+							                	<td align=center nowrap>2018A10359</td>
+							                	<td align=center nowrap>批签粤检{2018A10359}号</td>
+							                	<td align=center nowrap>2018A10359</td>
+							                	<td align=center nowrap>2018年06月27日</td>
+							                	
+							                	<td align=center nowrap>予以签发</td>
+							                	
+							                	<td align=center >广东省药品检验所</td>
+							              	</tr>
+				                    		   
+				                           <tr  height=50 bgcolor='#f1f7e9' onMouseOut="this.bgColor = '#f1f7e9'" onMouseOver="this.bgColor = '#CCFF66'"  >
+							                	<td align=center>3</td>                	               	
+							                	<td>人血白蛋白</td>                	               	
+							                	<td>每瓶含蛋白质10g。蛋白质浓度20%</td>                	               	
+							                	<td align=center>20180407</td> 
+							                	
+							                	<td align=center>25861瓶</td> 
+							                	<td align=center nowrap>2021年3月</td>
+							                	<td align=center >广东双林生物制药有限公司</td>
+							                	<td align=center nowrap>2018A10360</td>
+							                	<td align=center nowrap>批签粤检{2018A10360}号</td>
+							                	<td align=center nowrap>2018A10360</td>
+							                	<td align=center nowrap>2018年06月27日</td>
+							                	
+							                	<td align=center nowrap>予以签发</td>
+							                	
+							                	<td align=center >广东省药品检验所</td>
+							              	</tr>
+				                    		   
+				                           <tr  height=50 bgcolor='#f1f7e9' onMouseOut="this.bgColor = '#f1f7f9'" onMouseOver="this.bgColor = '#CCFF66'"  >
+							                	<td align=center>4</td>                	               	
+							                	<td>人血白蛋白</td>                	               	
+							                	<td>10g（20%，50ml）/瓶</td>                	               	
+							                	<td align=center>M5944411A</td> 
+							                	
+							                	<td align=center>36419盒</td> 
+							                	<td align=center nowrap>2022年12月</td>
+							                	<td align=center >CSL Behring GmbH</td>
+							                	<td align=center nowrap>2018A09656</td>
+							                	<td align=center nowrap>批签粤检{2018A09656}号</td>
+							                	<td align=center nowrap>2018A09656</td>
+							                	<td align=center nowrap>2018年06月26日</td>
+							                	
+							                	<td align=center nowrap>予以签发</td>
+							                	
+							                	<td align=center >广东省药品检验所</td>
+							              	</tr>
+				                    		   
+				                           <tr  height=50 bgcolor='#f1f7e9' onMouseOut="this.bgColor = '#f1f7e9'" onMouseOver="this.bgColor = '#CCFF66'"  >
+							                	<td align=center>5</td>                	               	
+							                	<td>人血白蛋白</td>                	               	
+							                	<td>10g（20%，50ml）/瓶</td>                	               	
+							                	<td align=center>M4644411A</td> 
+							                	
+							                	<td align=center>37608盒</td> 
+							                	<td align=center nowrap>2022年11月</td>
+							                	<td align=center >CSL Behring GmbH</td>
+							                	<td align=center nowrap>2018A09653</td>
+							                	<td align=center nowrap>批签粤检{2018A09653}号</td>
+							                	<td align=center nowrap>2018A09653</td>
+							                	<td align=center nowrap>2018年06月26日</td>
+							                	
+							                	<td align=center nowrap>予以签发</td>
+							                	
+							                	<td align=center >广东省药品检验所</td>
+							              	</tr>
+				                    		   
+				                           <tr  height=50 bgcolor='#f1f7e9' onMouseOut="this.bgColor = '#f1f7f9'" onMouseOver="this.bgColor = '#CCFF66'"  >
+							                	<td align=center>6</td>                	               	
+							                	<td>人血白蛋白</td>                	               	
+							                	<td>10g（20%，50ml）/瓶</td>                	               	
+							                	<td align=center>M4744411A</td> 
+							                	
+							                	<td align=center>36844盒</td> 
+							                	<td align=center nowrap>2022年11月</td>
+							                	<td align=center >CSL Behring GmbH</td>
+							                	<td align=center nowrap>2018A09654</td>
+							                	<td align=center nowrap>批签粤检{2018A09654}号</td>
+							                	<td align=center nowrap>2018A09654</td>
+							                	<td align=center nowrap>2018年06月26日</td>
+							                	
+							                	<td align=center nowrap>予以签发</td>
+							                	
+							                	<td align=center >广东省药品检验所</td>
+							              	</tr>
+				                    		   
+				                           <tr  height=50 bgcolor='#f1f7e9' onMouseOut="this.bgColor = '#f1f7e9'" onMouseOver="this.bgColor = '#CCFF66'"  >
+							                	<td align=center>7</td>                	               	
+							                	<td>人血白蛋白</td>                	               	
+							                	<td>10g（20%，50ml）/瓶</td>                	               	
+							                	<td align=center>M5644411A</td> 
+							                	
+							                	<td align=center>37444盒</td> 
+							                	<td align=center nowrap>2022年12月</td>
+							                	<td align=center >CSL Behring GmbH</td>
+							                	<td align=center nowrap>2018A09655</td>
+							                	<td align=center nowrap>批签粤检{2018A09655}号</td>
+							                	<td align=center nowrap>2018A09655</td>
+							                	<td align=center nowrap>2018年06月26日</td>
+							                	
+							                	<td align=center nowrap>予以签发</td>
+							                	
+							                	<td align=center >广东省药品检验所</td>
+							              	</tr>
+				                    		   
+				                           <tr  height=50 bgcolor='#f1f7e9' onMouseOut="this.bgColor = '#f1f7f9'" onMouseOver="this.bgColor = '#CCFF66'"  >
+							                	<td align=center>8</td>                	               	
+							                	<td>人血白蛋白</td>                	               	
+							                	<td>10g（20%，50ml）/瓶</td>                	               	
+							                	<td align=center>M5044411A</td> 
+							                	
+							                	<td align=center>36519瓶</td> 
+							                	<td align=center nowrap>2022年12月</td>
+							                	<td align=center >CSL Behring GmbH</td>
+							                	<td align=center nowrap>2018A09650</td>
+							                	<td align=center nowrap>批签粤检{2018A09650}号</td>
+							                	<td align=center nowrap>2018A09650</td>
+							                	<td align=center nowrap>2018年06月26日</td>
+							                	
+							                	<td align=center nowrap>予以签发</td>
+							                	
+							                	<td align=center >广东省药品检验所</td>
+							              	</tr>
+				                    		   
+				                           <tr  height=50 bgcolor='#f1f7e9' onMouseOut="this.bgColor = '#f1f7e9'" onMouseOver="this.bgColor = '#CCFF66'"  >
+							                	<td align=center>9</td>                	               	
+							                	<td>人血白蛋白</td>                	               	
+							                	<td>10g（20%，50ml）/瓶</td>                	               	
+							                	<td align=center>M5144411A</td> 
+							                	
+							                	<td align=center>37894瓶</td> 
+							                	<td align=center nowrap>2022年12月</td>
+							                	<td align=center >CSL Behring GmbH</td>
+							                	<td align=center nowrap>2018A09651</td>
+							                	<td align=center nowrap>批签粤检{2018A09651}号</td>
+							                	<td align=center nowrap>2018A09651</td>
+							                	<td align=center nowrap>2018年06月26日</td>
+							                	
+							                	<td align=center nowrap>予以签发</td>
+							                	
+							                	<td align=center >广东省药品检验所</td>
+							              	</tr>
+				                    		   
+				                           <tr  height=50 bgcolor='#f1f7e9' onMouseOut="this.bgColor = '#f1f7f9'" onMouseOver="this.bgColor = '#CCFF66'"  >
+							                	<td align=center>10</td>                	               	
+							                	<td>人血白蛋白</td>                	               	
+							                	<td>10g（20%，50ml）/瓶</td>                	               	
+							                	<td align=center>M5544411A</td> 
+							                	
+							                	<td align=center>36876瓶</td> 
+							                	<td align=center nowrap>2022年12月</td>
+							                	<td align=center >CSL Behring GmbH</td>
+							                	<td align=center nowrap>2018A09652</td>
+							                	<td align=center nowrap>批签粤检{2018A09652}号</td>
+							                	<td align=center nowrap>2018A09652</td>
+							                	<td align=center nowrap>2018年06月26日</td>
+							                	
+							                	<td align=center nowrap>予以签发</td>
+							                	
+							                	<td align=center >广东省药品检验所</td>
+							              	</tr>
+				                    		   
+				                           <tr  height=50 bgcolor='#f1f7e9' onMouseOut="this.bgColor = '#f1f7e9'" onMouseOver="this.bgColor = '#CCFF66'"  >
+							                	<td align=center>11</td>                	               	
+							                	<td>冻干静注人免疫球蛋白（pH4）</td>                	               	
+							                	<td>2.5g/瓶</td>                	               	
+							                	<td align=center>20180202D</td> 
+							                	
+							                	<td align=center>7646瓶</td> 
+							                	<td align=center nowrap>2021年2月8日</td>
+							                	<td align=center >深圳市卫光生物制品股份有限公司</td>
+							                	<td align=center nowrap>2018A09913</td>
+							                	<td align=center nowrap>批签粤检{2018A09913}号</td>
+							                	<td align=center nowrap>2018A09913</td>
+							                	<td align=center nowrap>2018年06月27日</td>
+							                	
+							                	<td align=center nowrap>予以签发</td>
+							                	
+							                	<td align=center >广东省药品检验所</td>
+							              	</tr>
+				                    		   
+				                           <tr  height=50 bgcolor='#f1f7e9' onMouseOut="this.bgColor = '#f1f7f9'" onMouseOver="this.bgColor = '#CCFF66'"  >
+							                	<td align=center>12</td>                	               	
+							                	<td>人血白蛋白</td>                	               	
+							                	<td>5g（10%，50ml）/瓶</td>                	               	
+							                	<td align=center>20180311B</td> 
+							                	
+							                	<td align=center>19630瓶</td> 
+							                	<td align=center nowrap>2021年3月15日</td>
+							                	<td align=center >深圳市卫光生物制品股份有限公司</td>
+							                	<td align=center nowrap>2018A09904</td>
+							                	<td align=center nowrap>批签粤检{2018A09904}号</td>
+							                	<td align=center nowrap>2018A09904</td>
+							                	<td align=center nowrap>2018年06月27日</td>
+							                	
+							                	<td align=center nowrap>予以签发</td>
+							                	
+							                	<td align=center >广东省药品检验所</td>
+							              	</tr>
+				                    		   
+				                           <tr  height=50 bgcolor='#f1f7e9' onMouseOut="this.bgColor = '#f1f7e9'" onMouseOver="this.bgColor = '#CCFF66'"  >
+							                	<td align=center>13</td>                	               	
+							                	<td>静注人免疫球蛋白（pH4）</td>                	               	
+							                	<td>2.5g（5%，50ml）/瓶</td>                	               	
+							                	<td align=center>20180104J</td> 
+							                	
+							                	<td align=center>15143瓶</td> 
+							                	<td align=center nowrap>2021年1月22日</td>
+							                	<td align=center >深圳市卫光生物制品股份有限公司</td>
+							                	<td align=center nowrap>2018A09909</td>
+							                	<td align=center nowrap>批签粤检{2018A09909}号</td>
+							                	<td align=center nowrap>2018A09909</td>
+							                	<td align=center nowrap>2018年06月27日</td>
+							                	
+							                	<td align=center nowrap>予以签发</td>
+							                	
+							                	<td align=center >广东省药品检验所</td>
+							              	</tr>
+				                    		   
+				                           <tr  height=50 bgcolor='#f1f7e9' onMouseOut="this.bgColor = '#f1f7f9'" onMouseOver="this.bgColor = '#CCFF66'"  >
+							                	<td align=center>14</td>                	               	
+							                	<td>冻干静注人免疫球蛋白（pH4）</td>                	               	
+							                	<td>2.5g/瓶</td>                	               	
+							                	<td align=center>20180203D</td> 
+							                	
+							                	<td align=center>7751瓶</td> 
+							                	<td align=center nowrap>2021年2月11日</td>
+							                	<td align=center >深圳市卫光生物制品股份有限公司</td>
+							                	<td align=center nowrap>2018A09916</td>
+							                	<td align=center nowrap>批签粤检{2018A09916}号</td>
+							                	<td align=center nowrap>2018A09916</td>
+							                	<td align=center nowrap>2018年06月27日</td>
+							                	
+							                	<td align=center nowrap>予以签发</td>
+							                	
+							                	<td align=center >广东省药品检验所</td>
+							              	</tr>
+				                    		   
+				                           <tr  height=50 bgcolor='#f1f7e9' onMouseOut="this.bgColor = '#f1f7e9'" onMouseOver="this.bgColor = '#CCFF66'"  >
+							                	<td align=center>15</td>                	               	
+							                	<td>冻干静注人免疫球蛋白（pH4）</td>                	               	
+							                	<td>2.5g</td>                	               	
+							                	<td align=center>201711012</td> 
+							                	
+							                	<td align=center>10025瓶</td> 
+							                	<td align=center nowrap>2020年11月12日</td>
+							                	<td align=center >广东卫伦生物制药有限公司</td>
+							                	<td align=center nowrap>2018A09519</td>
+							                	<td align=center nowrap>批签粤检{2018A09519}号</td>
+							                	<td align=center nowrap>2018A09519</td>
+							                	<td align=center nowrap>2018年06月26日</td>
+							                	
+							                	<td align=center nowrap>予以签发</td>
+							                	
+							                	<td align=center >广东省药品检验所</td>
+							              	</tr>
+				                    	
+				            </table>
+				        </td>
+				    </tr>
+			</TABLE>
+	</DIV>
+</DIV>
+</CENTER>
+</HTML>

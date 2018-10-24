@@ -1,0 +1,420 @@
+
+
+
+
+<html>
+
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "">
+<HTML>
+<HEAD>
+<TITLE>中国食品药品检定研究院</TITLE>
+<link href="styles/style_1.css" rel="stylesheet" type="text/css" />
+<META content="text/html; charset=GBK" http-equiv=Content-Type>
+<STYLE>BODY {
+	FONT-SIZE: 12px; BORDER-TOP: 0px; FONT-FAMILY: "宋体"; BORDER-RIGHT: 0px; BORDER-BOTTOM: 0px; PADDING-BOTTOM: 0px; PADDING-TOP: 0px; PADDING-LEFT: 0px; BORDER-LEFT: 0px; MARGIN: 0px; PADDING-RIGHT: 0px
+}
+A {
+	FONT-SIZE: 12px; BORDER-TOP: 0px; FONT-FAMILY: "宋体"; BORDER-RIGHT: 0px; BORDER-BOTTOM: 0px; PADDING-BOTTOM: 0px; PADDING-TOP: 0px; PADDING-LEFT: 0px; BORDER-LEFT: 0px; MARGIN: 0px; PADDING-RIGHT: 0px
+}
+P {
+	FONT-SIZE: 12px; BORDER-TOP: 0px; FONT-FAMILY: "宋体"; BORDER-RIGHT: 0px; BORDER-BOTTOM: 0px; PADDING-BOTTOM: 0px; PADDING-TOP: 0px; PADDING-LEFT: 0px; BORDER-LEFT: 0px; MARGIN: 0px; PADDING-RIGHT: 0px
+}
+UL {
+	FONT-SIZE: 12px; BORDER-TOP: 0px; FONT-FAMILY: "宋体"; BORDER-RIGHT: 0px; BORDER-BOTTOM: 0px; PADDING-BOTTOM: 0px; PADDING-TOP: 0px; PADDING-LEFT: 0px; BORDER-LEFT: 0px; MARGIN: 0px; PADDING-RIGHT: 0px
+}
+LI {
+	FONT-SIZE: 12px; BORDER-TOP: 0px; FONT-FAMILY: "宋体"; BORDER-RIGHT: 0px; BORDER-BOTTOM: 0px; PADDING-BOTTOM: 0px; PADDING-TOP: 0px; PADDING-LEFT: 0px; BORDER-LEFT: 0px; MARGIN: 0px; PADDING-RIGHT: 0px
+}
+UL {
+	LIST-STYLE-TYPE: none
+}
+LI {
+	LIST-STYLE-TYPE: none
+}
+.middle {
+	HEIGHT: auto; WIDTH: 100%; MARGIN: auto
+}
+.top {
+	 WIDTH: 100%; BACKGROUND: url(images/top_02.png) repeat-x
+}
+.topfont {
+	FONT-SIZE: 22px;
+	float:center;
+	text-align:center;
+	vertical-align:middle;
+	margin-top:20;
+}
+.content {
+	HEIGHT: 805px;WIDTH: 100%; BACKGROUND: url(images/content_09.png) repeat-x
+}
+.content UL {
+	WIDTH: 100%; FLOAT: left
+}
+.content UL LI {
+	FLOAT: left
+}
+
+</STYLE>
+</HEAD>
+
+<BODY>
+<CENTER align="center">
+<DIV class=middle>
+	<DIV class=top>
+		<DIV class=topfont>生物制品批签发产品公示情况汇总 </DIV>
+	</DIV>
+	<DIV class=content>
+			<TABLE border=0 cellSpacing=0 cellPadding=0  style="width: 100%">
+				     <tr valign="top">
+				    	<td align="center">
+				        	<table class="list_table" style="font-size:16px;" border=0 cellspacing="1" cellPadding=0 width="98%" align="center" bgcolor="#f6f7fb" onClick="sortColumn(event)">
+				            <thead>
+			             	<tr bgcolor="#C9DBF2" height=30>
+								<td   width="2%" align=center nowrap >序号</td>             	 	
+		 						<td   width="10%" align=center nowrap>产品名称</td>
+		 						<td   width="8%" align=center nowrap>规格</td>
+			             	 	<td   width="5%" align=center>批号</td>
+			             	 	<td   width="5%" align=center nowrap>签发量/拒签量</td>
+			             	 	<td   width="5%" align=center nowrap>有效期至</td>
+			             	 	<td   width="12%" align=center nowrap>生产企业</td>
+			             	 	<td   width="6%" align=center nowrap>收检编号</td>
+			             	 	<td   width="7%" align=center nowrap>证书编号</td>
+			             	 	<td   width="6%" align=center nowrap>报告编号</td>
+			             	 	<td   width="6%" align=center nowrap>签发日期</td>
+			             	 	<td   width="5%" align=center nowrap>签发结论</td>
+			             	 	<td   width="9%" align=center nowrap>批签发机构</td>
+			                 </tr>
+			       		   </thead>
+				                    		   
+				                           <tr  height=50 bgcolor='#f1f7e9' onMouseOut="this.bgColor = '#f1f7e9'" onMouseOver="this.bgColor = '#CCFF66'"  >
+							                	<td align=center>1</td>                	               	
+							                	<td>静注人免疫球蛋白（pH4）</td>                	               	
+							                	<td>5g（5%，100ml）/瓶</td>                	               	
+							                	<td align=center>20180103</td> 
+							                	
+							                	<td align=center>10024瓶</td> 
+							                	<td align=center nowrap>2021年1月5日</td>
+							                	<td align=center >山东泰邦生物制品有限公司</td>
+							                	<td align=center nowrap>JL-SP20180290</td>
+							                	<td align=center nowrap>批签吉检20180087</td>
+							                	<td align=center nowrap>JL-SP20180421</td>
+							                	<td align=center nowrap>2018年04月18日</td>
+							                	
+							                	<td align=center nowrap>予以签发</td>
+							                	
+							                	<td align=center >吉林省药品检验所</td>
+							              	</tr>
+				                    		   
+				                           <tr  height=50 bgcolor='#f1f7e9' onMouseOut="this.bgColor = '#f1f7f9'" onMouseOver="this.bgColor = '#CCFF66'"  >
+							                	<td align=center>2</td>                	               	
+							                	<td>人血白蛋白</td>                	               	
+							                	<td>20%,25ml</td>                	               	
+							                	<td align=center>201801006</td> 
+							                	
+							                	<td align=center>17672瓶</td> 
+							                	<td align=center nowrap>2021年1月18日</td>
+							                	<td align=center >山东泰邦生物制品有限公司</td>
+							                	<td align=center nowrap>JL-SP20180286</td>
+							                	<td align=center nowrap>批签吉检20180089</td>
+							                	<td align=center nowrap>JL-SP20180423</td>
+							                	<td align=center nowrap>2018年04月18日</td>
+							                	
+							                	<td align=center nowrap>予以签发</td>
+							                	
+							                	<td align=center >吉林省药品检验所</td>
+							              	</tr>
+				                    		   
+				                           <tr  height=50 bgcolor='#f1f7e9' onMouseOut="this.bgColor = '#f1f7e9'" onMouseOver="this.bgColor = '#CCFF66'"  >
+							                	<td align=center>3</td>                	               	
+							                	<td>人血白蛋白</td>                	               	
+							                	<td>20%,25ml</td>                	               	
+							                	<td align=center>201801007</td> 
+							                	
+							                	<td align=center>17458瓶</td> 
+							                	<td align=center nowrap>2021年1月18日</td>
+							                	<td align=center >山东泰邦生物制品有限公司</td>
+							                	<td align=center nowrap>JL-SP20180287</td>
+							                	<td align=center nowrap>批签吉检20180090</td>
+							                	<td align=center nowrap>JL-SP20180424</td>
+							                	<td align=center nowrap>2018年04月18日</td>
+							                	
+							                	<td align=center nowrap>予以签发</td>
+							                	
+							                	<td align=center >吉林省药品检验所</td>
+							              	</tr>
+				                    		   
+				                           <tr  height=50 bgcolor='#f1f7e9' onMouseOut="this.bgColor = '#f1f7f9'" onMouseOver="this.bgColor = '#CCFF66'"  >
+							                	<td align=center>4</td>                	               	
+							                	<td>人血白蛋白</td>                	               	
+							                	<td>20% 50ml</td>                	               	
+							                	<td align=center>201801008</td> 
+							                	
+							                	<td align=center>18413瓶</td> 
+							                	<td align=center nowrap>2021年1月20日</td>
+							                	<td align=center >山东泰邦生物制品有限公司</td>
+							                	<td align=center nowrap>JL-SP20180288</td>
+							                	<td align=center nowrap>批签吉检20180091</td>
+							                	<td align=center nowrap>JL-SP20180425</td>
+							                	<td align=center nowrap>2018年04月18日</td>
+							                	
+							                	<td align=center nowrap>予以签发</td>
+							                	
+							                	<td align=center >吉林省药品检验所</td>
+							              	</tr>
+				                    		   
+				                           <tr  height=50 bgcolor='#f1f7e9' onMouseOut="this.bgColor = '#f1f7e9'" onMouseOver="this.bgColor = '#CCFF66'"  >
+							                	<td align=center>5</td>                	               	
+							                	<td>人血白蛋白</td>                	               	
+							                	<td>20%,25ml</td>                	               	
+							                	<td align=center>201801009</td> 
+							                	
+							                	<td align=center>17861瓶</td> 
+							                	<td align=center nowrap>2021年1月22日</td>
+							                	<td align=center >山东泰邦生物制品有限公司</td>
+							                	<td align=center nowrap>JL-SP20180289</td>
+							                	<td align=center nowrap>批签吉检20180092</td>
+							                	<td align=center nowrap>JL-SP20180426</td>
+							                	<td align=center nowrap>2018年04月18日</td>
+							                	
+							                	<td align=center nowrap>予以签发</td>
+							                	
+							                	<td align=center >吉林省药品检验所</td>
+							              	</tr>
+				                    		   
+				                           <tr  height=50 bgcolor='#f1f7e9' onMouseOut="this.bgColor = '#f1f7f9'" onMouseOver="this.bgColor = '#CCFF66'"  >
+							                	<td align=center>6</td>                	               	
+							                	<td>人凝血酶原复合物</td>                	               	
+							                	<td>300IU/瓶</td>                	               	
+							                	<td align=center>20180101</td> 
+							                	
+							                	<td align=center>5415瓶</td> 
+							                	<td align=center nowrap>2020年1月13日</td>
+							                	<td align=center >山东泰邦生物制品有限公司</td>
+							                	<td align=center nowrap>JL-SP20180298</td>
+							                	<td align=center nowrap>批签吉检20180099</td>
+							                	<td align=center nowrap>JL-SP20180433</td>
+							                	<td align=center nowrap>2018年04月19日</td>
+							                	
+							                	<td align=center nowrap>予以签发</td>
+							                	
+							                	<td align=center >吉林省药品检验所</td>
+							              	</tr>
+				                    		   
+				                           <tr  height=50 bgcolor='#f1f7e9' onMouseOut="this.bgColor = '#f1f7e9'" onMouseOver="this.bgColor = '#CCFF66'"  >
+							                	<td align=center>7</td>                	               	
+							                	<td>人凝血酶原复合物</td>                	               	
+							                	<td>300IU/瓶</td>                	               	
+							                	<td align=center>20180102</td> 
+							                	
+							                	<td align=center>5398瓶</td> 
+							                	<td align=center nowrap>2020年1月16日</td>
+							                	<td align=center >山东泰邦生物制品有限公司</td>
+							                	<td align=center nowrap>JL-SP20180299</td>
+							                	<td align=center nowrap>批签吉检20180100</td>
+							                	<td align=center nowrap>JL-SP20180434</td>
+							                	<td align=center nowrap>2018年04月19日</td>
+							                	
+							                	<td align=center nowrap>予以签发</td>
+							                	
+							                	<td align=center >吉林省药品检验所</td>
+							              	</tr>
+				                    		   
+				                           <tr  height=50 bgcolor='#f1f7e9' onMouseOut="this.bgColor = '#f1f7f9'" onMouseOver="this.bgColor = '#CCFF66'"  >
+							                	<td align=center>8</td>                	               	
+							                	<td>人血白蛋白</td>                	               	
+							                	<td>20%,25ml</td>                	               	
+							                	<td align=center>201801005</td> 
+							                	
+							                	<td align=center>17623瓶</td> 
+							                	<td align=center nowrap>2021年1月16日</td>
+							                	<td align=center >山东泰邦生物制品有限公司</td>
+							                	<td align=center nowrap>JL-SP20180285</td>
+							                	<td align=center nowrap>批签吉检20180088</td>
+							                	<td align=center nowrap>JL-SP20180422</td>
+							                	<td align=center nowrap>2018年04月18日</td>
+							                	
+							                	<td align=center nowrap>予以签发</td>
+							                	
+							                	<td align=center >吉林省药品检验所</td>
+							              	</tr>
+				                    		   
+				                           <tr  height=50 bgcolor='#f1f7e9' onMouseOut="this.bgColor = '#f1f7e9'" onMouseOver="this.bgColor = '#CCFF66'"  >
+							                	<td align=center>9</td>                	               	
+							                	<td>人凝血因子Ⅷ</td>                	               	
+							                	<td>每瓶含人凝血因子Ⅷ为200IU。复溶后体积为10ml。</td>                	               	
+							                	<td align=center>20180206</td> 
+							                	
+							                	<td align=center>4956瓶</td> 
+							                	<td align=center nowrap>2020年1月31日</td>
+							                	<td align=center >山东泰邦生物制品有限公司</td>
+							                	<td align=center nowrap>JL-SP20180294</td>
+							                	<td align=center nowrap>批签吉检20180096</td>
+							                	<td align=center nowrap>JL-SP20180430</td>
+							                	<td align=center nowrap>2018年04月19日</td>
+							                	
+							                	<td align=center nowrap>予以签发</td>
+							                	
+							                	<td align=center >吉林省药品检验所</td>
+							              	</tr>
+				                    		   
+				                           <tr  height=50 bgcolor='#f1f7e9' onMouseOut="this.bgColor = '#f1f7f9'" onMouseOver="this.bgColor = '#CCFF66'"  >
+							                	<td align=center>10</td>                	               	
+							                	<td>人凝血酶原复合物</td>                	               	
+							                	<td>300IU/瓶</td>                	               	
+							                	<td align=center>20180104</td> 
+							                	
+							                	<td align=center>5417瓶</td> 
+							                	<td align=center nowrap>2020年1月22日</td>
+							                	<td align=center >山东泰邦生物制品有限公司</td>
+							                	<td align=center nowrap>JL-SP20180301</td>
+							                	<td align=center nowrap>批签吉检20180102</td>
+							                	<td align=center nowrap>JL-SP20180436</td>
+							                	<td align=center nowrap>2018年04月19日</td>
+							                	
+							                	<td align=center nowrap>予以签发</td>
+							                	
+							                	<td align=center >吉林省药品检验所</td>
+							              	</tr>
+				                    		   
+				                           <tr  height=50 bgcolor='#f1f7e9' onMouseOut="this.bgColor = '#f1f7e9'" onMouseOver="this.bgColor = '#CCFF66'"  >
+							                	<td align=center>11</td>                	               	
+							                	<td>人凝血酶原复合物</td>                	               	
+							                	<td>300IU/瓶</td>                	               	
+							                	<td align=center>20180105</td> 
+							                	
+							                	<td align=center>5412瓶</td> 
+							                	<td align=center nowrap>2020年1月25日</td>
+							                	<td align=center >山东泰邦生物制品有限公司</td>
+							                	<td align=center nowrap>JL-SP20180302</td>
+							                	<td align=center nowrap>批签吉检20180103</td>
+							                	<td align=center nowrap>JL-SP20180437</td>
+							                	<td align=center nowrap>2018年04月19日</td>
+							                	
+							                	<td align=center nowrap>予以签发</td>
+							                	
+							                	<td align=center >吉林省药品检验所</td>
+							              	</tr>
+				                    		   
+				                           <tr  height=50 bgcolor='#f1f7e9' onMouseOut="this.bgColor = '#f1f7f9'" onMouseOver="this.bgColor = '#CCFF66'"  >
+							                	<td align=center>12</td>                	               	
+							                	<td>人凝血因子Ⅷ</td>                	               	
+							                	<td>每瓶含人凝血因子Ⅷ为200IU。复溶后体积为10ml。</td>                	               	
+							                	<td align=center>20180207</td> 
+							                	
+							                	<td align=center>5156瓶</td> 
+							                	<td align=center nowrap>2020年2月2日</td>
+							                	<td align=center >山东泰邦生物制品有限公司</td>
+							                	<td align=center nowrap>JL-SP20180295</td>
+							                	<td align=center nowrap>批签吉检20180097</td>
+							                	<td align=center nowrap>JL-SP20180431</td>
+							                	<td align=center nowrap>2018年04月19日</td>
+							                	
+							                	<td align=center nowrap>予以签发</td>
+							                	
+							                	<td align=center >吉林省药品检验所</td>
+							              	</tr>
+				                    		   
+				                           <tr  height=50 bgcolor='#f1f7e9' onMouseOut="this.bgColor = '#f1f7e9'" onMouseOver="this.bgColor = '#CCFF66'"  >
+							                	<td align=center>13</td>                	               	
+							                	<td>人凝血因子Ⅷ</td>                	               	
+							                	<td>每瓶含人凝血因子Ⅷ为200IU。复溶后体积为10ml。</td>                	               	
+							                	<td align=center>20180208</td> 
+							                	
+							                	<td align=center>5400瓶</td> 
+							                	<td align=center nowrap>2020年2月4日</td>
+							                	<td align=center >山东泰邦生物制品有限公司</td>
+							                	<td align=center nowrap>JL-SP20180296</td>
+							                	<td align=center nowrap>批签吉检20180094</td>
+							                	<td align=center nowrap>JL-SP20180428</td>
+							                	<td align=center nowrap>2018年04月19日</td>
+							                	
+							                	<td align=center nowrap>予以签发</td>
+							                	
+							                	<td align=center >吉林省药品检验所</td>
+							              	</tr>
+				                    		   
+				                           <tr  height=50 bgcolor='#f1f7e9' onMouseOut="this.bgColor = '#f1f7f9'" onMouseOver="this.bgColor = '#CCFF66'"  >
+							                	<td align=center>14</td>                	               	
+							                	<td>人凝血因子Ⅷ</td>                	               	
+							                	<td>每瓶含人凝血因子Ⅷ为200IU。复溶后体积为10ml。</td>                	               	
+							                	<td align=center>20180209</td> 
+							                	
+							                	<td align=center>5094瓶</td> 
+							                	<td align=center nowrap>2020年2月6日</td>
+							                	<td align=center >山东泰邦生物制品有限公司</td>
+							                	<td align=center nowrap>JL-SP20180297</td>
+							                	<td align=center nowrap>批签吉检20180098</td>
+							                	<td align=center nowrap>JL-SP20180432</td>
+							                	<td align=center nowrap>2018年04月19日</td>
+							                	
+							                	<td align=center nowrap>予以签发</td>
+							                	
+							                	<td align=center >吉林省药品检验所</td>
+							              	</tr>
+				                    		   
+				                           <tr  height=50 bgcolor='#f1f7e9' onMouseOut="this.bgColor = '#f1f7e9'" onMouseOver="this.bgColor = '#CCFF66'"  >
+							                	<td align=center>15</td>                	               	
+							                	<td>破伤风人免疫球蛋白</td>                	               	
+							                	<td>250IU/瓶</td>                	               	
+							                	<td align=center>20180202</td> 
+							                	
+							                	<td align=center>57682瓶</td> 
+							                	<td align=center nowrap>2020年2月7日</td>
+							                	<td align=center >山东泰邦生物制品有限公司</td>
+							                	<td align=center nowrap>JL-SP20180292</td>
+							                	<td align=center nowrap>批签吉检20180093</td>
+							                	<td align=center nowrap>JL-SP20180427</td>
+							                	<td align=center nowrap>2018年04月19日</td>
+							                	
+							                	<td align=center nowrap>予以签发</td>
+							                	
+							                	<td align=center >吉林省药品检验所</td>
+							              	</tr>
+				                    		   
+				                           <tr  height=50 bgcolor='#f1f7e9' onMouseOut="this.bgColor = '#f1f7f9'" onMouseOver="this.bgColor = '#CCFF66'"  >
+							                	<td align=center>16</td>                	               	
+							                	<td>人凝血因子Ⅷ</td>                	               	
+							                	<td>每瓶含人凝血因子Ⅷ为200IU。复溶后体积为10ml。</td>                	               	
+							                	<td align=center>20180105</td> 
+							                	
+							                	<td align=center>5398瓶</td> 
+							                	<td align=center nowrap>2020年1月28日</td>
+							                	<td align=center >山东泰邦生物制品有限公司</td>
+							                	<td align=center nowrap>JL-SP20180293</td>
+							                	<td align=center nowrap>批签吉检20180095</td>
+							                	<td align=center nowrap>JL-SP20180429</td>
+							                	<td align=center nowrap>2018年04月19日</td>
+							                	
+							                	<td align=center nowrap>予以签发</td>
+							                	
+							                	<td align=center >吉林省药品检验所</td>
+							              	</tr>
+				                    		   
+				                           <tr  height=50 bgcolor='#f1f7e9' onMouseOut="this.bgColor = '#f1f7e9'" onMouseOver="this.bgColor = '#CCFF66'"  >
+							                	<td align=center>17</td>                	               	
+							                	<td>人凝血酶原复合物</td>                	               	
+							                	<td>300IU/瓶</td>                	               	
+							                	<td align=center>20180103</td> 
+							                	
+							                	<td align=center>5371瓶</td> 
+							                	<td align=center nowrap>2020年1月19日</td>
+							                	<td align=center >山东泰邦生物制品有限公司</td>
+							                	<td align=center nowrap>JL-SP20180300</td>
+							                	<td align=center nowrap>批签吉检20180101</td>
+							                	<td align=center nowrap>JL-SP20180435</td>
+							                	<td align=center nowrap>2018年04月19日</td>
+							                	
+							                	<td align=center nowrap>予以签发</td>
+							                	
+							                	<td align=center >吉林省药品检验所</td>
+							              	</tr>
+				                    	
+				            </table>
+				        </td>
+				    </tr>
+			</TABLE>
+	</DIV>
+</DIV>
+</CENTER>
+</HTML>

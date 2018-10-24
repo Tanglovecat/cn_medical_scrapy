@@ -1,0 +1,325 @@
+
+
+
+
+<html>
+
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "">
+<HTML>
+<HEAD>
+<TITLE>中国食品药品检定研究院</TITLE>
+<link href="styles/style_1.css" rel="stylesheet" type="text/css" />
+<META content="text/html; charset=GBK" http-equiv=Content-Type>
+<STYLE>BODY {
+	FONT-SIZE: 12px; BORDER-TOP: 0px; FONT-FAMILY: "宋体"; BORDER-RIGHT: 0px; BORDER-BOTTOM: 0px; PADDING-BOTTOM: 0px; PADDING-TOP: 0px; PADDING-LEFT: 0px; BORDER-LEFT: 0px; MARGIN: 0px; PADDING-RIGHT: 0px
+}
+A {
+	FONT-SIZE: 12px; BORDER-TOP: 0px; FONT-FAMILY: "宋体"; BORDER-RIGHT: 0px; BORDER-BOTTOM: 0px; PADDING-BOTTOM: 0px; PADDING-TOP: 0px; PADDING-LEFT: 0px; BORDER-LEFT: 0px; MARGIN: 0px; PADDING-RIGHT: 0px
+}
+P {
+	FONT-SIZE: 12px; BORDER-TOP: 0px; FONT-FAMILY: "宋体"; BORDER-RIGHT: 0px; BORDER-BOTTOM: 0px; PADDING-BOTTOM: 0px; PADDING-TOP: 0px; PADDING-LEFT: 0px; BORDER-LEFT: 0px; MARGIN: 0px; PADDING-RIGHT: 0px
+}
+UL {
+	FONT-SIZE: 12px; BORDER-TOP: 0px; FONT-FAMILY: "宋体"; BORDER-RIGHT: 0px; BORDER-BOTTOM: 0px; PADDING-BOTTOM: 0px; PADDING-TOP: 0px; PADDING-LEFT: 0px; BORDER-LEFT: 0px; MARGIN: 0px; PADDING-RIGHT: 0px
+}
+LI {
+	FONT-SIZE: 12px; BORDER-TOP: 0px; FONT-FAMILY: "宋体"; BORDER-RIGHT: 0px; BORDER-BOTTOM: 0px; PADDING-BOTTOM: 0px; PADDING-TOP: 0px; PADDING-LEFT: 0px; BORDER-LEFT: 0px; MARGIN: 0px; PADDING-RIGHT: 0px
+}
+UL {
+	LIST-STYLE-TYPE: none
+}
+LI {
+	LIST-STYLE-TYPE: none
+}
+.middle {
+	HEIGHT: auto; WIDTH: 100%; MARGIN: auto
+}
+.top {
+	 WIDTH: 100%; BACKGROUND: url(images/top_02.png) repeat-x
+}
+.topfont {
+	FONT-SIZE: 22px;
+	float:center;
+	text-align:center;
+	vertical-align:middle;
+	margin-top:20;
+}
+.content {
+	HEIGHT: 805px;WIDTH: 100%; BACKGROUND: url(images/content_09.png) repeat-x
+}
+.content UL {
+	WIDTH: 100%; FLOAT: left
+}
+.content UL LI {
+	FLOAT: left
+}
+
+</STYLE>
+</HEAD>
+
+<BODY>
+<CENTER align="center">
+<DIV class=middle>
+	<DIV class=top>
+		<DIV class=topfont>生物制品批签发产品公示情况汇总 </DIV>
+	</DIV>
+	<DIV class=content>
+			<TABLE border=0 cellSpacing=0 cellPadding=0  style="width: 100%">
+				     <tr valign="top">
+				    	<td align="center">
+				        	<table class="list_table" style="font-size:16px;" border=0 cellspacing="1" cellPadding=0 width="98%" align="center" bgcolor="#f6f7fb" onClick="sortColumn(event)">
+				            <thead>
+			             	<tr bgcolor="#C9DBF2" height=30>
+								<td   width="2%" align=center nowrap >序号</td>             	 	
+		 						<td   width="10%" align=center nowrap>产品名称</td>
+		 						<td   width="8%" align=center nowrap>规格</td>
+			             	 	<td   width="5%" align=center>批号</td>
+			             	 	<td   width="5%" align=center nowrap>签发量/拒签量</td>
+			             	 	<td   width="5%" align=center nowrap>有效期至</td>
+			             	 	<td   width="12%" align=center nowrap>生产企业</td>
+			             	 	<td   width="6%" align=center nowrap>收检编号</td>
+			             	 	<td   width="7%" align=center nowrap>证书编号</td>
+			             	 	<td   width="6%" align=center nowrap>报告编号</td>
+			             	 	<td   width="6%" align=center nowrap>签发日期</td>
+			             	 	<td   width="5%" align=center nowrap>签发结论</td>
+			             	 	<td   width="9%" align=center nowrap>批签发机构</td>
+			                 </tr>
+			       		   </thead>
+				                    		   
+				                           <tr  height=50 bgcolor='#f1f7e9' onMouseOut="this.bgColor = '#f1f7e9'" onMouseOver="this.bgColor = '#CCFF66'"  >
+							                	<td align=center>1</td>                	               	
+							                	<td>静注人免疫球蛋白（pH4）</td>                	               	
+							                	<td>2.5g/瓶(5%,50ml)</td>                	               	
+							                	<td align=center>201804012</td> 
+							                	
+							                	<td align=center>10638瓶</td> 
+							                	<td align=center nowrap>2020年10月15日</td>
+							                	<td align=center >国药集团武汉血液制品有限公司</td>
+							                	<td align=center nowrap>H20180388</td>
+							                	<td align=center nowrap>批签鄂检20180244</td>
+							                	<td align=center nowrap>bgs20180483</td>
+							                	<td align=center nowrap>2018年08月07日</td>
+							                	
+							                	<td align=center nowrap>予以签发</td>
+							                	
+							                	<td align=center >湖北省药品监督检验研究院</td>
+							              	</tr>
+				                    		   
+				                           <tr  height=50 bgcolor='#f1f7e9' onMouseOut="this.bgColor = '#f1f7f9'" onMouseOver="this.bgColor = '#CCFF66'"  >
+							                	<td align=center>2</td>                	               	
+							                	<td>静注人免疫球蛋白（pH4）</td>                	               	
+							                	<td>2.5g/瓶(5%,50ml)</td>                	               	
+							                	<td align=center>201804013</td> 
+							                	
+							                	<td align=center>10690瓶</td> 
+							                	<td align=center nowrap>2020年10月20日</td>
+							                	<td align=center >国药集团武汉血液制品有限公司</td>
+							                	<td align=center nowrap>H20180389</td>
+							                	<td align=center nowrap>批签鄂检20180243</td>
+							                	<td align=center nowrap>bgs20180482</td>
+							                	<td align=center nowrap>2018年08月07日</td>
+							                	
+							                	<td align=center nowrap>予以签发</td>
+							                	
+							                	<td align=center >湖北省药品监督检验研究院</td>
+							              	</tr>
+				                    		   
+				                           <tr  height=50 bgcolor='#f1f7e9' onMouseOut="this.bgColor = '#f1f7e9'" onMouseOver="this.bgColor = '#CCFF66'"  >
+							                	<td align=center>3</td>                	               	
+							                	<td>静注人免疫球蛋白（pH4）</td>                	               	
+							                	<td>2.5g/瓶（5%，50ml）</td>                	               	
+							                	<td align=center>20180413</td> 
+							                	
+							                	<td align=center>18781瓶</td> 
+							                	<td align=center nowrap>2021年3月</td>
+							                	<td align=center >同路生物制药有限公司</td>
+							                	<td align=center nowrap>H20180408</td>
+							                	<td align=center nowrap>批签鄂检20180240</td>
+							                	<td align=center nowrap>bgs20180479</td>
+							                	<td align=center nowrap>2018年08月07日</td>
+							                	
+							                	<td align=center nowrap>予以签发</td>
+							                	
+							                	<td align=center >湖北省药品监督检验研究院</td>
+							              	</tr>
+				                    		   
+				                           <tr  height=50 bgcolor='#f1f7e9' onMouseOut="this.bgColor = '#f1f7f9'" onMouseOver="this.bgColor = '#CCFF66'"  >
+							                	<td align=center>4</td>                	               	
+							                	<td>静注人免疫球蛋白（pH4）</td>                	               	
+							                	<td>2.5g/瓶（5%，50ml）</td>                	               	
+							                	<td align=center>20180515</td> 
+							                	
+							                	<td align=center>18205瓶</td> 
+							                	<td align=center nowrap>2021年4月</td>
+							                	<td align=center >同路生物制药有限公司</td>
+							                	<td align=center nowrap>H20180409</td>
+							                	<td align=center nowrap>批签鄂检20180241</td>
+							                	<td align=center nowrap>bgs20180480</td>
+							                	<td align=center nowrap>2018年08月07日</td>
+							                	
+							                	<td align=center nowrap>予以签发</td>
+							                	
+							                	<td align=center >湖北省药品监督检验研究院</td>
+							              	</tr>
+				                    		   
+				                           <tr  height=50 bgcolor='#f1f7e9' onMouseOut="this.bgColor = '#f1f7e9'" onMouseOver="this.bgColor = '#CCFF66'"  >
+							                	<td align=center>5</td>                	               	
+							                	<td>静注人免疫球蛋白（pH4）</td>                	               	
+							                	<td>2.5g/瓶(5%,50ml)</td>                	               	
+							                	<td align=center>201710018</td> 
+							                	
+							                	<td align=center>20445瓶</td> 
+							                	<td align=center nowrap>2020年9月</td>
+							                	<td align=center >南岳生物制药有限公司</td>
+							                	<td align=center nowrap>H20180402</td>
+							                	<td align=center nowrap>批签鄂检20180242</td>
+							                	<td align=center nowrap>bgs20180481</td>
+							                	<td align=center nowrap>2018年08月07日</td>
+							                	
+							                	<td align=center nowrap>予以签发</td>
+							                	
+							                	<td align=center >湖北省药品监督检验研究院</td>
+							              	</tr>
+				                    		   
+				                           <tr  height=50 bgcolor='#f1f7e9' onMouseOut="this.bgColor = '#f1f7f9'" onMouseOver="this.bgColor = '#CCFF66'"  >
+							                	<td align=center>6</td>                	               	
+							                	<td>静注人免疫球蛋白（pH4）</td>                	               	
+							                	<td>2.5g/瓶(5%,50ml)</td>                	               	
+							                	<td align=center>201711019</td> 
+							                	
+							                	<td align=center>14470瓶</td> 
+							                	<td align=center nowrap>2020年10月</td>
+							                	<td align=center >南岳生物制药有限公司</td>
+							                	<td align=center nowrap>H20180417</td>
+							                	<td align=center nowrap>批签鄂检20180239</td>
+							                	<td align=center nowrap>bgs20180478</td>
+							                	<td align=center nowrap>2018年08月07日</td>
+							                	
+							                	<td align=center nowrap>予以签发</td>
+							                	
+							                	<td align=center >湖北省药品监督检验研究院</td>
+							              	</tr>
+				                    		   
+				                           <tr  height=50 bgcolor='#f1f7e9' onMouseOut="this.bgColor = '#f1f7e9'" onMouseOver="this.bgColor = '#CCFF66'"  >
+							                	<td align=center>7</td>                	               	
+							                	<td>人血白蛋白</td>                	               	
+							                	<td>20%,50ml/瓶</td>                	               	
+							                	<td align=center>201805019</td> 
+							                	
+							                	<td align=center>13511瓶</td> 
+							                	<td align=center nowrap>2023年5月1日</td>
+							                	<td align=center >国药集团武汉血液制品有限公司</td>
+							                	<td align=center nowrap>H20180431</td>
+							                	<td align=center nowrap>批签鄂检20180237</td>
+							                	<td align=center nowrap>bgs20180476</td>
+							                	<td align=center nowrap>2018年08月07日</td>
+							                	
+							                	<td align=center nowrap>予以签发</td>
+							                	
+							                	<td align=center >湖北省药品监督检验研究院</td>
+							              	</tr>
+				                    		   
+				                           <tr  height=50 bgcolor='#f1f7e9' onMouseOut="this.bgColor = '#f1f7f9'" onMouseOver="this.bgColor = '#CCFF66'"  >
+							                	<td align=center>8</td>                	               	
+							                	<td>人血白蛋白</td>                	               	
+							                	<td>20%,50ml/瓶</td>                	               	
+							                	<td align=center>201805020</td> 
+							                	
+							                	<td align=center>13711瓶</td> 
+							                	<td align=center nowrap>2023年5月5日</td>
+							                	<td align=center >国药集团武汉血液制品有限公司</td>
+							                	<td align=center nowrap>H20180432</td>
+							                	<td align=center nowrap>批签鄂检20180236</td>
+							                	<td align=center nowrap>bgs20180475</td>
+							                	<td align=center nowrap>2018年08月07日</td>
+							                	
+							                	<td align=center nowrap>予以签发</td>
+							                	
+							                	<td align=center >湖北省药品监督检验研究院</td>
+							              	</tr>
+				                    		   
+				                           <tr  height=50 bgcolor='#f1f7e9' onMouseOut="this.bgColor = '#f1f7e9'" onMouseOver="this.bgColor = '#CCFF66'"  >
+							                	<td align=center>9</td>                	               	
+							                	<td>人血白蛋白</td>                	               	
+							                	<td>20%,50ml</td>                	               	
+							                	<td align=center>20180104</td> 
+							                	
+							                	<td align=center>11169瓶</td> 
+							                	<td align=center nowrap>2021年1月22日</td>
+							                	<td align=center >武汉中原瑞德生物制品有限责任公司</td>
+							                	<td align=center nowrap>H20180429</td>
+							                	<td align=center nowrap>批签鄂检20180238</td>
+							                	<td align=center nowrap>bgs20180477</td>
+							                	<td align=center nowrap>2018年08月07日</td>
+							                	
+							                	<td align=center nowrap>予以签发</td>
+							                	
+							                	<td align=center >湖北省药品监督检验研究院</td>
+							              	</tr>
+				                    		   
+				                           <tr  height=50 bgcolor='#f1f7e9' onMouseOut="this.bgColor = '#f1f7f9'" onMouseOver="this.bgColor = '#CCFF66'"  >
+							                	<td align=center>10</td>                	               	
+							                	<td>人血白蛋白</td>                	               	
+							                	<td>5%(5g/瓶)</td>                	               	
+							                	<td align=center>20180524</td> 
+							                	
+							                	<td align=center>21895瓶</td> 
+							                	<td align=center nowrap>2021年4月</td>
+							                	<td align=center >同路生物制药有限公司</td>
+							                	<td align=center nowrap>H20180433</td>
+							                	<td align=center nowrap>批签鄂检20180235</td>
+							                	<td align=center nowrap>bgs20180474</td>
+							                	<td align=center nowrap>2018年08月07日</td>
+							                	
+							                	<td align=center nowrap>予以签发</td>
+							                	
+							                	<td align=center >湖北省药品监督检验研究院</td>
+							              	</tr>
+				                    		   
+				                           <tr  height=50 bgcolor='#f1f7e9' onMouseOut="this.bgColor = '#f1f7e9'" onMouseOver="this.bgColor = '#CCFF66'"  >
+							                	<td align=center>11</td>                	               	
+							                	<td>人血白蛋白</td>                	               	
+							                	<td>10g/瓶(20%,50ml)</td>                	               	
+							                	<td align=center>201803005</td> 
+							                	
+							                	<td align=center>19122瓶</td> 
+							                	<td align=center nowrap>2021年2月</td>
+							                	<td align=center >南岳生物制药有限公司</td>
+							                	<td align=center nowrap>H20180440</td>
+							                	<td align=center nowrap>批签鄂检20180245</td>
+							                	<td align=center nowrap>bgs20180484</td>
+							                	<td align=center nowrap>2018年08月07日</td>
+							                	
+							                	<td align=center nowrap>予以签发</td>
+							                	
+							                	<td align=center >湖北省药品监督检验研究院</td>
+							              	</tr>
+				                    		   
+				                           <tr  height=50 bgcolor='#f1f7e9' onMouseOut="this.bgColor = '#f1f7f9'" onMouseOver="this.bgColor = '#CCFF66'"  >
+							                	<td align=center>12</td>                	               	
+							                	<td>人血白蛋白</td>                	               	
+							                	<td>10g/瓶(20%,50ml)</td>                	               	
+							                	<td align=center>201803006</td> 
+							                	
+							                	<td align=center>20182瓶</td> 
+							                	<td align=center nowrap>2021年2月</td>
+							                	<td align=center >南岳生物制药有限公司</td>
+							                	<td align=center nowrap>H20180441</td>
+							                	<td align=center nowrap>批签鄂检20180246</td>
+							                	<td align=center nowrap>bgs20180485</td>
+							                	<td align=center nowrap>2018年08月07日</td>
+							                	
+							                	<td align=center nowrap>予以签发</td>
+							                	
+							                	<td align=center >湖北省药品监督检验研究院</td>
+							              	</tr>
+				                    	
+				            </table>
+				        </td>
+				    </tr>
+			</TABLE>
+	</DIV>
+</DIV>
+</CENTER>
+</HTML>

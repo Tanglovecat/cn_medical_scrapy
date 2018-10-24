@@ -1,0 +1,1541 @@
+
+
+
+
+<html>
+
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "">
+<HTML>
+<HEAD>
+<TITLE>中国食品药品检定研究院</TITLE>
+<link href="styles/style_1.css" rel="stylesheet" type="text/css" />
+<META content="text/html; charset=GBK" http-equiv=Content-Type>
+<STYLE>BODY {
+	FONT-SIZE: 12px; BORDER-TOP: 0px; FONT-FAMILY: "宋体"; BORDER-RIGHT: 0px; BORDER-BOTTOM: 0px; PADDING-BOTTOM: 0px; PADDING-TOP: 0px; PADDING-LEFT: 0px; BORDER-LEFT: 0px; MARGIN: 0px; PADDING-RIGHT: 0px
+}
+A {
+	FONT-SIZE: 12px; BORDER-TOP: 0px; FONT-FAMILY: "宋体"; BORDER-RIGHT: 0px; BORDER-BOTTOM: 0px; PADDING-BOTTOM: 0px; PADDING-TOP: 0px; PADDING-LEFT: 0px; BORDER-LEFT: 0px; MARGIN: 0px; PADDING-RIGHT: 0px
+}
+P {
+	FONT-SIZE: 12px; BORDER-TOP: 0px; FONT-FAMILY: "宋体"; BORDER-RIGHT: 0px; BORDER-BOTTOM: 0px; PADDING-BOTTOM: 0px; PADDING-TOP: 0px; PADDING-LEFT: 0px; BORDER-LEFT: 0px; MARGIN: 0px; PADDING-RIGHT: 0px
+}
+UL {
+	FONT-SIZE: 12px; BORDER-TOP: 0px; FONT-FAMILY: "宋体"; BORDER-RIGHT: 0px; BORDER-BOTTOM: 0px; PADDING-BOTTOM: 0px; PADDING-TOP: 0px; PADDING-LEFT: 0px; BORDER-LEFT: 0px; MARGIN: 0px; PADDING-RIGHT: 0px
+}
+LI {
+	FONT-SIZE: 12px; BORDER-TOP: 0px; FONT-FAMILY: "宋体"; BORDER-RIGHT: 0px; BORDER-BOTTOM: 0px; PADDING-BOTTOM: 0px; PADDING-TOP: 0px; PADDING-LEFT: 0px; BORDER-LEFT: 0px; MARGIN: 0px; PADDING-RIGHT: 0px
+}
+UL {
+	LIST-STYLE-TYPE: none
+}
+LI {
+	LIST-STYLE-TYPE: none
+}
+.middle {
+	HEIGHT: auto; WIDTH: 100%; MARGIN: auto
+}
+.top {
+	 WIDTH: 100%; BACKGROUND: url(images/top_02.png) repeat-x
+}
+.topfont {
+	FONT-SIZE: 22px;
+	float:center;
+	text-align:center;
+	vertical-align:middle;
+	margin-top:20;
+}
+.content {
+	HEIGHT: 805px;WIDTH: 100%; BACKGROUND: url(images/content_09.png) repeat-x
+}
+.content UL {
+	WIDTH: 100%; FLOAT: left
+}
+.content UL LI {
+	FLOAT: left
+}
+
+</STYLE>
+</HEAD>
+
+<BODY>
+<CENTER align="center">
+<DIV class=middle>
+	<DIV class=top>
+		<DIV class=topfont>生物制品批签发产品公示情况汇总 </DIV>
+	</DIV>
+	<DIV class=content>
+			<TABLE border=0 cellSpacing=0 cellPadding=0  style="width: 100%">
+				     <tr valign="top">
+				    	<td align="center">
+				        	<table class="list_table" style="font-size:16px;" border=0 cellspacing="1" cellPadding=0 width="98%" align="center" bgcolor="#f6f7fb" onClick="sortColumn(event)">
+				            <thead>
+			             	<tr bgcolor="#C9DBF2" height=30>
+								<td   width="2%" align=center nowrap >序号</td>             	 	
+		 						<td   width="10%" align=center nowrap>产品名称</td>
+		 						<td   width="8%" align=center nowrap>规格</td>
+			             	 	<td   width="5%" align=center>批号</td>
+			             	 	<td   width="5%" align=center nowrap>签发量/拒签量</td>
+			             	 	<td   width="5%" align=center nowrap>有效期至</td>
+			             	 	<td   width="12%" align=center nowrap>生产企业</td>
+			             	 	<td   width="6%" align=center nowrap>收检编号</td>
+			             	 	<td   width="7%" align=center nowrap>证书编号</td>
+			             	 	<td   width="6%" align=center nowrap>报告编号</td>
+			             	 	<td   width="6%" align=center nowrap>签发日期</td>
+			             	 	<td   width="5%" align=center nowrap>签发结论</td>
+			             	 	<td   width="9%" align=center nowrap>批签发机构</td>
+			                 </tr>
+			       		   </thead>
+				                    		   
+				                           <tr  height=50 bgcolor='#f1f7e9' onMouseOut="this.bgColor = '#f1f7e9'" onMouseOver="this.bgColor = '#CCFF66'"  >
+							                	<td align=center>1</td>                	               	
+							                	<td>人血白蛋白</td>                	               	
+							                	<td>5g/瓶（20%，25ml）</td>                	               	
+							                	<td align=center>201709120A</td> 
+							                	
+							                	<td align=center>21067瓶</td> 
+							                	<td align=center nowrap>2020年9月11日</td>
+							                	<td align=center >四川远大蜀阳药业股份有限公司</td>
+							                	<td align=center nowrap>E201701477</td>
+							                	<td align=center nowrap>批签蜀检201800045</td>
+							                	<td align=center nowrap>E201701477</td>
+							                	<td align=center nowrap>2018年01月19日</td>
+							                	
+							                	<td align=center nowrap>予以签发</td>
+							                	
+							                	<td align=center >四川省食品药品检验所</td>
+							              	</tr>
+				                    		   
+				                           <tr  height=50 bgcolor='#f1f7e9' onMouseOut="this.bgColor = '#f1f7f9'" onMouseOver="this.bgColor = '#CCFF66'"  >
+							                	<td align=center>2</td>                	               	
+							                	<td>狂犬病人免疫球蛋白</td>                	               	
+							                	<td>200IU/瓶（100IU/ml，2ml）</td>                	               	
+							                	<td align=center>201709026R</td> 
+							                	
+							                	<td align=center>38706瓶</td> 
+							                	<td align=center nowrap>2019年9月27日</td>
+							                	<td align=center >四川远大蜀阳药业股份有限公司</td>
+							                	<td align=center nowrap>E201701478</td>
+							                	<td align=center nowrap>批签蜀检201800046</td>
+							                	<td align=center nowrap>E201701478</td>
+							                	<td align=center nowrap>2018年01月19日</td>
+							                	
+							                	<td align=center nowrap>予以签发</td>
+							                	
+							                	<td align=center >四川省食品药品检验所</td>
+							              	</tr>
+				                    		   
+				                           <tr  height=50 bgcolor='#f1f7e9' onMouseOut="this.bgColor = '#f1f7e9'" onMouseOver="this.bgColor = '#CCFF66'"  >
+							                	<td align=center>3</td>                	               	
+							                	<td>静注人免疫球蛋白（pH4）</td>                	               	
+							                	<td>2.5g/瓶</td>                	               	
+							                	<td align=center>201709041</td> 
+							                	
+							                	<td align=center>11734瓶</td> 
+							                	<td align=center nowrap>2020年9月3日</td>
+							                	<td align=center >贵州泰邦生物制品有限公司</td>
+							                	<td align=center nowrap>E201701507</td>
+							                	<td align=center nowrap>批签蜀检201800047</td>
+							                	<td align=center nowrap>E201701507</td>
+							                	<td align=center nowrap>2018年01月24日</td>
+							                	
+							                	<td align=center nowrap>予以签发</td>
+							                	
+							                	<td align=center >四川省食品药品检验所</td>
+							              	</tr>
+				                    		   
+				                           <tr  height=50 bgcolor='#f1f7e9' onMouseOut="this.bgColor = '#f1f7f9'" onMouseOver="this.bgColor = '#CCFF66'"  >
+							                	<td align=center>4</td>                	               	
+							                	<td>静注人免疫球蛋白（pH4）</td>                	               	
+							                	<td>2.5g/瓶</td>                	               	
+							                	<td align=center>201709042</td> 
+							                	
+							                	<td align=center>11498瓶</td> 
+							                	<td align=center nowrap>2020年9月7日</td>
+							                	<td align=center >贵州泰邦生物制品有限公司</td>
+							                	<td align=center nowrap>E201701508</td>
+							                	<td align=center nowrap>批签蜀检201800048</td>
+							                	<td align=center nowrap>E201701508</td>
+							                	<td align=center nowrap>2018年01月24日</td>
+							                	
+							                	<td align=center nowrap>予以签发</td>
+							                	
+							                	<td align=center >四川省食品药品检验所</td>
+							              	</tr>
+				                    		   
+				                           <tr  height=50 bgcolor='#f1f7e9' onMouseOut="this.bgColor = '#f1f7e9'" onMouseOver="this.bgColor = '#CCFF66'"  >
+							                	<td align=center>5</td>                	               	
+							                	<td>静注人免疫球蛋白（pH4）</td>                	               	
+							                	<td>5g/瓶(5%,100ml)</td>                	               	
+							                	<td align=center>201709244B</td> 
+							                	
+							                	<td align=center>9043瓶</td> 
+							                	<td align=center nowrap>2020年9月21日</td>
+							                	<td align=center >四川远大蜀阳药业股份有限公司</td>
+							                	<td align=center nowrap>E201701512</td>
+							                	<td align=center nowrap>批签蜀检201800049</td>
+							                	<td align=center nowrap>E201701512</td>
+							                	<td align=center nowrap>2018年01月24日</td>
+							                	
+							                	<td align=center nowrap>予以签发</td>
+							                	
+							                	<td align=center >四川省食品药品检验所</td>
+							              	</tr>
+				                    		   
+				                           <tr  height=50 bgcolor='#f1f7e9' onMouseOut="this.bgColor = '#f1f7f9'" onMouseOver="this.bgColor = '#CCFF66'"  >
+							                	<td align=center>6</td>                	               	
+							                	<td>静注人免疫球蛋白（pH4）</td>                	               	
+							                	<td>5% 50ml 2.5g/瓶</td>                	               	
+							                	<td align=center>201709B070</td> 
+							                	
+							                	<td align=center>18134瓶</td> 
+							                	<td align=center nowrap>2020年9月19日</td>
+							                	<td align=center >成都蓉生药业有限责任公司</td>
+							                	<td align=center nowrap>E201701517</td>
+							                	<td align=center nowrap>批签蜀检201800050</td>
+							                	<td align=center nowrap>E201701517</td>
+							                	<td align=center nowrap>2018年01月24日</td>
+							                	
+							                	<td align=center nowrap>予以签发</td>
+							                	
+							                	<td align=center >四川省食品药品检验所</td>
+							              	</tr>
+				                    		   
+				                           <tr  height=50 bgcolor='#f1f7e9' onMouseOut="this.bgColor = '#f1f7e9'" onMouseOver="this.bgColor = '#CCFF66'"  >
+							                	<td align=center>7</td>                	               	
+							                	<td>人凝血酶原复合物</td>                	               	
+							                	<td>300IU/20ml/瓶</td>                	               	
+							                	<td align=center>201705011</td> 
+							                	
+							                	<td align=center>976瓶</td> 
+							                	<td align=center nowrap>2020年4月30日</td>
+							                	<td align=center >贵州泰邦生物制品有限公司</td>
+							                	<td align=center nowrap>E201701231</td>
+							                	<td align=center nowrap>批签蜀检201800061</td>
+							                	<td align=center nowrap>E201701231</td>
+							                	<td align=center nowrap>2018年01月30日</td>
+							                	
+							                	<td align=center nowrap>予以签发</td>
+							                	
+							                	<td align=center >四川省食品药品检验所</td>
+							              	</tr>
+				                    		   
+				                           <tr  height=50 bgcolor='#f1f7e9' onMouseOut="this.bgColor = '#f1f7f9'" onMouseOver="this.bgColor = '#CCFF66'"  >
+							                	<td align=center>8</td>                	               	
+							                	<td>人凝血酶原复合物</td>                	               	
+							                	<td>300IU/20ml/瓶</td>                	               	
+							                	<td align=center>201708015</td> 
+							                	
+							                	<td align=center>1296瓶</td> 
+							                	<td align=center nowrap>2020年8月28日</td>
+							                	<td align=center >贵州泰邦生物制品有限公司</td>
+							                	<td align=center nowrap>E201701234</td>
+							                	<td align=center nowrap>批签蜀检201800062</td>
+							                	<td align=center nowrap>E201701234</td>
+							                	<td align=center nowrap>2018年01月30日</td>
+							                	
+							                	<td align=center nowrap>予以签发</td>
+							                	
+							                	<td align=center >四川省食品药品检验所</td>
+							              	</tr>
+				                    		   
+				                           <tr  height=50 bgcolor='#f1f7e9' onMouseOut="this.bgColor = '#f1f7e9'" onMouseOver="this.bgColor = '#CCFF66'"  >
+							                	<td align=center>9</td>                	               	
+							                	<td>人凝血酶原复合物</td>                	               	
+							                	<td>300IU/20ml/瓶</td>                	               	
+							                	<td align=center>201706014</td> 
+							                	
+							                	<td align=center>1093瓶</td> 
+							                	<td align=center nowrap>2020年6月1日</td>
+							                	<td align=center >贵州泰邦生物制品有限公司</td>
+							                	<td align=center nowrap>E201701233</td>
+							                	<td align=center nowrap>批签蜀检201800063</td>
+							                	<td align=center nowrap>E201701233</td>
+							                	<td align=center nowrap>2018年01月30日</td>
+							                	
+							                	<td align=center nowrap>予以签发</td>
+							                	
+							                	<td align=center >四川省食品药品检验所</td>
+							              	</tr>
+				                    		   
+				                           <tr  height=50 bgcolor='#f1f7e9' onMouseOut="this.bgColor = '#f1f7f9'" onMouseOver="this.bgColor = '#CCFF66'"  >
+							                	<td align=center>10</td>                	               	
+							                	<td>人凝血酶原复合物</td>                	               	
+							                	<td>300IU/20ml/瓶</td>                	               	
+							                	<td align=center>201705013</td> 
+							                	
+							                	<td align=center>1012瓶</td> 
+							                	<td align=center nowrap>2020年5月16日</td>
+							                	<td align=center >贵州泰邦生物制品有限公司</td>
+							                	<td align=center nowrap>E201701232</td>
+							                	<td align=center nowrap>批签蜀检201800064</td>
+							                	<td align=center nowrap>E201701232</td>
+							                	<td align=center nowrap>2018年01月30日</td>
+							                	
+							                	<td align=center nowrap>予以签发</td>
+							                	
+							                	<td align=center >四川省食品药品检验所</td>
+							              	</tr>
+				                    		   
+				                           <tr  height=50 bgcolor='#f1f7e9' onMouseOut="this.bgColor = '#f1f7e9'" onMouseOver="this.bgColor = '#CCFF66'"  >
+							                	<td align=center>11</td>                	               	
+							                	<td>人凝血酶原复合物</td>                	               	
+							                	<td>300IU/20ml/瓶</td>                	               	
+							                	<td align=center>201709017</td> 
+							                	
+							                	<td align=center>1423瓶</td> 
+							                	<td align=center nowrap>2020年9月5日</td>
+							                	<td align=center >贵州泰邦生物制品有限公司</td>
+							                	<td align=center nowrap>E201701236</td>
+							                	<td align=center nowrap>批签蜀检201800065</td>
+							                	<td align=center nowrap>E201701236</td>
+							                	<td align=center nowrap>2018年01月30日</td>
+							                	
+							                	<td align=center nowrap>予以签发</td>
+							                	
+							                	<td align=center >四川省食品药品检验所</td>
+							              	</tr>
+				                    		   
+				                           <tr  height=50 bgcolor='#f1f7e9' onMouseOut="this.bgColor = '#f1f7f9'" onMouseOver="this.bgColor = '#CCFF66'"  >
+							                	<td align=center>12</td>                	               	
+							                	<td>静注人免疫球蛋白（pH4）</td>                	               	
+							                	<td>5% 50ml 2.5g/瓶</td>                	               	
+							                	<td align=center>201709B073</td> 
+							                	
+							                	<td align=center>18375瓶</td> 
+							                	<td align=center nowrap>2020年9月28日</td>
+							                	<td align=center >成都蓉生药业有限责任公司</td>
+							                	<td align=center nowrap>E201701551</td>
+							                	<td align=center nowrap>批签蜀检201800076</td>
+							                	<td align=center nowrap>E201701551</td>
+							                	<td align=center nowrap>2018年02月02日</td>
+							                	
+							                	<td align=center nowrap>予以签发</td>
+							                	
+							                	<td align=center >四川省食品药品检验所</td>
+							              	</tr>
+				                    		   
+				                           <tr  height=50 bgcolor='#f1f7e9' onMouseOut="this.bgColor = '#f1f7e9'" onMouseOver="this.bgColor = '#CCFF66'"  >
+							                	<td align=center>13</td>                	               	
+							                	<td>人凝血酶原复合物</td>                	               	
+							                	<td>300IU/20ml/瓶</td>                	               	
+							                	<td align=center>201709016</td> 
+							                	
+							                	<td align=center>1294瓶</td> 
+							                	<td align=center nowrap>2020年9月1日</td>
+							                	<td align=center >贵州泰邦生物制品有限公司</td>
+							                	<td align=center nowrap>E201701235</td>
+							                	<td align=center nowrap>批签蜀检201800066</td>
+							                	<td align=center nowrap>E201701235</td>
+							                	<td align=center nowrap>2018年01月30日</td>
+							                	
+							                	<td align=center nowrap>予以签发</td>
+							                	
+							                	<td align=center >四川省食品药品检验所</td>
+							              	</tr>
+				                    		   
+				                           <tr  height=50 bgcolor='#f1f7e9' onMouseOut="this.bgColor = '#f1f7f9'" onMouseOver="this.bgColor = '#CCFF66'"  >
+							                	<td align=center>14</td>                	               	
+							                	<td>人血白蛋白</td>                	               	
+							                	<td>20% 50ml 10g/瓶</td>                	               	
+							                	<td align=center>201709A106</td> 
+							                	
+							                	<td align=center>14241瓶</td> 
+							                	<td align=center nowrap>2022年9月6日</td>
+							                	<td align=center >成都蓉生药业有限责任公司</td>
+							                	<td align=center nowrap>E201701448</td>
+							                	<td align=center nowrap>批签蜀检201800016</td>
+							                	<td align=center nowrap>E201701448</td>
+							                	<td align=center nowrap>2018年01月10日</td>
+							                	
+							                	<td align=center nowrap>予以签发</td>
+							                	
+							                	<td align=center >四川省食品药品检验所</td>
+							              	</tr>
+				                    		   
+				                           <tr  height=50 bgcolor='#f1f7e9' onMouseOut="this.bgColor = '#f1f7e9'" onMouseOver="this.bgColor = '#CCFF66'"  >
+							                	<td align=center>15</td>                	               	
+							                	<td>静注人免疫球蛋白（pH4）</td>                	               	
+							                	<td>2.5g/瓶</td>                	               	
+							                	<td align=center>201708036</td> 
+							                	
+							                	<td align=center>11615瓶</td> 
+							                	<td align=center nowrap>2020年8月14日</td>
+							                	<td align=center >贵州泰邦生物制品有限公司</td>
+							                	<td align=center nowrap>E201701441</td>
+							                	<td align=center nowrap>批签蜀检201800017</td>
+							                	<td align=center nowrap>E201701441</td>
+							                	<td align=center nowrap>2018年01月10日</td>
+							                	
+							                	<td align=center nowrap>予以签发</td>
+							                	
+							                	<td align=center >四川省食品药品检验所</td>
+							              	</tr>
+				                    		   
+				                           <tr  height=50 bgcolor='#f1f7e9' onMouseOut="this.bgColor = '#f1f7f9'" onMouseOver="this.bgColor = '#CCFF66'"  >
+							                	<td align=center>16</td>                	               	
+							                	<td>静注人免疫球蛋白（pH4）</td>                	               	
+							                	<td>2.5g/瓶</td>                	               	
+							                	<td align=center>201708037</td> 
+							                	
+							                	<td align=center>11625瓶</td> 
+							                	<td align=center nowrap>2020年8月18日</td>
+							                	<td align=center >贵州泰邦生物制品有限公司</td>
+							                	<td align=center nowrap>E201701442</td>
+							                	<td align=center nowrap>批签蜀检201800018</td>
+							                	<td align=center nowrap>E201701442</td>
+							                	<td align=center nowrap>2018年01月10日</td>
+							                	
+							                	<td align=center nowrap>予以签发</td>
+							                	
+							                	<td align=center >四川省食品药品检验所</td>
+							              	</tr>
+				                    		   
+				                           <tr  height=50 bgcolor='#f1f7e9' onMouseOut="this.bgColor = '#f1f7e9'" onMouseOver="this.bgColor = '#CCFF66'"  >
+							                	<td align=center>17</td>                	               	
+							                	<td>静注人免疫球蛋白（pH4）</td>                	               	
+							                	<td>2.5g/瓶</td>                	               	
+							                	<td align=center>201708038</td> 
+							                	
+							                	<td align=center>11769瓶</td> 
+							                	<td align=center nowrap>2020年8月22日</td>
+							                	<td align=center >贵州泰邦生物制品有限公司</td>
+							                	<td align=center nowrap>E201701443</td>
+							                	<td align=center nowrap>批签蜀检201800019</td>
+							                	<td align=center nowrap>E201701443</td>
+							                	<td align=center nowrap>2018年01月10日</td>
+							                	
+							                	<td align=center nowrap>予以签发</td>
+							                	
+							                	<td align=center >四川省食品药品检验所</td>
+							              	</tr>
+				                    		   
+				                           <tr  height=50 bgcolor='#f1f7e9' onMouseOut="this.bgColor = '#f1f7f9'" onMouseOver="this.bgColor = '#CCFF66'"  >
+							                	<td align=center>18</td>                	               	
+							                	<td>静注人免疫球蛋白（pH4）</td>                	               	
+							                	<td>2.5g/瓶</td>                	               	
+							                	<td align=center>201708039</td> 
+							                	
+							                	<td align=center>11787瓶</td> 
+							                	<td align=center nowrap>2020年8月26日</td>
+							                	<td align=center >贵州泰邦生物制品有限公司</td>
+							                	<td align=center nowrap>E201701444</td>
+							                	<td align=center nowrap>批签蜀检201800020</td>
+							                	<td align=center nowrap>E201701444</td>
+							                	<td align=center nowrap>2018年01月10日</td>
+							                	
+							                	<td align=center nowrap>予以签发</td>
+							                	
+							                	<td align=center >四川省食品药品检验所</td>
+							              	</tr>
+				                    		   
+				                           <tr  height=50 bgcolor='#f1f7e9' onMouseOut="this.bgColor = '#f1f7e9'" onMouseOver="this.bgColor = '#CCFF66'"  >
+							                	<td align=center>19</td>                	               	
+							                	<td>静注人免疫球蛋白（pH4）</td>                	               	
+							                	<td>2.5g（5%，50ml）/瓶</td>                	               	
+							                	<td align=center>201708028</td> 
+							                	
+							                	<td align=center>19273瓶</td> 
+							                	<td align=center nowrap>2020年8月2日</td>
+							                	<td align=center >华兰生物工程重庆有限公司</td>
+							                	<td align=center nowrap>E201701462</td>
+							                	<td align=center nowrap>批签蜀检201800031</td>
+							                	<td align=center nowrap>E201701462</td>
+							                	<td align=center nowrap>2018年01月19日</td>
+							                	
+							                	<td align=center nowrap>予以签发</td>
+							                	
+							                	<td align=center >四川省食品药品检验所</td>
+							              	</tr>
+				                    		   
+				                           <tr  height=50 bgcolor='#f1f7e9' onMouseOut="this.bgColor = '#f1f7f9'" onMouseOver="this.bgColor = '#CCFF66'"  >
+							                	<td align=center>20</td>                	               	
+							                	<td>静注人免疫球蛋白（pH4）</td>                	               	
+							                	<td>2.5g（5%，50ml）/瓶</td>                	               	
+							                	<td align=center>201708029</td> 
+							                	
+							                	<td align=center>19239瓶</td> 
+							                	<td align=center nowrap>2020年8月7日</td>
+							                	<td align=center >华兰生物工程重庆有限公司</td>
+							                	<td align=center nowrap>E201701463</td>
+							                	<td align=center nowrap>批签蜀检201800032</td>
+							                	<td align=center nowrap>E201701463</td>
+							                	<td align=center nowrap>2018年01月19日</td>
+							                	
+							                	<td align=center nowrap>予以签发</td>
+							                	
+							                	<td align=center >四川省食品药品检验所</td>
+							              	</tr>
+				                    		   
+				                           <tr  height=50 bgcolor='#f1f7e9' onMouseOut="this.bgColor = '#f1f7e9'" onMouseOver="this.bgColor = '#CCFF66'"  >
+							                	<td align=center>21</td>                	               	
+							                	<td>静注人免疫球蛋白（pH4）</td>                	               	
+							                	<td>2.5g/瓶</td>                	               	
+							                	<td align=center>201708040</td> 
+							                	
+							                	<td align=center>11596瓶</td> 
+							                	<td align=center nowrap>2020年8月30日</td>
+							                	<td align=center >贵州泰邦生物制品有限公司</td>
+							                	<td align=center nowrap>E201701464</td>
+							                	<td align=center nowrap>批签蜀检201800033</td>
+							                	<td align=center nowrap>E201701464</td>
+							                	<td align=center nowrap>2018年01月19日</td>
+							                	
+							                	<td align=center nowrap>予以签发</td>
+							                	
+							                	<td align=center >四川省食品药品检验所</td>
+							              	</tr>
+				                    		   
+				                           <tr  height=50 bgcolor='#f1f7e9' onMouseOut="this.bgColor = '#f1f7f9'" onMouseOver="this.bgColor = '#CCFF66'"  >
+							                	<td align=center>22</td>                	               	
+							                	<td>人血白蛋白</td>                	               	
+							                	<td>20%，10g</td>                	               	
+							                	<td align=center>201708043</td> 
+							                	
+							                	<td align=center>14742瓶</td> 
+							                	<td align=center nowrap>2020年8月8日</td>
+							                	<td align=center >贵州泰邦生物制品有限公司</td>
+							                	<td align=center nowrap>E201701465</td>
+							                	<td align=center nowrap>批签蜀检201800034</td>
+							                	<td align=center nowrap>E201701465</td>
+							                	<td align=center nowrap>2018年01月19日</td>
+							                	
+							                	<td align=center nowrap>予以签发</td>
+							                	
+							                	<td align=center >四川省食品药品检验所</td>
+							              	</tr>
+				                    		   
+				                           <tr  height=50 bgcolor='#f1f7e9' onMouseOut="this.bgColor = '#f1f7e9'" onMouseOver="this.bgColor = '#CCFF66'"  >
+							                	<td align=center>23</td>                	               	
+							                	<td>人血白蛋白</td>                	               	
+							                	<td>20%，10g</td>                	               	
+							                	<td align=center>201708044</td> 
+							                	
+							                	<td align=center>14452瓶</td> 
+							                	<td align=center nowrap>2020年8月12日</td>
+							                	<td align=center >贵州泰邦生物制品有限公司</td>
+							                	<td align=center nowrap>E201701466</td>
+							                	<td align=center nowrap>批签蜀检201800035</td>
+							                	<td align=center nowrap>E201701466</td>
+							                	<td align=center nowrap>2018年01月19日</td>
+							                	
+							                	<td align=center nowrap>予以签发</td>
+							                	
+							                	<td align=center >四川省食品药品检验所</td>
+							              	</tr>
+				                    		   
+				                           <tr  height=50 bgcolor='#f1f7e9' onMouseOut="this.bgColor = '#f1f7f9'" onMouseOver="this.bgColor = '#CCFF66'"  >
+							                	<td align=center>24</td>                	               	
+							                	<td>人血白蛋白</td>                	               	
+							                	<td>20% 50ml 10g/瓶</td>                	               	
+							                	<td align=center>201709A113</td> 
+							                	
+							                	<td align=center>14428瓶</td> 
+							                	<td align=center nowrap>2022年9月22日</td>
+							                	<td align=center >成都蓉生药业有限责任公司</td>
+							                	<td align=center nowrap>E201701516</td>
+							                	<td align=center nowrap>批签蜀检201800067</td>
+							                	<td align=center nowrap>E201701516</td>
+							                	<td align=center nowrap>2018年01月30日</td>
+							                	
+							                	<td align=center nowrap>予以签发</td>
+							                	
+							                	<td align=center >四川省食品药品检验所</td>
+							              	</tr>
+				                    		   
+				                           <tr  height=50 bgcolor='#f1f7e9' onMouseOut="this.bgColor = '#f1f7e9'" onMouseOver="this.bgColor = '#CCFF66'"  >
+							                	<td align=center>25</td>                	               	
+							                	<td>静注人免疫球蛋白（pH4）</td>                	               	
+							                	<td>5g/瓶(5%,100ml)</td>                	               	
+							                	<td align=center>201710031</td> 
+							                	
+							                	<td align=center>1644瓶</td> 
+							                	<td align=center nowrap>2020年10月24日</td>
+							                	<td align=center >华兰生物工程重庆有限公司</td>
+							                	<td align=center nowrap>E201701544</td>
+							                	<td align=center nowrap>批签蜀检201800068</td>
+							                	<td align=center nowrap>E201701544</td>
+							                	<td align=center nowrap>2018年02月02日</td>
+							                	
+							                	<td align=center nowrap>予以签发</td>
+							                	
+							                	<td align=center >四川省食品药品检验所</td>
+							              	</tr>
+				                    		   
+				                           <tr  height=50 bgcolor='#f1f7e9' onMouseOut="this.bgColor = '#f1f7f9'" onMouseOver="this.bgColor = '#CCFF66'"  >
+							                	<td align=center>26</td>                	               	
+							                	<td>静注人免疫球蛋白（pH4）</td>                	               	
+							                	<td>2.5g/瓶</td>                	               	
+							                	<td align=center>201709043</td> 
+							                	
+							                	<td align=center>11678瓶</td> 
+							                	<td align=center nowrap>2020年9月11日</td>
+							                	<td align=center >贵州泰邦生物制品有限公司</td>
+							                	<td align=center nowrap>E201701548</td>
+							                	<td align=center nowrap>批签蜀检201800069</td>
+							                	<td align=center nowrap>E201701548</td>
+							                	<td align=center nowrap>2018年02月02日</td>
+							                	
+							                	<td align=center nowrap>予以签发</td>
+							                	
+							                	<td align=center >四川省食品药品检验所</td>
+							              	</tr>
+				                    		   
+				                           <tr  height=50 bgcolor='#f1f7e9' onMouseOut="this.bgColor = '#f1f7e9'" onMouseOver="this.bgColor = '#CCFF66'"  >
+							                	<td align=center>27</td>                	               	
+							                	<td>静注人免疫球蛋白（pH4）</td>                	               	
+							                	<td>2.5g/瓶</td>                	               	
+							                	<td align=center>201709044</td> 
+							                	
+							                	<td align=center>11633瓶</td> 
+							                	<td align=center nowrap>2020年9月15日</td>
+							                	<td align=center >贵州泰邦生物制品有限公司</td>
+							                	<td align=center nowrap>E201701549</td>
+							                	<td align=center nowrap>批签蜀检201800070</td>
+							                	<td align=center nowrap>E201701549</td>
+							                	<td align=center nowrap>2018年02月02日</td>
+							                	
+							                	<td align=center nowrap>予以签发</td>
+							                	
+							                	<td align=center >四川省食品药品检验所</td>
+							              	</tr>
+				                    		   
+				                           <tr  height=50 bgcolor='#f1f7e9' onMouseOut="this.bgColor = '#f1f7f9'" onMouseOver="this.bgColor = '#CCFF66'"  >
+							                	<td align=center>28</td>                	               	
+							                	<td>人血白蛋白</td>                	               	
+							                	<td>20%，10g</td>                	               	
+							                	<td align=center>201708045</td> 
+							                	
+							                	<td align=center>14612瓶</td> 
+							                	<td align=center nowrap>2020年8月16日</td>
+							                	<td align=center >贵州泰邦生物制品有限公司</td>
+							                	<td align=center nowrap>E201701467</td>
+							                	<td align=center nowrap>批签蜀检201800036</td>
+							                	<td align=center nowrap>E201701467</td>
+							                	<td align=center nowrap>2018年01月19日</td>
+							                	
+							                	<td align=center nowrap>予以签发</td>
+							                	
+							                	<td align=center >四川省食品药品检验所</td>
+							              	</tr>
+				                    		   
+				                           <tr  height=50 bgcolor='#f1f7e9' onMouseOut="this.bgColor = '#f1f7e9'" onMouseOver="this.bgColor = '#CCFF66'"  >
+							                	<td align=center>29</td>                	               	
+							                	<td>人血白蛋白</td>                	               	
+							                	<td>20% 50ml 10g/瓶</td>                	               	
+							                	<td align=center>201709A107</td> 
+							                	
+							                	<td align=center>14368瓶</td> 
+							                	<td align=center nowrap>2022年9月8日</td>
+							                	<td align=center >成都蓉生药业有限责任公司</td>
+							                	<td align=center nowrap>E201701468</td>
+							                	<td align=center nowrap>批签蜀检201800037</td>
+							                	<td align=center nowrap>E201701468</td>
+							                	<td align=center nowrap>2018年01月19日</td>
+							                	
+							                	<td align=center nowrap>予以签发</td>
+							                	
+							                	<td align=center >四川省食品药品检验所</td>
+							              	</tr>
+				                    		   
+				                           <tr  height=50 bgcolor='#f1f7e9' onMouseOut="this.bgColor = '#f1f7f9'" onMouseOver="this.bgColor = '#CCFF66'"  >
+							                	<td align=center>30</td>                	               	
+							                	<td>人血白蛋白</td>                	               	
+							                	<td>20% 50ml 10g/瓶</td>                	               	
+							                	<td align=center>201709A108</td> 
+							                	
+							                	<td align=center>14517瓶</td> 
+							                	<td align=center nowrap>2022年9月11日</td>
+							                	<td align=center >成都蓉生药业有限责任公司</td>
+							                	<td align=center nowrap>E201701469</td>
+							                	<td align=center nowrap>批签蜀检201800038</td>
+							                	<td align=center nowrap>E201701469</td>
+							                	<td align=center nowrap>2018年01月19日</td>
+							                	
+							                	<td align=center nowrap>予以签发</td>
+							                	
+							                	<td align=center >四川省食品药品检验所</td>
+							              	</tr>
+				                    		   
+				                           <tr  height=50 bgcolor='#f1f7e9' onMouseOut="this.bgColor = '#f1f7e9'" onMouseOver="this.bgColor = '#CCFF66'"  >
+							                	<td align=center>31</td>                	               	
+							                	<td>人血白蛋白</td>                	               	
+							                	<td>20% 50ml 10g/瓶</td>                	               	
+							                	<td align=center>201709A109</td> 
+							                	
+							                	<td align=center>14755瓶</td> 
+							                	<td align=center nowrap>2022年9月13日</td>
+							                	<td align=center >成都蓉生药业有限责任公司</td>
+							                	<td align=center nowrap>E201701470</td>
+							                	<td align=center nowrap>批签蜀检201800039</td>
+							                	<td align=center nowrap>E201701470</td>
+							                	<td align=center nowrap>2018年01月19日</td>
+							                	
+							                	<td align=center nowrap>予以签发</td>
+							                	
+							                	<td align=center >四川省食品药品检验所</td>
+							              	</tr>
+				                    		   
+				                           <tr  height=50 bgcolor='#f1f7e9' onMouseOut="this.bgColor = '#f1f7f9'" onMouseOver="this.bgColor = '#CCFF66'"  >
+							                	<td align=center>32</td>                	               	
+							                	<td>人血白蛋白</td>                	               	
+							                	<td>20% 50ml 10g/瓶</td>                	               	
+							                	<td align=center>201709A110</td> 
+							                	
+							                	<td align=center>14454瓶</td> 
+							                	<td align=center nowrap>2022年9月15日</td>
+							                	<td align=center >成都蓉生药业有限责任公司</td>
+							                	<td align=center nowrap>E201701471</td>
+							                	<td align=center nowrap>批签蜀检201800040</td>
+							                	<td align=center nowrap>E201701471</td>
+							                	<td align=center nowrap>2018年01月19日</td>
+							                	
+							                	<td align=center nowrap>予以签发</td>
+							                	
+							                	<td align=center >四川省食品药品检验所</td>
+							              	</tr>
+				                    		   
+				                           <tr  height=50 bgcolor='#f1f7e9' onMouseOut="this.bgColor = '#f1f7e9'" onMouseOver="this.bgColor = '#CCFF66'"  >
+							                	<td align=center>33</td>                	               	
+							                	<td>静注人免疫球蛋白（pH4）</td>                	               	
+							                	<td>5% 50ml 2.5g/瓶</td>                	               	
+							                	<td align=center>201709B071</td> 
+							                	
+							                	<td align=center>18757瓶</td> 
+							                	<td align=center nowrap>2020年9月21日</td>
+							                	<td align=center >成都蓉生药业有限责任公司</td>
+							                	<td align=center nowrap>E201701518</td>
+							                	<td align=center nowrap>批签蜀检201800051</td>
+							                	<td align=center nowrap>E201701518</td>
+							                	<td align=center nowrap>2018年01月24日</td>
+							                	
+							                	<td align=center nowrap>予以签发</td>
+							                	
+							                	<td align=center >四川省食品药品检验所</td>
+							              	</tr>
+				                    		   
+				                           <tr  height=50 bgcolor='#f1f7e9' onMouseOut="this.bgColor = '#f1f7f9'" onMouseOver="this.bgColor = '#CCFF66'"  >
+							                	<td align=center>34</td>                	               	
+							                	<td>人血白蛋白</td>                	               	
+							                	<td>20%，10g</td>                	               	
+							                	<td align=center>201708046</td> 
+							                	
+							                	<td align=center>14597瓶</td> 
+							                	<td align=center nowrap>2020年8月20日</td>
+							                	<td align=center >贵州泰邦生物制品有限公司</td>
+							                	<td align=center nowrap>E201701509</td>
+							                	<td align=center nowrap>批签蜀检201800052</td>
+							                	<td align=center nowrap>E201701509</td>
+							                	<td align=center nowrap>2018年01月24日</td>
+							                	
+							                	<td align=center nowrap>予以签发</td>
+							                	
+							                	<td align=center >四川省食品药品检验所</td>
+							              	</tr>
+				                    		   
+				                           <tr  height=50 bgcolor='#f1f7e9' onMouseOut="this.bgColor = '#f1f7e9'" onMouseOver="this.bgColor = '#CCFF66'"  >
+							                	<td align=center>35</td>                	               	
+							                	<td>人血白蛋白</td>                	               	
+							                	<td>20%，10g</td>                	               	
+							                	<td align=center>201708047</td> 
+							                	
+							                	<td align=center>14726瓶</td> 
+							                	<td align=center nowrap>2020年8月24日</td>
+							                	<td align=center >贵州泰邦生物制品有限公司</td>
+							                	<td align=center nowrap>E201701510</td>
+							                	<td align=center nowrap>批签蜀检201800053</td>
+							                	<td align=center nowrap>E201701510</td>
+							                	<td align=center nowrap>2018年01月24日</td>
+							                	
+							                	<td align=center nowrap>予以签发</td>
+							                	
+							                	<td align=center >四川省食品药品检验所</td>
+							              	</tr>
+				                    		   
+				                           <tr  height=50 bgcolor='#f1f7e9' onMouseOut="this.bgColor = '#f1f7f9'" onMouseOver="this.bgColor = '#CCFF66'"  >
+							                	<td align=center>36</td>                	               	
+							                	<td>人血白蛋白</td>                	               	
+							                	<td>20% 50ml 10g/瓶</td>                	               	
+							                	<td align=center>201709A111</td> 
+							                	
+							                	<td align=center>14617瓶</td> 
+							                	<td align=center nowrap>2022年9月8日</td>
+							                	<td align=center >成都蓉生药业有限责任公司</td>
+							                	<td align=center nowrap>E201701514</td>
+							                	<td align=center nowrap>批签蜀检201800054</td>
+							                	<td align=center nowrap>E201701514</td>
+							                	<td align=center nowrap>2018年01月24日</td>
+							                	
+							                	<td align=center nowrap>予以签发</td>
+							                	
+							                	<td align=center >四川省食品药品检验所</td>
+							              	</tr>
+				                    		   
+				                           <tr  height=50 bgcolor='#f1f7e9' onMouseOut="this.bgColor = '#f1f7e9'" onMouseOver="this.bgColor = '#CCFF66'"  >
+							                	<td align=center>37</td>                	               	
+							                	<td>人血白蛋白</td>                	               	
+							                	<td>10g/瓶（20%，50ml）</td>                	               	
+							                	<td align=center>201708115A</td> 
+							                	
+							                	<td align=center>10671瓶</td> 
+							                	<td align=center nowrap>2020年8月30日</td>
+							                	<td align=center >四川远大蜀阳药业股份有限公司</td>
+							                	<td align=center nowrap>E201701453</td>
+							                	<td align=center nowrap>批签蜀检201800021</td>
+							                	<td align=center nowrap>E201701453</td>
+							                	<td align=center nowrap>2018年01月12日</td>
+							                	
+							                	<td align=center nowrap>予以签发</td>
+							                	
+							                	<td align=center >四川省食品药品检验所</td>
+							              	</tr>
+				                    		   
+				                           <tr  height=50 bgcolor='#f1f7e9' onMouseOut="this.bgColor = '#f1f7f9'" onMouseOver="this.bgColor = '#CCFF66'"  >
+							                	<td align=center>38</td>                	               	
+							                	<td>人血白蛋白</td>                	               	
+							                	<td>10g/瓶（20%，50ml）</td>                	               	
+							                	<td align=center>201709116A</td> 
+							                	
+							                	<td align=center>10635瓶</td> 
+							                	<td align=center nowrap>2020年9月4日</td>
+							                	<td align=center >四川远大蜀阳药业股份有限公司</td>
+							                	<td align=center nowrap>E201701454</td>
+							                	<td align=center nowrap>批签蜀检201800022</td>
+							                	<td align=center nowrap>E201701454</td>
+							                	<td align=center nowrap>2018年01月12日</td>
+							                	
+							                	<td align=center nowrap>予以签发</td>
+							                	
+							                	<td align=center >四川省食品药品检验所</td>
+							              	</tr>
+				                    		   
+				                           <tr  height=50 bgcolor='#f1f7e9' onMouseOut="this.bgColor = '#f1f7e9'" onMouseOver="this.bgColor = '#CCFF66'"  >
+							                	<td align=center>39</td>                	               	
+							                	<td>人血白蛋白</td>                	               	
+							                	<td>10g/瓶（20%，50ml）</td>                	               	
+							                	<td align=center>201709117A</td> 
+							                	
+							                	<td align=center>10474瓶</td> 
+							                	<td align=center nowrap>2020年9月5日</td>
+							                	<td align=center >四川远大蜀阳药业股份有限公司</td>
+							                	<td align=center nowrap>E201701455</td>
+							                	<td align=center nowrap>批签蜀检201800023</td>
+							                	<td align=center nowrap>E201701455</td>
+							                	<td align=center nowrap>2018年01月12日</td>
+							                	
+							                	<td align=center nowrap>予以签发</td>
+							                	
+							                	<td align=center >四川省食品药品检验所</td>
+							              	</tr>
+				                    		   
+				                           <tr  height=50 bgcolor='#f1f7e9' onMouseOut="this.bgColor = '#f1f7f9'" onMouseOver="this.bgColor = '#CCFF66'"  >
+							                	<td align=center>40</td>                	               	
+							                	<td>人血白蛋白</td>                	               	
+							                	<td>10g/瓶（20%，50ml）</td>                	               	
+							                	<td align=center>201709118A</td> 
+							                	
+							                	<td align=center>10373瓶</td> 
+							                	<td align=center nowrap>2020年9月6日</td>
+							                	<td align=center >四川远大蜀阳药业股份有限公司</td>
+							                	<td align=center nowrap>E201701456</td>
+							                	<td align=center nowrap>批签蜀检201800024</td>
+							                	<td align=center nowrap>E201701456</td>
+							                	<td align=center nowrap>2018年01月12日</td>
+							                	
+							                	<td align=center nowrap>予以签发</td>
+							                	
+							                	<td align=center >四川省食品药品检验所</td>
+							              	</tr>
+				                    		   
+				                           <tr  height=50 bgcolor='#f1f7e9' onMouseOut="this.bgColor = '#f1f7e9'" onMouseOver="this.bgColor = '#CCFF66'"  >
+							                	<td align=center>41</td>                	               	
+							                	<td>静注人免疫球蛋白（pH4）</td>                	               	
+							                	<td>5% 50ml 2.5g/瓶</td>                	               	
+							                	<td align=center>201709B068</td> 
+							                	
+							                	<td align=center>18264瓶</td> 
+							                	<td align=center nowrap>2020年9月12日</td>
+							                	<td align=center >成都蓉生药业有限责任公司</td>
+							                	<td align=center nowrap>E201701449</td>
+							                	<td align=center nowrap>批签蜀检201800025</td>
+							                	<td align=center nowrap>E201701449</td>
+							                	<td align=center nowrap>2018年01月12日</td>
+							                	
+							                	<td align=center nowrap>予以签发</td>
+							                	
+							                	<td align=center >四川省食品药品检验所</td>
+							              	</tr>
+				                    		   
+				                           <tr  height=50 bgcolor='#f1f7e9' onMouseOut="this.bgColor = '#f1f7f9'" onMouseOver="this.bgColor = '#CCFF66'"  >
+							                	<td align=center>42</td>                	               	
+							                	<td>人血白蛋白</td>                	               	
+							                	<td>20% 50ml 10g/瓶</td>                	               	
+							                	<td align=center>201709A112</td> 
+							                	
+							                	<td align=center>14660瓶</td> 
+							                	<td align=center nowrap>2022年9月20日</td>
+							                	<td align=center >成都蓉生药业有限责任公司</td>
+							                	<td align=center nowrap>E201701515</td>
+							                	<td align=center nowrap>批签蜀检201800055</td>
+							                	<td align=center nowrap>E201701515</td>
+							                	<td align=center nowrap>2018年01月24日</td>
+							                	
+							                	<td align=center nowrap>予以签发</td>
+							                	
+							                	<td align=center >四川省食品药品检验所</td>
+							              	</tr>
+				                    		   
+				                           <tr  height=50 bgcolor='#f1f7e9' onMouseOut="this.bgColor = '#f1f7e9'" onMouseOver="this.bgColor = '#CCFF66'"  >
+							                	<td align=center>43</td>                	               	
+							                	<td>人血白蛋白</td>                	               	
+							                	<td>10g(20%,50ml)/瓶</td>                	               	
+							                	<td align=center>201707052</td> 
+							                	
+							                	<td align=center>18123瓶</td> 
+							                	<td align=center nowrap>2020年7月26日</td>
+							                	<td align=center >华兰生物工程重庆有限公司</td>
+							                	<td align=center nowrap>E201701519</td>
+							                	<td align=center nowrap>批签蜀检201800056</td>
+							                	<td align=center nowrap>E201701519</td>
+							                	<td align=center nowrap>2018年01月24日</td>
+							                	
+							                	<td align=center nowrap>予以签发</td>
+							                	
+							                	<td align=center >四川省食品药品检验所</td>
+							              	</tr>
+				                    		   
+				                           <tr  height=50 bgcolor='#f1f7e9' onMouseOut="this.bgColor = '#f1f7f9'" onMouseOver="this.bgColor = '#CCFF66'"  >
+							                	<td align=center>44</td>                	               	
+							                	<td>静注人免疫球蛋白（pH4）</td>                	               	
+							                	<td>2.5g（5%，50ml）/瓶</td>                	               	
+							                	<td align=center>201708030</td> 
+							                	
+							                	<td align=center>19449瓶</td> 
+							                	<td align=center nowrap>2020年8月17日</td>
+							                	<td align=center >华兰生物工程重庆有限公司</td>
+							                	<td align=center nowrap>E201701520</td>
+							                	<td align=center nowrap>批签蜀检201800057</td>
+							                	<td align=center nowrap>E201701520</td>
+							                	<td align=center nowrap>2018年01月24日</td>
+							                	
+							                	<td align=center nowrap>予以签发</td>
+							                	
+							                	<td align=center >四川省食品药品检验所</td>
+							              	</tr>
+				                    		   
+				                           <tr  height=50 bgcolor='#f1f7e9' onMouseOut="this.bgColor = '#f1f7e9'" onMouseOver="this.bgColor = '#CCFF66'"  >
+							                	<td align=center>45</td>                	               	
+							                	<td>静注人免疫球蛋白（pH4）</td>                	               	
+							                	<td>2.5g/瓶（5%，50ml）</td>                	               	
+							                	<td align=center>201708143B</td> 
+							                	
+							                	<td align=center>17865瓶</td> 
+							                	<td align=center nowrap>2020年8月25日</td>
+							                	<td align=center >四川远大蜀阳药业股份有限公司</td>
+							                	<td align=center nowrap>E201701511</td>
+							                	<td align=center nowrap>批签蜀检201800058</td>
+							                	<td align=center nowrap>E201701511</td>
+							                	<td align=center nowrap>2018年01月29日</td>
+							                	
+							                	<td align=center nowrap>予以签发</td>
+							                	
+							                	<td align=center >四川省食品药品检验所</td>
+							              	</tr>
+				                    		   
+				                           <tr  height=50 bgcolor='#f1f7e9' onMouseOut="this.bgColor = '#f1f7f9'" onMouseOver="this.bgColor = '#CCFF66'"  >
+							                	<td align=center>46</td>                	               	
+							                	<td>人凝血酶原复合物</td>                	               	
+							                	<td>300IU/20ml/瓶</td>                	               	
+							                	<td align=center>201704009</td> 
+							                	
+							                	<td align=center>1017瓶</td> 
+							                	<td align=center nowrap>2020年4月14日</td>
+							                	<td align=center >贵州泰邦生物制品有限公司</td>
+							                	<td align=center nowrap>E201701229</td>
+							                	<td align=center nowrap>批签蜀检201800059</td>
+							                	<td align=center nowrap>E201701229</td>
+							                	<td align=center nowrap>2018年01月30日</td>
+							                	
+							                	<td align=center nowrap>予以签发</td>
+							                	
+							                	<td align=center >四川省食品药品检验所</td>
+							              	</tr>
+				                    		   
+				                           <tr  height=50 bgcolor='#f1f7e9' onMouseOut="this.bgColor = '#f1f7e9'" onMouseOver="this.bgColor = '#CCFF66'"  >
+							                	<td align=center>47</td>                	               	
+							                	<td>人凝血酶原复合物</td>                	               	
+							                	<td>300IU/20ml/瓶</td>                	               	
+							                	<td align=center>201704010</td> 
+							                	
+							                	<td align=center>932瓶</td> 
+							                	<td align=center nowrap>2020年4月22日</td>
+							                	<td align=center >贵州泰邦生物制品有限公司</td>
+							                	<td align=center nowrap>E201701230</td>
+							                	<td align=center nowrap>批签蜀检201800060</td>
+							                	<td align=center nowrap>E201701230</td>
+							                	<td align=center nowrap>2018年01月30日</td>
+							                	
+							                	<td align=center nowrap>予以签发</td>
+							                	
+							                	<td align=center >四川省食品药品检验所</td>
+							              	</tr>
+				                    		   
+				                           <tr  height=50 bgcolor='#f1f7e9' onMouseOut="this.bgColor = '#f1f7f9'" onMouseOver="this.bgColor = '#CCFF66'"  >
+							                	<td align=center>48</td>                	               	
+							                	<td>静注人免疫球蛋白（pH4）</td>                	               	
+							                	<td>5% 50ml 2.5g/瓶</td>                	               	
+							                	<td align=center>201709B072</td> 
+							                	
+							                	<td align=center>17142瓶</td> 
+							                	<td align=center nowrap>2020年9月26日</td>
+							                	<td align=center >成都蓉生药业有限责任公司</td>
+							                	<td align=center nowrap>E201701550</td>
+							                	<td align=center nowrap>批签蜀检201800071</td>
+							                	<td align=center nowrap>E201701550</td>
+							                	<td align=center nowrap>2018年02月02日</td>
+							                	
+							                	<td align=center nowrap>予以签发</td>
+							                	
+							                	<td align=center >四川省食品药品检验所</td>
+							              	</tr>
+				                    		   
+				                           <tr  height=50 bgcolor='#f1f7e9' onMouseOut="this.bgColor = '#f1f7e9'" onMouseOver="this.bgColor = '#CCFF66'"  >
+							                	<td align=center>49</td>                	               	
+							                	<td>人血白蛋白</td>                	               	
+							                	<td>10g(20%,50ml)/瓶</td>                	               	
+							                	<td align=center>201708053</td> 
+							                	
+							                	<td align=center>18263瓶</td> 
+							                	<td align=center nowrap>2020年8月8日</td>
+							                	<td align=center >华兰生物工程重庆有限公司</td>
+							                	<td align=center nowrap>E201701543</td>
+							                	<td align=center nowrap>批签蜀检201800072</td>
+							                	<td align=center nowrap>E201701543</td>
+							                	<td align=center nowrap>2018年02月02日</td>
+							                	
+							                	<td align=center nowrap>予以签发</td>
+							                	
+							                	<td align=center >四川省食品药品检验所</td>
+							              	</tr>
+				                    		   
+				                           <tr  height=50 bgcolor='#f1f7e9' onMouseOut="this.bgColor = '#f1f7f9'" onMouseOver="this.bgColor = '#CCFF66'"  >
+							                	<td align=center>50</td>                	               	
+							                	<td>人血白蛋白</td>                	               	
+							                	<td>20%，10g</td>                	               	
+							                	<td align=center>201709049</td> 
+							                	
+							                	<td align=center>14612瓶</td> 
+							                	<td align=center nowrap>2020年9月1日</td>
+							                	<td align=center >贵州泰邦生物制品有限公司</td>
+							                	<td align=center nowrap>E201701545</td>
+							                	<td align=center nowrap>批签蜀检201800073</td>
+							                	<td align=center nowrap>E201701545</td>
+							                	<td align=center nowrap>2018年02月02日</td>
+							                	
+							                	<td align=center nowrap>予以签发</td>
+							                	
+							                	<td align=center >四川省食品药品检验所</td>
+							              	</tr>
+				                    		   
+				                           <tr  height=50 bgcolor='#f1f7e9' onMouseOut="this.bgColor = '#f1f7e9'" onMouseOver="this.bgColor = '#CCFF66'"  >
+							                	<td align=center>51</td>                	               	
+							                	<td>人血白蛋白</td>                	               	
+							                	<td>20%，10g</td>                	               	
+							                	<td align=center>201708048</td> 
+							                	
+							                	<td align=center>14523瓶</td> 
+							                	<td align=center nowrap>2020年8月28日</td>
+							                	<td align=center >贵州泰邦生物制品有限公司</td>
+							                	<td align=center nowrap>E201701546</td>
+							                	<td align=center nowrap>批签蜀检201800074</td>
+							                	<td align=center nowrap>E201701546</td>
+							                	<td align=center nowrap>2018年02月02日</td>
+							                	
+							                	<td align=center nowrap>予以签发</td>
+							                	
+							                	<td align=center >四川省食品药品检验所</td>
+							              	</tr>
+				                    		   
+				                           <tr  height=50 bgcolor='#f1f7e9' onMouseOut="this.bgColor = '#f1f7f9'" onMouseOver="this.bgColor = '#CCFF66'"  >
+							                	<td align=center>52</td>                	               	
+							                	<td>人血白蛋白</td>                	               	
+							                	<td>20%，10g</td>                	               	
+							                	<td align=center>201709050</td> 
+							                	
+							                	<td align=center>14502瓶</td> 
+							                	<td align=center nowrap>2020年9月5日</td>
+							                	<td align=center >贵州泰邦生物制品有限公司</td>
+							                	<td align=center nowrap>E201701547</td>
+							                	<td align=center nowrap>批签蜀检201800075</td>
+							                	<td align=center nowrap>E201701547</td>
+							                	<td align=center nowrap>2018年02月02日</td>
+							                	
+							                	<td align=center nowrap>予以签发</td>
+							                	
+							                	<td align=center >四川省食品药品检验所</td>
+							              	</tr>
+				                    		   
+				                           <tr  height=50 bgcolor='#f1f7e9' onMouseOut="this.bgColor = '#f1f7e9'" onMouseOver="this.bgColor = '#CCFF66'"  >
+							                	<td align=center>53</td>                	               	
+							                	<td>静注人免疫球蛋白（pH4）</td>                	               	
+							                	<td>5% 50ml 2.5g/瓶</td>                	               	
+							                	<td align=center>201709B069</td> 
+							                	
+							                	<td align=center>19056瓶</td> 
+							                	<td align=center nowrap>2020年9月14日</td>
+							                	<td align=center >成都蓉生药业有限责任公司</td>
+							                	<td align=center nowrap>E201701450</td>
+							                	<td align=center nowrap>批签蜀检201800026</td>
+							                	<td align=center nowrap>E201701450</td>
+							                	<td align=center nowrap>2018年01月12日</td>
+							                	
+							                	<td align=center nowrap>予以签发</td>
+							                	
+							                	<td align=center >四川省食品药品检验所</td>
+							              	</tr>
+				                    		   
+				                           <tr  height=50 bgcolor='#f1f7e9' onMouseOut="this.bgColor = '#f1f7f9'" onMouseOver="this.bgColor = '#CCFF66'"  >
+							                	<td align=center>54</td>                	               	
+							                	<td>静注人免疫球蛋白（pH4）</td>                	               	
+							                	<td>2.5g/瓶（5%，50ml）</td>                	               	
+							                	<td align=center>201708140B</td> 
+							                	
+							                	<td align=center>18227瓶</td> 
+							                	<td align=center nowrap>2020年8月10日</td>
+							                	<td align=center >四川远大蜀阳药业股份有限公司</td>
+							                	<td align=center nowrap>E201701451</td>
+							                	<td align=center nowrap>批签蜀检201800027</td>
+							                	<td align=center nowrap>E201701451</td>
+							                	<td align=center nowrap>2018年01月12日</td>
+							                	
+							                	<td align=center nowrap>予以签发</td>
+							                	
+							                	<td align=center >四川省食品药品检验所</td>
+							              	</tr>
+				                    		   
+				                           <tr  height=50 bgcolor='#f1f7e9' onMouseOut="this.bgColor = '#f1f7e9'" onMouseOver="this.bgColor = '#CCFF66'"  >
+							                	<td align=center>55</td>                	               	
+							                	<td>静注人免疫球蛋白（pH4）</td>                	               	
+							                	<td>2.5g/瓶（5%，50ml）</td>                	               	
+							                	<td align=center>201708141B</td> 
+							                	
+							                	<td align=center>17994瓶</td> 
+							                	<td align=center nowrap>2020年8月15日</td>
+							                	<td align=center >四川远大蜀阳药业股份有限公司</td>
+							                	<td align=center nowrap>E201701452</td>
+							                	<td align=center nowrap>批签蜀检201800028</td>
+							                	<td align=center nowrap>E201701452</td>
+							                	<td align=center nowrap>2018年01月12日</td>
+							                	
+							                	<td align=center nowrap>予以签发</td>
+							                	
+							                	<td align=center >四川省食品药品检验所</td>
+							              	</tr>
+				                    		   
+				                           <tr  height=50 bgcolor='#f1f7e9' onMouseOut="this.bgColor = '#f1f7f9'" onMouseOver="this.bgColor = '#CCFF66'"  >
+							                	<td align=center>56</td>                	               	
+							                	<td>静注人免疫球蛋白（pH4）</td>                	               	
+							                	<td>2.5g/瓶（5%，50ml）</td>                	               	
+							                	<td align=center>201708142B</td> 
+							                	
+							                	<td align=center>18701瓶</td> 
+							                	<td align=center nowrap>2020年8月22日</td>
+							                	<td align=center >四川远大蜀阳药业股份有限公司</td>
+							                	<td align=center nowrap>E201701472</td>
+							                	<td align=center nowrap>批签蜀检201800029</td>
+							                	<td align=center nowrap>E201701472</td>
+							                	<td align=center nowrap>2018年01月19日</td>
+							                	
+							                	<td align=center nowrap>予以签发</td>
+							                	
+							                	<td align=center >四川省食品药品检验所</td>
+							              	</tr>
+				                    		   
+				                           <tr  height=50 bgcolor='#f1f7e9' onMouseOut="this.bgColor = '#f1f7e9'" onMouseOver="this.bgColor = '#CCFF66'"  >
+							                	<td align=center>57</td>                	               	
+							                	<td>静注人免疫球蛋白（pH4）</td>                	               	
+							                	<td>2.5g（5%，50ml）/瓶</td>                	               	
+							                	<td align=center>201708027</td> 
+							                	
+							                	<td align=center>20548瓶</td> 
+							                	<td align=center nowrap>2020年7月31日</td>
+							                	<td align=center >华兰生物工程重庆有限公司</td>
+							                	<td align=center nowrap>E201701461</td>
+							                	<td align=center nowrap>批签蜀检201800030</td>
+							                	<td align=center nowrap>E201701461</td>
+							                	<td align=center nowrap>2018年01月19日</td>
+							                	
+							                	<td align=center nowrap>予以签发</td>
+							                	
+							                	<td align=center >四川省食品药品检验所</td>
+							              	</tr>
+				                    		   
+				                           <tr  height=50 bgcolor='#f1f7e9' onMouseOut="this.bgColor = '#f1f7f9'" onMouseOver="this.bgColor = '#CCFF66'"  >
+							                	<td align=center>58</td>                	               	
+							                	<td>人血白蛋白</td>                	               	
+							                	<td>10g/瓶（20%，50ml）</td>                	               	
+							                	<td align=center>201709121A</td> 
+							                	
+							                	<td align=center>10402瓶</td> 
+							                	<td align=center nowrap>2020年9月12日</td>
+							                	<td align=center >四川远大蜀阳药业股份有限公司</td>
+							                	<td align=center nowrap>E201701473</td>
+							                	<td align=center nowrap>批签蜀检201800041</td>
+							                	<td align=center nowrap>E201701473</td>
+							                	<td align=center nowrap>2018年01月19日</td>
+							                	
+							                	<td align=center nowrap>予以签发</td>
+							                	
+							                	<td align=center >四川省食品药品检验所</td>
+							              	</tr>
+				                    		   
+				                           <tr  height=50 bgcolor='#f1f7e9' onMouseOut="this.bgColor = '#f1f7e9'" onMouseOver="this.bgColor = '#CCFF66'"  >
+							                	<td align=center>59</td>                	               	
+							                	<td>人血白蛋白</td>                	               	
+							                	<td>10g/瓶（20%，50ml）</td>                	               	
+							                	<td align=center>201709122A</td> 
+							                	
+							                	<td align=center>10518瓶</td> 
+							                	<td align=center nowrap>2020年9月13日</td>
+							                	<td align=center >四川远大蜀阳药业股份有限公司</td>
+							                	<td align=center nowrap>E201701474</td>
+							                	<td align=center nowrap>批签蜀检201800042</td>
+							                	<td align=center nowrap>E201701474</td>
+							                	<td align=center nowrap>2018年01月19日</td>
+							                	
+							                	<td align=center nowrap>予以签发</td>
+							                	
+							                	<td align=center >四川省食品药品检验所</td>
+							              	</tr>
+				                    		   
+				                           <tr  height=50 bgcolor='#f1f7e9' onMouseOut="this.bgColor = '#f1f7f9'" onMouseOver="this.bgColor = '#CCFF66'"  >
+							                	<td align=center>60</td>                	               	
+							                	<td>人血白蛋白</td>                	               	
+							                	<td>10g/瓶（20%，50ml）</td>                	               	
+							                	<td align=center>201709123A</td> 
+							                	
+							                	<td align=center>10466瓶</td> 
+							                	<td align=center nowrap>2020年9月16日</td>
+							                	<td align=center >四川远大蜀阳药业股份有限公司</td>
+							                	<td align=center nowrap>E201701475</td>
+							                	<td align=center nowrap>批签蜀检201800043</td>
+							                	<td align=center nowrap>E201701475</td>
+							                	<td align=center nowrap>2018年01月19日</td>
+							                	
+							                	<td align=center nowrap>予以签发</td>
+							                	
+							                	<td align=center >四川省食品药品检验所</td>
+							              	</tr>
+				                    		   
+				                           <tr  height=50 bgcolor='#f1f7e9' onMouseOut="this.bgColor = '#f1f7e9'" onMouseOver="this.bgColor = '#CCFF66'"  >
+							                	<td align=center>61</td>                	               	
+							                	<td>人血白蛋白</td>                	               	
+							                	<td>5g/瓶（20%，25ml）</td>                	               	
+							                	<td align=center>201709119A</td> 
+							                	
+							                	<td align=center>21195瓶</td> 
+							                	<td align=center nowrap>2020年9月10日</td>
+							                	<td align=center >四川远大蜀阳药业股份有限公司</td>
+							                	<td align=center nowrap>E201701476</td>
+							                	<td align=center nowrap>批签蜀检201800044</td>
+							                	<td align=center nowrap>E201701476</td>
+							                	<td align=center nowrap>2018年01月19日</td>
+							                	
+							                	<td align=center nowrap>予以签发</td>
+							                	
+							                	<td align=center >四川省食品药品检验所</td>
+							              	</tr>
+				                    		   
+				                           <tr  height=50 bgcolor='#f1f7e9' onMouseOut="this.bgColor = '#f1f7f9'" onMouseOver="this.bgColor = '#CCFF66'"  >
+							                	<td align=center>62</td>                	               	
+							                	<td>静注人免疫球蛋白（pH4）</td>                	               	
+							                	<td>2.5g/瓶（5%，50ml）</td>                	               	
+							                	<td align=center>201708139B</td> 
+							                	
+							                	<td align=center>17867瓶</td> 
+							                	<td align=center nowrap>2020年8月4日</td>
+							                	<td align=center >四川远大蜀阳药业股份有限公司</td>
+							                	<td align=center nowrap>E201701431</td>
+							                	<td align=center nowrap>批签蜀检201800008</td>
+							                	<td align=center nowrap>E201701431</td>
+							                	<td align=center nowrap>2018年01月09日</td>
+							                	
+							                	<td align=center nowrap>予以签发</td>
+							                	
+							                	<td align=center >四川省食品药品检验所</td>
+							              	</tr>
+				                    		   
+				                           <tr  height=50 bgcolor='#f1f7e9' onMouseOut="this.bgColor = '#f1f7e9'" onMouseOver="this.bgColor = '#CCFF66'"  >
+							                	<td align=center>63</td>                	               	
+							                	<td>人血白蛋白</td>                	               	
+							                	<td>10g/瓶（20%，50ml）</td>                	               	
+							                	<td align=center>201708111A</td> 
+							                	
+							                	<td align=center>10605瓶</td> 
+							                	<td align=center nowrap>2020年8月23日</td>
+							                	<td align=center >四川远大蜀阳药业股份有限公司</td>
+							                	<td align=center nowrap>E201701432</td>
+							                	<td align=center nowrap>批签蜀检201800009</td>
+							                	<td align=center nowrap>E201701432</td>
+							                	<td align=center nowrap>2018年01月09日</td>
+							                	
+							                	<td align=center nowrap>予以签发</td>
+							                	
+							                	<td align=center >四川省食品药品检验所</td>
+							              	</tr>
+				                    		   
+				                           <tr  height=50 bgcolor='#f1f7e9' onMouseOut="this.bgColor = '#f1f7f9'" onMouseOver="this.bgColor = '#CCFF66'"  >
+							                	<td align=center>64</td>                	               	
+							                	<td>人血白蛋白</td>                	               	
+							                	<td>10g/瓶（20%，50ml）</td>                	               	
+							                	<td align=center>201708114A</td> 
+							                	
+							                	<td align=center>10715瓶</td> 
+							                	<td align=center nowrap>2020年8月29日</td>
+							                	<td align=center >四川远大蜀阳药业股份有限公司</td>
+							                	<td align=center nowrap>E201701433</td>
+							                	<td align=center nowrap>批签蜀检201800010</td>
+							                	<td align=center nowrap>E201701433</td>
+							                	<td align=center nowrap>2018年01月09日</td>
+							                	
+							                	<td align=center nowrap>予以签发</td>
+							                	
+							                	<td align=center >四川省食品药品检验所</td>
+							              	</tr>
+				                    		   
+				                           <tr  height=50 bgcolor='#f1f7e9' onMouseOut="this.bgColor = '#f1f7e9'" onMouseOver="this.bgColor = '#CCFF66'"  >
+							                	<td align=center>65</td>                	               	
+							                	<td>人血白蛋白</td>                	               	
+							                	<td>10g/瓶（20%，50ml）</td>                	               	
+							                	<td align=center>201708105A</td> 
+							                	
+							                	<td align=center>10540瓶</td> 
+							                	<td align=center nowrap>2020年8月14日</td>
+							                	<td align=center >四川远大蜀阳药业股份有限公司</td>
+							                	<td align=center nowrap>E201701403</td>
+							                	<td align=center nowrap>批签蜀检201800001</td>
+							                	<td align=center nowrap>E201701403</td>
+							                	<td align=center nowrap>2018年01月05日</td>
+							                	
+							                	<td align=center nowrap>予以签发</td>
+							                	
+							                	<td align=center >四川省食品药品检验所</td>
+							              	</tr>
+				                    		   
+				                           <tr  height=50 bgcolor='#f1f7e9' onMouseOut="this.bgColor = '#f1f7f9'" onMouseOver="this.bgColor = '#CCFF66'"  >
+							                	<td align=center>66</td>                	               	
+							                	<td>静注人免疫球蛋白（pH4）</td>                	               	
+							                	<td>2.5g/瓶</td>                	               	
+							                	<td align=center>201708033</td> 
+							                	
+							                	<td align=center>11432瓶</td> 
+							                	<td align=center nowrap>2020年8月2日</td>
+							                	<td align=center >贵州泰邦生物制品有限公司</td>
+							                	<td align=center nowrap>E201701416</td>
+							                	<td align=center nowrap>批签蜀检201800002</td>
+							                	<td align=center nowrap>E201701416</td>
+							                	<td align=center nowrap>2018年01月05日</td>
+							                	
+							                	<td align=center nowrap>予以签发</td>
+							                	
+							                	<td align=center >四川省食品药品检验所</td>
+							              	</tr>
+				                    		   
+				                           <tr  height=50 bgcolor='#f1f7e9' onMouseOut="this.bgColor = '#f1f7e9'" onMouseOver="this.bgColor = '#CCFF66'"  >
+							                	<td align=center>67</td>                	               	
+							                	<td>静注人免疫球蛋白（pH4）</td>                	               	
+							                	<td>5% 50ml 2.5g/瓶</td>                	               	
+							                	<td align=center>201709B066</td> 
+							                	
+							                	<td align=center>18670瓶</td> 
+							                	<td align=center nowrap>2020年9月5日</td>
+							                	<td align=center >成都蓉生药业有限责任公司</td>
+							                	<td align=center nowrap>E201701428</td>
+							                	<td align=center nowrap>批签蜀检201800003</td>
+							                	<td align=center nowrap>E201701428</td>
+							                	<td align=center nowrap>2018年01月05日</td>
+							                	
+							                	<td align=center nowrap>予以签发</td>
+							                	
+							                	<td align=center >四川省食品药品检验所</td>
+							              	</tr>
+				                    		   
+				                           <tr  height=50 bgcolor='#f1f7e9' onMouseOut="this.bgColor = '#f1f7f9'" onMouseOver="this.bgColor = '#CCFF66'"  >
+							                	<td align=center>68</td>                	               	
+							                	<td>静注人免疫球蛋白（pH4）</td>                	               	
+							                	<td>5% 50ml 2.5g/瓶</td>                	               	
+							                	<td align=center>201709B067</td> 
+							                	
+							                	<td align=center>18944瓶</td> 
+							                	<td align=center nowrap>2020年9月7日</td>
+							                	<td align=center >成都蓉生药业有限责任公司</td>
+							                	<td align=center nowrap>E201701429</td>
+							                	<td align=center nowrap>批签蜀检201800004</td>
+							                	<td align=center nowrap>E201701429</td>
+							                	<td align=center nowrap>2018年01月05日</td>
+							                	
+							                	<td align=center nowrap>予以签发</td>
+							                	
+							                	<td align=center >四川省食品药品检验所</td>
+							              	</tr>
+				                    		   
+				                           <tr  height=50 bgcolor='#f1f7e9' onMouseOut="this.bgColor = '#f1f7e9'" onMouseOver="this.bgColor = '#CCFF66'"  >
+							                	<td align=center>69</td>                	               	
+							                	<td>静注人免疫球蛋白（pH4）</td>                	               	
+							                	<td>5% 100ml 5g/瓶</td>                	               	
+							                	<td align=center>201706B040</td> 
+							                	
+							                	<td align=center>1884瓶</td> 
+							                	<td align=center nowrap>2020年6月6日</td>
+							                	<td align=center >成都蓉生药业有限责任公司</td>
+							                	<td align=center nowrap>E201701430</td>
+							                	<td align=center nowrap>批签蜀检201800005</td>
+							                	<td align=center nowrap>E201701430</td>
+							                	<td align=center nowrap>2018年01月05日</td>
+							                	
+							                	<td align=center nowrap>予以签发</td>
+							                	
+							                	<td align=center >四川省食品药品检验所</td>
+							              	</tr>
+				                    		   
+				                           <tr  height=50 bgcolor='#f1f7e9' onMouseOut="this.bgColor = '#f1f7f9'" onMouseOver="this.bgColor = '#CCFF66'"  >
+							                	<td align=center>70</td>                	               	
+							                	<td>静注人免疫球蛋白（pH4）</td>                	               	
+							                	<td>2.5g/瓶</td>                	               	
+							                	<td align=center>201708034</td> 
+							                	
+							                	<td align=center>11515瓶</td> 
+							                	<td align=center nowrap>2020年8月6日</td>
+							                	<td align=center >贵州泰邦生物制品有限公司</td>
+							                	<td align=center nowrap>E201701417</td>
+							                	<td align=center nowrap>批签蜀检201800006</td>
+							                	<td align=center nowrap>E201701417</td>
+							                	<td align=center nowrap>2018年01月08日</td>
+							                	
+							                	<td align=center nowrap>予以签发</td>
+							                	
+							                	<td align=center >四川省食品药品检验所</td>
+							              	</tr>
+				                    		   
+				                           <tr  height=50 bgcolor='#f1f7e9' onMouseOut="this.bgColor = '#f1f7e9'" onMouseOver="this.bgColor = '#CCFF66'"  >
+							                	<td align=center>71</td>                	               	
+							                	<td>静注人免疫球蛋白（pH4）</td>                	               	
+							                	<td>2.5g/瓶</td>                	               	
+							                	<td align=center>201708035</td> 
+							                	
+							                	<td align=center>11644瓶</td> 
+							                	<td align=center nowrap>2020年8月10日</td>
+							                	<td align=center >贵州泰邦生物制品有限公司</td>
+							                	<td align=center nowrap>E201701418</td>
+							                	<td align=center nowrap>批签蜀检201800007</td>
+							                	<td align=center nowrap>E201701418</td>
+							                	<td align=center nowrap>2018年01月08日</td>
+							                	
+							                	<td align=center nowrap>予以签发</td>
+							                	
+							                	<td align=center >四川省食品药品检验所</td>
+							              	</tr>
+				                    		   
+				                           <tr  height=50 bgcolor='#f1f7e9' onMouseOut="this.bgColor = '#f1f7f9'" onMouseOver="this.bgColor = '#CCFF66'"  >
+							                	<td align=center>72</td>                	               	
+							                	<td>人血白蛋白</td>                	               	
+							                	<td>20%，10g</td>                	               	
+							                	<td align=center>201708042</td> 
+							                	
+							                	<td align=center>14567瓶</td> 
+							                	<td align=center nowrap>2020年8月4日</td>
+							                	<td align=center >贵州泰邦生物制品有限公司</td>
+							                	<td align=center nowrap>E201701440</td>
+							                	<td align=center nowrap>批签蜀检201800011</td>
+							                	<td align=center nowrap>E201701440</td>
+							                	<td align=center nowrap>2018年01月10日</td>
+							                	
+							                	<td align=center nowrap>予以签发</td>
+							                	
+							                	<td align=center >四川省食品药品检验所</td>
+							              	</tr>
+				                    		   
+				                           <tr  height=50 bgcolor='#f1f7e9' onMouseOut="this.bgColor = '#f1f7e9'" onMouseOver="this.bgColor = '#CCFF66'"  >
+							                	<td align=center>73</td>                	               	
+							                	<td>乙型肝炎人免疫球蛋白</td>                	               	
+							                	<td>400IU/瓶（100IU/ml，4ml）</td>                	               	
+							                	<td align=center>201710006C</td> 
+							                	
+							                	<td align=center>21343瓶</td> 
+							                	<td align=center nowrap>2019年10月7日</td>
+							                	<td align=center >四川远大蜀阳药业股份有限公司</td>
+							                	<td align=center nowrap>E201701434</td>
+							                	<td align=center nowrap>批签蜀检201800012</td>
+							                	<td align=center nowrap>E201701434</td>
+							                	<td align=center nowrap>2018年01月10日</td>
+							                	
+							                	<td align=center nowrap>予以签发</td>
+							                	
+							                	<td align=center >四川省食品药品检验所</td>
+							              	</tr>
+				                    		   
+				                           <tr  height=50 bgcolor='#f1f7e9' onMouseOut="this.bgColor = '#f1f7f9'" onMouseOver="this.bgColor = '#CCFF66'"  >
+							                	<td align=center>74</td>                	               	
+							                	<td>人血白蛋白</td>                	               	
+							                	<td>20% 50ml 10g/瓶</td>                	               	
+							                	<td align=center>201708A103</td> 
+							                	
+							                	<td align=center>14680瓶</td> 
+							                	<td align=center nowrap>2022年8月30日</td>
+							                	<td align=center >成都蓉生药业有限责任公司</td>
+							                	<td align=center nowrap>E201701445</td>
+							                	<td align=center nowrap>批签蜀检201800013</td>
+							                	<td align=center nowrap>E201701445</td>
+							                	<td align=center nowrap>2018年01月10日</td>
+							                	
+							                	<td align=center nowrap>予以签发</td>
+							                	
+							                	<td align=center >四川省食品药品检验所</td>
+							              	</tr>
+				                    		   
+				                           <tr  height=50 bgcolor='#f1f7e9' onMouseOut="this.bgColor = '#f1f7e9'" onMouseOver="this.bgColor = '#CCFF66'"  >
+							                	<td align=center>75</td>                	               	
+							                	<td>人血白蛋白</td>                	               	
+							                	<td>20% 50ml 10g/瓶</td>                	               	
+							                	<td align=center>201709A104</td> 
+							                	
+							                	<td align=center>14393瓶</td> 
+							                	<td align=center nowrap>2022年9月1日</td>
+							                	<td align=center >成都蓉生药业有限责任公司</td>
+							                	<td align=center nowrap>E201701446</td>
+							                	<td align=center nowrap>批签蜀检201800014</td>
+							                	<td align=center nowrap>E201701446</td>
+							                	<td align=center nowrap>2018年01月10日</td>
+							                	
+							                	<td align=center nowrap>予以签发</td>
+							                	
+							                	<td align=center >四川省食品药品检验所</td>
+							              	</tr>
+				                    		   
+				                           <tr  height=50 bgcolor='#f1f7e9' onMouseOut="this.bgColor = '#f1f7f9'" onMouseOver="this.bgColor = '#CCFF66'"  >
+							                	<td align=center>76</td>                	               	
+							                	<td>人血白蛋白</td>                	               	
+							                	<td>20% 50ml 10g/瓶</td>                	               	
+							                	<td align=center>201709A105</td> 
+							                	
+							                	<td align=center>14384瓶</td> 
+							                	<td align=center nowrap>2022年9月4日</td>
+							                	<td align=center >成都蓉生药业有限责任公司</td>
+							                	<td align=center nowrap>E201701447</td>
+							                	<td align=center nowrap>批签蜀检201800015</td>
+							                	<td align=center nowrap>E201701447</td>
+							                	<td align=center nowrap>2018年01月10日</td>
+							                	
+							                	<td align=center nowrap>予以签发</td>
+							                	
+							                	<td align=center >四川省食品药品检验所</td>
+							              	</tr>
+				                    	
+				            </table>
+				        </td>
+				    </tr>
+			</TABLE>
+	</DIV>
+</DIV>
+</CENTER>
+</HTML>

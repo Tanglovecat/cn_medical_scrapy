@@ -1,0 +1,1028 @@
+
+
+
+
+<html>
+
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "">
+<HTML>
+<HEAD>
+<TITLE>中国食品药品检定研究院</TITLE>
+<link href="styles/style_1.css" rel="stylesheet" type="text/css" />
+<META content="text/html; charset=GBK" http-equiv=Content-Type>
+<STYLE>BODY {
+	FONT-SIZE: 12px; BORDER-TOP: 0px; FONT-FAMILY: "宋体"; BORDER-RIGHT: 0px; BORDER-BOTTOM: 0px; PADDING-BOTTOM: 0px; PADDING-TOP: 0px; PADDING-LEFT: 0px; BORDER-LEFT: 0px; MARGIN: 0px; PADDING-RIGHT: 0px
+}
+A {
+	FONT-SIZE: 12px; BORDER-TOP: 0px; FONT-FAMILY: "宋体"; BORDER-RIGHT: 0px; BORDER-BOTTOM: 0px; PADDING-BOTTOM: 0px; PADDING-TOP: 0px; PADDING-LEFT: 0px; BORDER-LEFT: 0px; MARGIN: 0px; PADDING-RIGHT: 0px
+}
+P {
+	FONT-SIZE: 12px; BORDER-TOP: 0px; FONT-FAMILY: "宋体"; BORDER-RIGHT: 0px; BORDER-BOTTOM: 0px; PADDING-BOTTOM: 0px; PADDING-TOP: 0px; PADDING-LEFT: 0px; BORDER-LEFT: 0px; MARGIN: 0px; PADDING-RIGHT: 0px
+}
+UL {
+	FONT-SIZE: 12px; BORDER-TOP: 0px; FONT-FAMILY: "宋体"; BORDER-RIGHT: 0px; BORDER-BOTTOM: 0px; PADDING-BOTTOM: 0px; PADDING-TOP: 0px; PADDING-LEFT: 0px; BORDER-LEFT: 0px; MARGIN: 0px; PADDING-RIGHT: 0px
+}
+LI {
+	FONT-SIZE: 12px; BORDER-TOP: 0px; FONT-FAMILY: "宋体"; BORDER-RIGHT: 0px; BORDER-BOTTOM: 0px; PADDING-BOTTOM: 0px; PADDING-TOP: 0px; PADDING-LEFT: 0px; BORDER-LEFT: 0px; MARGIN: 0px; PADDING-RIGHT: 0px
+}
+UL {
+	LIST-STYLE-TYPE: none
+}
+LI {
+	LIST-STYLE-TYPE: none
+}
+.middle {
+	HEIGHT: auto; WIDTH: 100%; MARGIN: auto
+}
+.top {
+	 WIDTH: 100%; BACKGROUND: url(images/top_02.png) repeat-x
+}
+.topfont {
+	FONT-SIZE: 22px;
+	float:center;
+	text-align:center;
+	vertical-align:middle;
+	margin-top:20;
+}
+.content {
+	HEIGHT: 805px;WIDTH: 100%; BACKGROUND: url(images/content_09.png) repeat-x
+}
+.content UL {
+	WIDTH: 100%; FLOAT: left
+}
+.content UL LI {
+	FLOAT: left
+}
+
+</STYLE>
+</HEAD>
+
+<BODY>
+<CENTER align="center">
+<DIV class=middle>
+	<DIV class=top>
+		<DIV class=topfont>生物制品批签发产品公示情况汇总 </DIV>
+	</DIV>
+	<DIV class=content>
+			<TABLE border=0 cellSpacing=0 cellPadding=0  style="width: 100%">
+				     <tr valign="top">
+				    	<td align="center">
+				        	<table class="list_table" style="font-size:16px;" border=0 cellspacing="1" cellPadding=0 width="98%" align="center" bgcolor="#f6f7fb" onClick="sortColumn(event)">
+				            <thead>
+			             	<tr bgcolor="#C9DBF2" height=30>
+								<td   width="2%" align=center nowrap >序号</td>             	 	
+		 						<td   width="10%" align=center nowrap>产品名称</td>
+		 						<td   width="8%" align=center nowrap>规格</td>
+			             	 	<td   width="5%" align=center>批号</td>
+			             	 	<td   width="5%" align=center nowrap>签发量/拒签量</td>
+			             	 	<td   width="5%" align=center nowrap>有效期至</td>
+			             	 	<td   width="12%" align=center nowrap>生产企业</td>
+			             	 	<td   width="6%" align=center nowrap>收检编号</td>
+			             	 	<td   width="7%" align=center nowrap>证书编号</td>
+			             	 	<td   width="6%" align=center nowrap>报告编号</td>
+			             	 	<td   width="6%" align=center nowrap>签发日期</td>
+			             	 	<td   width="5%" align=center nowrap>签发结论</td>
+			             	 	<td   width="9%" align=center nowrap>批签发机构</td>
+			                 </tr>
+			       		   </thead>
+				                    		   
+				                           <tr  height=50 bgcolor='#f1f7e9' onMouseOut="this.bgColor = '#f1f7e9'" onMouseOver="this.bgColor = '#CCFF66'"  >
+							                	<td align=center>1</td>                	               	
+							                	<td>冻干水痘减毒活疫苗</td>                	               	
+							                	<td>复溶后每瓶0.5ml</td>                	               	
+							                	<td align=center>201003022</td> 
+							                	
+							                	<td align=center>27142瓶</td> 
+							                	<td align=center nowrap>2011年9月30日</td>
+							                	<td align=center >长春祈健生物制品有限公司</td>
+							                	<td align=center nowrap>SPBN201003692</td>
+							                	<td align=center nowrap>批签中检20102477</td>
+							                	<td align=center nowrap>/</td>
+							                	<td align=center nowrap>2010年06月10日</td>
+							                	
+							                	<td align=center nowrap>予以签发</td>
+							                	
+							                	<td align=center >中国药品生物制品检定所</td>
+							              	</tr>
+				                    		   
+				                           <tr  height=50 bgcolor='#f1f7e9' onMouseOut="this.bgColor = '#f1f7f9'" onMouseOver="this.bgColor = '#CCFF66'"  >
+							                	<td align=center>2</td>                	               	
+							                	<td>冻干水痘减毒活疫苗</td>                	               	
+							                	<td>复溶后每瓶0.5ml</td>                	               	
+							                	<td align=center>201003023</td> 
+							                	
+							                	<td align=center>59959瓶</td> 
+							                	<td align=center nowrap>2011年10月4日</td>
+							                	<td align=center >长春祈健生物制品有限公司</td>
+							                	<td align=center nowrap>SPBN201003693</td>
+							                	<td align=center nowrap>批签中检20102478</td>
+							                	<td align=center nowrap>/</td>
+							                	<td align=center nowrap>2010年06月10日</td>
+							                	
+							                	<td align=center nowrap>予以签发</td>
+							                	
+							                	<td align=center >中国药品生物制品检定所</td>
+							              	</tr>
+				                    		   
+				                           <tr  height=50 bgcolor='#f1f7e9' onMouseOut="this.bgColor = '#f1f7e9'" onMouseOver="this.bgColor = '#CCFF66'"  >
+							                	<td align=center>3</td>                	               	
+							                	<td>冻干水痘减毒活疫苗</td>                	               	
+							                	<td>复溶后每瓶0.5ml</td>                	               	
+							                	<td align=center>201003024</td> 
+							                	
+							                	<td align=center>28190瓶</td> 
+							                	<td align=center nowrap>2011年10月7日</td>
+							                	<td align=center >长春祈健生物制品有限公司</td>
+							                	<td align=center nowrap>SPBN201003694</td>
+							                	<td align=center nowrap>批签中检20102479</td>
+							                	<td align=center nowrap>/</td>
+							                	<td align=center nowrap>2010年06月10日</td>
+							                	
+							                	<td align=center nowrap>予以签发</td>
+							                	
+							                	<td align=center >中国药品生物制品检定所</td>
+							              	</tr>
+				                    		   
+				                           <tr  height=50 bgcolor='#f1f7e9' onMouseOut="this.bgColor = '#f1f7f9'" onMouseOver="this.bgColor = '#CCFF66'"  >
+							                	<td align=center>4</td>                	               	
+							                	<td>风疹减毒活疫苗（人二倍体细胞）</td>                	               	
+							                	<td>0.5ml/瓶</td>                	               	
+							                	<td align=center>2010020201</td> 
+							                	
+							                	<td align=center>91076瓶</td> 
+							                	<td align=center nowrap>2011年9月9日</td>
+							                	<td align=center >上海生物制品研究所</td>
+							                	<td align=center nowrap>SPBN201003558</td>
+							                	<td align=center nowrap>批签中检20102449</td>
+							                	<td align=center nowrap>/</td>
+							                	<td align=center nowrap>2010年06月03日</td>
+							                	
+							                	<td align=center nowrap>予以签发</td>
+							                	
+							                	<td align=center >中国药品生物制品检定所</td>
+							              	</tr>
+				                    		   
+				                           <tr  height=50 bgcolor='#f1f7e9' onMouseOut="this.bgColor = '#f1f7e9'" onMouseOver="this.bgColor = '#CCFF66'"  >
+							                	<td align=center>5</td>                	               	
+							                	<td>皮内注射用卡介苗</td>                	               	
+							                	<td>0.25mg（5人用剂量）/支</td>                	               	
+							                	<td align=center>20100205（01-02）</td> 
+							                	
+							                	<td align=center>75200瓶</td> 
+							                	<td align=center nowrap>2012年2月9日</td>
+							                	<td align=center >上海生物制品研究所</td>
+							                	<td align=center nowrap>SPBC201003899</td>
+							                	<td align=center nowrap>批签中检20102464</td>
+							                	<td align=center nowrap>/</td>
+							                	<td align=center nowrap>2010年06月04日</td>
+							                	
+							                	<td align=center nowrap>予以签发</td>
+							                	
+							                	<td align=center >中国药品生物制品检定所</td>
+							              	</tr>
+				                    		   
+				                           <tr  height=50 bgcolor='#f1f7e9' onMouseOut="this.bgColor = '#f1f7f9'" onMouseOver="this.bgColor = '#CCFF66'"  >
+							                	<td align=center>6</td>                	               	
+							                	<td>皮内注射用卡介苗</td>                	               	
+							                	<td>5人份（0.25mg）支</td>                	               	
+							                	<td align=center>20100113（01-02）</td> 
+							                	
+							                	<td align=center>75200支</td> 
+							                	<td align=center nowrap>2012年1月28日</td>
+							                	<td align=center >上海生物制品研究所</td>
+							                	<td align=center nowrap>SPBC201003594</td>
+							                	<td align=center nowrap>批签中检20102466</td>
+							                	<td align=center nowrap>/</td>
+							                	<td align=center nowrap>2010年06月08日</td>
+							                	
+							                	<td align=center nowrap>予以签发</td>
+							                	
+							                	<td align=center >中国药品生物制品检定所</td>
+							              	</tr>
+				                    		   
+				                           <tr  height=50 bgcolor='#f1f7e9' onMouseOut="this.bgColor = '#f1f7e9'" onMouseOver="this.bgColor = '#CCFF66'"  >
+							                	<td align=center>7</td>                	               	
+							                	<td>皮内注射用卡介苗</td>                	               	
+							                	<td>5人份（0.25mg）支</td>                	               	
+							                	<td align=center>20100201（01-02）</td> 
+							                	
+							                	<td align=center>72750支</td> 
+							                	<td align=center nowrap>2012年1月31日</td>
+							                	<td align=center >上海生物制品研究所</td>
+							                	<td align=center nowrap>SPBC201003595</td>
+							                	<td align=center nowrap>批签中检20102467</td>
+							                	<td align=center nowrap>/</td>
+							                	<td align=center nowrap>2010年06月08日</td>
+							                	
+							                	<td align=center nowrap>予以签发</td>
+							                	
+							                	<td align=center >中国药品生物制品检定所</td>
+							              	</tr>
+				                    		   
+				                           <tr  height=50 bgcolor='#f1f7e9' onMouseOut="this.bgColor = '#f1f7f9'" onMouseOver="this.bgColor = '#CCFF66'"  >
+							                	<td align=center>8</td>                	               	
+							                	<td>人血白蛋白</td>                	               	
+							                	<td>20%，50ml/瓶</td>                	               	
+							                	<td align=center>20100310</td> 
+							                	
+							                	<td align=center>14171瓶</td> 
+							                	<td align=center nowrap>2013年2月</td>
+							                	<td align=center >贵阳黔峰生物制品有限责任公司</td>
+							                	<td align=center nowrap>SPBJ201004270</td>
+							                	<td align=center nowrap>批签中检20102482</td>
+							                	<td align=center nowrap>/</td>
+							                	<td align=center nowrap>2010年06月10日</td>
+							                	
+							                	<td align=center nowrap>予以签发</td>
+							                	
+							                	<td align=center >中国药品生物制品检定所</td>
+							              	</tr>
+				                    		   
+				                           <tr  height=50 bgcolor='#f1f7e9' onMouseOut="this.bgColor = '#f1f7e9'" onMouseOver="this.bgColor = '#CCFF66'"  >
+							                	<td align=center>9</td>                	               	
+							                	<td>人血白蛋白</td>                	               	
+							                	<td>20%，5g/瓶</td>                	               	
+							                	<td align=center>20091201</td> 
+							                	
+							                	<td align=center>19702瓶</td> 
+							                	<td align=center nowrap>2012年12月15日</td>
+							                	<td align=center >江西博雅生物制药股份有限公司</td>
+							                	<td align=center nowrap>SPBJ201004078</td>
+							                	<td align=center nowrap>批签中检20102485</td>
+							                	<td align=center nowrap>/</td>
+							                	<td align=center nowrap>2010年06月12日</td>
+							                	
+							                	<td align=center nowrap>予以签发</td>
+							                	
+							                	<td align=center >中国药品生物制品检定所</td>
+							              	</tr>
+				                    		   
+				                           <tr  height=50 bgcolor='#f1f7e9' onMouseOut="this.bgColor = '#f1f7f9'" onMouseOver="this.bgColor = '#CCFF66'"  >
+							                	<td align=center>10</td>                	               	
+							                	<td>A群C群脑膜炎球菌多糖疫苗</td>                	               	
+							                	<td>0.5ml(复溶后)/100μg/1人用剂量/瓶</td>                	               	
+							                	<td align=center>201002018(1-2)</td> 
+							                	
+							                	<td align=center>142625瓶</td> 
+							                	<td align=center nowrap>2012年2月23日</td>
+							                	<td align=center >兰州生物制品研究所</td>
+							                	<td align=center nowrap>SPBA201003604</td>
+							                	<td align=center nowrap>批签中检20102447</td>
+							                	<td align=center nowrap>/</td>
+							                	<td align=center nowrap>2010年06月03日</td>
+							                	
+							                	<td align=center nowrap>予以签发</td>
+							                	
+							                	<td align=center >中国药品生物制品检定所</td>
+							              	</tr>
+				                    		   
+				                           <tr  height=50 bgcolor='#f1f7e9' onMouseOut="this.bgColor = '#f1f7e9'" onMouseOver="this.bgColor = '#CCFF66'"  >
+							                	<td align=center>11</td>                	               	
+							                	<td>A群C群脑膜炎球菌多糖疫苗</td>                	               	
+							                	<td>0.5ml(复溶后)/100μg/1人用剂量/瓶</td>                	               	
+							                	<td align=center>201003023（1-2）</td> 
+							                	
+							                	<td align=center>143305瓶</td> 
+							                	<td align=center nowrap>2012年3月7日</td>
+							                	<td align=center >兰州生物制品研究所</td>
+							                	<td align=center nowrap>SPBA201003986</td>
+							                	<td align=center nowrap>批签中检20102472</td>
+							                	<td align=center nowrap>/</td>
+							                	<td align=center nowrap>2010年06月10日</td>
+							                	
+							                	<td align=center nowrap>予以签发</td>
+							                	
+							                	<td align=center >中国药品生物制品检定所</td>
+							              	</tr>
+				                    		   
+				                           <tr  height=50 bgcolor='#f1f7e9' onMouseOut="this.bgColor = '#f1f7f9'" onMouseOver="this.bgColor = '#CCFF66'"  >
+							                	<td align=center>12</td>                	               	
+							                	<td>A群C群脑膜炎球菌多糖疫苗</td>                	               	
+							                	<td>0.5ml(复溶后)/100μg/1人用剂量/瓶</td>                	               	
+							                	<td align=center>201002020（1-2）</td> 
+							                	
+							                	<td align=center>143310瓶</td> 
+							                	<td align=center nowrap>2012年2月28日</td>
+							                	<td align=center >兰州生物制品研究所</td>
+							                	<td align=center nowrap>SPBA201003606</td>
+							                	<td align=center nowrap>批签中检20102474</td>
+							                	<td align=center nowrap>/</td>
+							                	<td align=center nowrap>2010年06月10日</td>
+							                	
+							                	<td align=center nowrap>予以签发</td>
+							                	
+							                	<td align=center >中国药品生物制品检定所</td>
+							              	</tr>
+				                    		   
+				                           <tr  height=50 bgcolor='#f1f7e9' onMouseOut="this.bgColor = '#f1f7e9'" onMouseOver="this.bgColor = '#CCFF66'"  >
+							                	<td align=center>13</td>                	               	
+							                	<td>A群C群脑膜炎球菌多糖疫苗</td>                	               	
+							                	<td>0.5ml(复溶后)/100μg/1人用剂量/瓶</td>                	               	
+							                	<td align=center>201003021（1-2）</td> 
+							                	
+							                	<td align=center>143900瓶</td> 
+							                	<td align=center nowrap>2012年3月2日</td>
+							                	<td align=center >兰州生物制品研究所</td>
+							                	<td align=center nowrap>SPBA201003976</td>
+							                	<td align=center nowrap>批签中检20102475</td>
+							                	<td align=center nowrap>/</td>
+							                	<td align=center nowrap>2010年06月10日</td>
+							                	
+							                	<td align=center nowrap>予以签发</td>
+							                	
+							                	<td align=center >中国药品生物制品检定所</td>
+							              	</tr>
+				                    		   
+				                           <tr  height=50 bgcolor='#f1f7e9' onMouseOut="this.bgColor = '#f1f7f9'" onMouseOver="this.bgColor = '#CCFF66'"  >
+							                	<td align=center>14</td>                	               	
+							                	<td>流行性感冒裂解疫苗</td>                	               	
+							                	<td>0.5ml/支</td>                	               	
+							                	<td align=center>20100403(01-02)</td> 
+							                	
+							                	<td align=center>106419支</td> 
+							                	<td align=center nowrap>2011年4月29日</td>
+							                	<td align=center >长春长生生物科技股份有限公司</td>
+							                	<td align=center nowrap>SPBN201004471</td>
+							                	<td align=center nowrap>批签中检20102442</td>
+							                	<td align=center nowrap>/</td>
+							                	<td align=center nowrap>2010年06月03日</td>
+							                	
+							                	<td align=center nowrap>予以签发</td>
+							                	
+							                	<td align=center >中国药品生物制品检定所</td>
+							              	</tr>
+				                    		   
+				                           <tr  height=50 bgcolor='#f1f7e9' onMouseOut="this.bgColor = '#f1f7e9'" onMouseOver="this.bgColor = '#CCFF66'"  >
+							                	<td align=center>15</td>                	               	
+							                	<td>流行性感冒裂解疫苗</td>                	               	
+							                	<td>0.5ml/支</td>                	               	
+							                	<td align=center>20100401(01-03)</td> 
+							                	
+							                	<td align=center>165604支</td> 
+							                	<td align=center nowrap>2011年4月29日</td>
+							                	<td align=center >长春长生生物科技股份有限公司</td>
+							                	<td align=center nowrap>SPBN201004142</td>
+							                	<td align=center nowrap>批签中检20102443</td>
+							                	<td align=center nowrap>/</td>
+							                	<td align=center nowrap>2010年06月03日</td>
+							                	
+							                	<td align=center nowrap>予以签发</td>
+							                	
+							                	<td align=center >中国药品生物制品检定所</td>
+							              	</tr>
+				                    		   
+				                           <tr  height=50 bgcolor='#f1f7e9' onMouseOut="this.bgColor = '#f1f7f9'" onMouseOver="this.bgColor = '#CCFF66'"  >
+							                	<td align=center>16</td>                	               	
+							                	<td>流行性感冒裂解疫苗</td>                	               	
+							                	<td>0.5ml/支</td>                	               	
+							                	<td align=center>20100402(01-03)</td> 
+							                	
+							                	<td align=center>165574支</td> 
+							                	<td align=center nowrap>2011年4月29日</td>
+							                	<td align=center >长春长生生物科技股份有限公司</td>
+							                	<td align=center nowrap>SPBN201004143</td>
+							                	<td align=center nowrap>批签中检20102444</td>
+							                	<td align=center nowrap>/</td>
+							                	<td align=center nowrap>2010年06月03日</td>
+							                	
+							                	<td align=center nowrap>予以签发</td>
+							                	
+							                	<td align=center >中国药品生物制品检定所</td>
+							              	</tr>
+				                    		   
+				                           <tr  height=50 bgcolor='#f1f7e9' onMouseOut="this.bgColor = '#f1f7e9'" onMouseOver="this.bgColor = '#CCFF66'"  >
+							                	<td align=center>17</td>                	               	
+							                	<td>流行性感冒裂解疫苗</td>                	               	
+							                	<td>0.5ml/支</td>                	               	
+							                	<td align=center>20100404(01-03)</td> 
+							                	
+							                	<td align=center>90380支</td> 
+							                	<td align=center nowrap>2011年4月29日</td>
+							                	<td align=center >长春长生生物科技股份有限公司</td>
+							                	<td align=center nowrap>SPBN201004826</td>
+							                	<td align=center nowrap>批签中检20102490</td>
+							                	<td align=center nowrap>/</td>
+							                	<td align=center nowrap>2010年06月18日</td>
+							                	
+							                	<td align=center nowrap>予以签发</td>
+							                	
+							                	<td align=center >中国药品生物制品检定所</td>
+							              	</tr>
+				                    		   
+				                           <tr  height=50 bgcolor='#f1f7e9' onMouseOut="this.bgColor = '#f1f7f9'" onMouseOver="this.bgColor = '#CCFF66'"  >
+							                	<td align=center>18</td>                	               	
+							                	<td>皮内注射用卡介苗</td>                	               	
+							                	<td>5人份（0.25mg）支</td>                	               	
+							                	<td align=center>20100202（01-02）</td> 
+							                	
+							                	<td align=center>73940支</td> 
+							                	<td align=center nowrap>2012年2月2日</td>
+							                	<td align=center >上海生物制品研究所</td>
+							                	<td align=center nowrap>SPBC201003596</td>
+							                	<td align=center nowrap>批签中检20102468</td>
+							                	<td align=center nowrap>/</td>
+							                	<td align=center nowrap>2010年06月08日</td>
+							                	
+							                	<td align=center nowrap>予以签发</td>
+							                	
+							                	<td align=center >中国药品生物制品检定所</td>
+							              	</tr>
+				                    		   
+				                           <tr  height=50 bgcolor='#f1f7e9' onMouseOut="this.bgColor = '#f1f7e9'" onMouseOver="this.bgColor = '#CCFF66'"  >
+							                	<td align=center>19</td>                	               	
+							                	<td>皮内注射用卡介苗</td>                	               	
+							                	<td>5人份（0.25mg）支</td>                	               	
+							                	<td align=center>201002a001(1-3)</td> 
+							                	
+							                	<td align=center>72080支</td> 
+							                	<td align=center nowrap>2012年2月16日</td>
+							                	<td align=center >成都生物制品研究所</td>
+							                	<td align=center nowrap>SPBC201004513</td>
+							                	<td align=center nowrap>批签中检20102460</td>
+							                	<td align=center nowrap>/</td>
+							                	<td align=center nowrap>2010年06月04日</td>
+							                	
+							                	<td align=center nowrap>予以签发</td>
+							                	
+							                	<td align=center >中国药品生物制品检定所</td>
+							              	</tr>
+				                    		   
+				                           <tr  height=50 bgcolor='#f1f7e9' onMouseOut="this.bgColor = '#f1f7f9'" onMouseOver="this.bgColor = '#CCFF66'"  >
+							                	<td align=center>20</td>                	               	
+							                	<td>吸附无细胞百白破联合疫苗</td>                	               	
+							                	<td>每安瓿0.5ml</td>                	               	
+							                	<td align=center>20091243（1-2）</td> 
+							                	
+							                	<td align=center>259773支</td> 
+							                	<td align=center nowrap>2011年12月10日</td>
+							                	<td align=center >成都生物制品研究所</td>
+							                	<td align=center nowrap>SPBF201004221</td>
+							                	<td align=center nowrap>批签中检20102451</td>
+							                	<td align=center nowrap>/</td>
+							                	<td align=center nowrap>2010年06月04日</td>
+							                	
+							                	<td align=center nowrap>予以签发</td>
+							                	
+							                	<td align=center >中国药品生物制品检定所</td>
+							              	</tr>
+				                    		   
+				                           <tr  height=50 bgcolor='#f1f7e9' onMouseOut="this.bgColor = '#f1f7e9'" onMouseOver="this.bgColor = '#CCFF66'"  >
+							                	<td align=center>21</td>                	               	
+							                	<td>吸附无细胞百白破联合疫苗</td>                	               	
+							                	<td>每安瓿0.5ml</td>                	               	
+							                	<td align=center>20091252(1-5)</td> 
+							                	
+							                	<td align=center>841350支</td> 
+							                	<td align=center nowrap>2011年12月30日</td>
+							                	<td align=center >武汉生物制品研究所</td>
+							                	<td align=center nowrap>SPBF201003965</td>
+							                	<td align=center nowrap>批签中检20102452</td>
+							                	<td align=center nowrap>/</td>
+							                	<td align=center nowrap>2010年06月09日</td>
+							                	
+							                	<td align=center nowrap>予以签发</td>
+							                	
+							                	<td align=center >中国药品生物制品检定所</td>
+							              	</tr>
+				                    		   
+				                           <tr  height=50 bgcolor='#f1f7e9' onMouseOut="this.bgColor = '#f1f7f9'" onMouseOver="this.bgColor = '#CCFF66'"  >
+							                	<td align=center>22</td>                	               	
+							                	<td>吸附无细胞百白破联合疫苗</td>                	               	
+							                	<td>每安瓿0.5ml</td>                	               	
+							                	<td align=center>20091251(1-7)</td> 
+							                	
+							                	<td align=center>1331220支</td> 
+							                	<td align=center nowrap>2011年12月23日</td>
+							                	<td align=center >武汉生物制品研究所</td>
+							                	<td align=center nowrap>SPBF201003916</td>
+							                	<td align=center nowrap>批签中检20102453</td>
+							                	<td align=center nowrap>/</td>
+							                	<td align=center nowrap>2010年06月09日</td>
+							                	
+							                	<td align=center nowrap>予以签发</td>
+							                	
+							                	<td align=center >中国药品生物制品检定所</td>
+							              	</tr>
+				                    		   
+				                           <tr  height=50 bgcolor='#f1f7e9' onMouseOut="this.bgColor = '#f1f7e9'" onMouseOver="this.bgColor = '#CCFF66'"  >
+							                	<td align=center>23</td>                	               	
+							                	<td>A群C群脑膜炎球菌多糖疫苗</td>                	               	
+							                	<td>0.5ml(复溶后)/100μg/1人用剂量/瓶</td>                	               	
+							                	<td align=center>201002014（1-2）</td> 
+							                	
+							                	<td align=center>141320瓶</td> 
+							                	<td align=center nowrap>2012年2月9日</td>
+							                	<td align=center >兰州生物制品研究所</td>
+							                	<td align=center nowrap>SPBA201003602</td>
+							                	<td align=center nowrap>批签中检20102448</td>
+							                	<td align=center nowrap>/</td>
+							                	<td align=center nowrap>2010年06月03日</td>
+							                	
+							                	<td align=center nowrap>予以签发</td>
+							                	
+							                	<td align=center >中国药品生物制品检定所</td>
+							              	</tr>
+				                    		   
+				                           <tr  height=50 bgcolor='#f1f7e9' onMouseOut="this.bgColor = '#f1f7f9'" onMouseOver="this.bgColor = '#CCFF66'"  >
+							                	<td align=center>24</td>                	               	
+							                	<td>b型流感嗜血杆菌结合疫苗</td>                	               	
+							                	<td>0.5ml/瓶</td>                	               	
+							                	<td align=center>201001003（1-4）</td> 
+							                	
+							                	<td align=center>218020瓶</td> 
+							                	<td align=center nowrap>2012年1月16日</td>
+							                	<td align=center >兰州生物制品研究所</td>
+							                	<td align=center nowrap>SPBA201003628</td>
+							                	<td align=center nowrap>批签中检20102446</td>
+							                	<td align=center nowrap>/</td>
+							                	<td align=center nowrap>2010年06月03日</td>
+							                	
+							                	<td align=center nowrap>予以签发</td>
+							                	
+							                	<td align=center >中国药品生物制品检定所</td>
+							              	</tr>
+				                    		   
+				                           <tr  height=50 bgcolor='#f1f7e9' onMouseOut="this.bgColor = '#f1f7e9'" onMouseOver="this.bgColor = '#CCFF66'"  >
+							                	<td align=center>25</td>                	               	
+							                	<td>b型流感嗜血杆菌结合疫苗</td>                	               	
+							                	<td>0.5ml/瓶</td>                	               	
+							                	<td align=center>201001001（1-3）</td> 
+							                	
+							                	<td align=center>181050瓶</td> 
+							                	<td align=center nowrap>2012年1月9日</td>
+							                	<td align=center >兰州生物制品研究所</td>
+							                	<td align=center nowrap>SPBA201003623</td>
+							                	<td align=center nowrap>批签中检20102454</td>
+							                	<td align=center nowrap>/</td>
+							                	<td align=center nowrap>2010年06月04日</td>
+							                	
+							                	<td align=center nowrap>予以签发</td>
+							                	
+							                	<td align=center >中国药品生物制品检定所</td>
+							              	</tr>
+				                    		   
+				                           <tr  height=50 bgcolor='#f1f7e9' onMouseOut="this.bgColor = '#f1f7f9'" onMouseOver="this.bgColor = '#CCFF66'"  >
+							                	<td align=center>26</td>                	               	
+							                	<td>冻干A、C群脑膜炎球菌多糖结合疫苗</td>                	               	
+							                	<td>20μg/0.5ml/瓶</td>                	               	
+							                	<td align=center>201003012</td> 
+							                	
+							                	<td align=center>62326瓶</td> 
+							                	<td align=center nowrap>2012年3月9日</td>
+							                	<td align=center >玉溪沃森生物技术有限公司</td>
+							                	<td align=center nowrap>SPBA201004008</td>
+							                	<td align=center nowrap>批签中检20102473</td>
+							                	<td align=center nowrap>/</td>
+							                	<td align=center nowrap>2010年06月10日</td>
+							                	
+							                	<td align=center nowrap>予以签发</td>
+							                	
+							                	<td align=center >中国药品生物制品检定所</td>
+							              	</tr>
+				                    		   
+				                           <tr  height=50 bgcolor='#f1f7e9' onMouseOut="this.bgColor = '#f1f7e9'" onMouseOver="this.bgColor = '#CCFF66'"  >
+							                	<td align=center>27</td>                	               	
+							                	<td>冻干甲型肝炎减毒活疫苗</td>                	               	
+							                	<td>1.0 ml/瓶</td>                	               	
+							                	<td align=center>20100301(01-03)</td> 
+							                	
+							                	<td align=center>110900瓶</td> 
+							                	<td align=center nowrap>2011年11月2日</td>
+							                	<td align=center >长春长生生物科技股份有限公司</td>
+							                	<td align=center nowrap>SPBM201004828</td>
+							                	<td align=center nowrap>批签中检20102486</td>
+							                	<td align=center nowrap>/</td>
+							                	<td align=center nowrap>2010年06月17日</td>
+							                	
+							                	<td align=center nowrap>予以签发</td>
+							                	
+							                	<td align=center >中国药品生物制品检定所</td>
+							              	</tr>
+				                    		   
+				                           <tr  height=50 bgcolor='#f1f7e9' onMouseOut="this.bgColor = '#f1f7f9'" onMouseOver="this.bgColor = '#CCFF66'"  >
+							                	<td align=center>28</td>                	               	
+							                	<td>皮内注射用卡介苗</td>                	               	
+							                	<td>5人份（0.25mg）支</td>                	               	
+							                	<td align=center>201002a004(1-3)</td> 
+							                	
+							                	<td align=center>73180支</td> 
+							                	<td align=center nowrap>2012年2月23日</td>
+							                	<td align=center >成都生物制品研究所</td>
+							                	<td align=center nowrap>SPBC201004514</td>
+							                	<td align=center nowrap>批签中检20102461</td>
+							                	<td align=center nowrap>/</td>
+							                	<td align=center nowrap>2010年06月04日</td>
+							                	
+							                	<td align=center nowrap>予以签发</td>
+							                	
+							                	<td align=center >中国药品生物制品检定所</td>
+							              	</tr>
+				                    		   
+				                           <tr  height=50 bgcolor='#f1f7e9' onMouseOut="this.bgColor = '#f1f7e9'" onMouseOver="this.bgColor = '#CCFF66'"  >
+							                	<td align=center>29</td>                	               	
+							                	<td>A群C群脑膜炎球菌多糖疫苗</td>                	               	
+							                	<td>0.5ml(复溶后)/100μg/1人用剂量/瓶</td>                	               	
+							                	<td align=center>201003022（1-2）</td> 
+							                	
+							                	<td align=center>139850瓶</td> 
+							                	<td align=center nowrap>2012年3月4日</td>
+							                	<td align=center >兰州生物制品研究所</td>
+							                	<td align=center nowrap>SPBA201003982</td>
+							                	<td align=center nowrap>批签中检20102476</td>
+							                	<td align=center nowrap>/</td>
+							                	<td align=center nowrap>2010年06月10日</td>
+							                	
+							                	<td align=center nowrap>予以签发</td>
+							                	
+							                	<td align=center >中国药品生物制品检定所</td>
+							              	</tr>
+				                    		   
+				                           <tr  height=50 bgcolor='#f1f7e9' onMouseOut="this.bgColor = '#f1f7f9'" onMouseOver="this.bgColor = '#CCFF66'"  >
+							                	<td align=center>30</td>                	               	
+							                	<td>乙型脑炎减毒活疫苗</td>                	               	
+							                	<td>重溶后0.5ml/瓶（1人份/瓶）</td>                	               	
+							                	<td align=center>200912A134(1-4)</td> 
+							                	
+							                	<td align=center>109364瓶</td> 
+							                	<td align=center nowrap>2011年9月28日</td>
+							                	<td align=center >成都生物制品研究所</td>
+							                	<td align=center nowrap>SPBE201003579</td>
+							                	<td align=center nowrap>批签中检20102480</td>
+							                	<td align=center nowrap>/</td>
+							                	<td align=center nowrap>2010年06月10日</td>
+							                	
+							                	<td align=center nowrap>予以签发</td>
+							                	
+							                	<td align=center >中国药品生物制品检定所</td>
+							              	</tr>
+				                    		   
+				                           <tr  height=50 bgcolor='#f1f7e9' onMouseOut="this.bgColor = '#f1f7e9'" onMouseOver="this.bgColor = '#CCFF66'"  >
+							                	<td align=center>31</td>                	               	
+							                	<td>皮内注射用卡介苗</td>                	               	
+							                	<td>0.25mg（5人用剂量）/支</td>                	               	
+							                	<td align=center>20100208（01-02）</td> 
+							                	
+							                	<td align=center>73630支</td> 
+							                	<td align=center nowrap>2012年2月25日</td>
+							                	<td align=center >上海生物制品研究所</td>
+							                	<td align=center nowrap>SPBC201004885</td>
+							                	<td align=center nowrap>批签中检20102455</td>
+							                	<td align=center nowrap>/</td>
+							                	<td align=center nowrap>2010年06月04日</td>
+							                	
+							                	<td align=center nowrap>予以签发</td>
+							                	
+							                	<td align=center >中国药品生物制品检定所</td>
+							              	</tr>
+				                    		   
+				                           <tr  height=50 bgcolor='#f1f7e9' onMouseOut="this.bgColor = '#f1f7f9'" onMouseOver="this.bgColor = '#CCFF66'"  >
+							                	<td align=center>32</td>                	               	
+							                	<td>皮内注射用卡介苗</td>                	               	
+							                	<td>0.25mg（5人用剂量）/支</td>                	               	
+							                	<td align=center>20100301（01-02）</td> 
+							                	
+							                	<td align=center>75370支</td> 
+							                	<td align=center nowrap>2012年2月29日</td>
+							                	<td align=center >上海生物制品研究所</td>
+							                	<td align=center nowrap>SPBC201004886</td>
+							                	<td align=center nowrap>批签中检20102456</td>
+							                	<td align=center nowrap>/</td>
+							                	<td align=center nowrap>2010年06月04日</td>
+							                	
+							                	<td align=center nowrap>予以签发</td>
+							                	
+							                	<td align=center >中国药品生物制品检定所</td>
+							              	</tr>
+				                    		   
+				                           <tr  height=50 bgcolor='#f1f7e9' onMouseOut="this.bgColor = '#f1f7e9'" onMouseOver="this.bgColor = '#CCFF66'"  >
+							                	<td align=center>33</td>                	               	
+							                	<td>皮内注射用卡介苗</td>                	               	
+							                	<td>0.25mg（5人用剂量）/支</td>                	               	
+							                	<td align=center>20100302（01-02）</td> 
+							                	
+							                	<td align=center>73990支</td> 
+							                	<td align=center nowrap>2012年3月2日</td>
+							                	<td align=center >上海生物制品研究所</td>
+							                	<td align=center nowrap>SPBC201004887</td>
+							                	<td align=center nowrap>批签中检20102457</td>
+							                	<td align=center nowrap>/</td>
+							                	<td align=center nowrap>2010年06月04日</td>
+							                	
+							                	<td align=center nowrap>予以签发</td>
+							                	
+							                	<td align=center >中国药品生物制品检定所</td>
+							              	</tr>
+				                    		   
+				                           <tr  height=50 bgcolor='#f1f7e9' onMouseOut="this.bgColor = '#f1f7f9'" onMouseOver="this.bgColor = '#CCFF66'"  >
+							                	<td align=center>34</td>                	               	
+							                	<td>乙型脑炎减毒活疫苗</td>                	               	
+							                	<td>重溶后0.5ml/瓶（1人份/瓶）</td>                	               	
+							                	<td align=center>200912A138(1-4)</td> 
+							                	
+							                	<td align=center>106395瓶</td> 
+							                	<td align=center nowrap>2011年9月21日</td>
+							                	<td align=center >成都生物制品研究所</td>
+							                	<td align=center nowrap>SPBE201003582</td>
+							                	<td align=center nowrap>批签中检20102481</td>
+							                	<td align=center nowrap>/</td>
+							                	<td align=center nowrap>2010年06月10日</td>
+							                	
+							                	<td align=center nowrap>予以签发</td>
+							                	
+							                	<td align=center >中国药品生物制品检定所</td>
+							              	</tr>
+				                    		   
+				                           <tr  height=50 bgcolor='#f1f7e9' onMouseOut="this.bgColor = '#f1f7e9'" onMouseOver="this.bgColor = '#CCFF66'"  >
+							                	<td align=center>35</td>                	               	
+							                	<td>乙型脑炎减毒活疫苗</td>                	               	
+							                	<td>重溶后0.5ml/瓶（1人份/瓶）</td>                	               	
+							                	<td align=center>200912A133(1-3)</td> 
+							                	
+							                	<td align=center>102861瓶</td> 
+							                	<td align=center nowrap>2011年9月28日</td>
+							                	<td align=center >成都生物制品研究所</td>
+							                	<td align=center nowrap>SPBE201003578</td>
+							                	<td align=center nowrap>批签中检20102483</td>
+							                	<td align=center nowrap>/</td>
+							                	<td align=center nowrap>2010年06月12日</td>
+							                	
+							                	<td align=center nowrap>予以签发</td>
+							                	
+							                	<td align=center >中国药品生物制品检定所</td>
+							              	</tr>
+				                    		   
+				                           <tr  height=50 bgcolor='#f1f7e9' onMouseOut="this.bgColor = '#f1f7f9'" onMouseOver="this.bgColor = '#CCFF66'"  >
+							                	<td align=center>36</td>                	               	
+							                	<td>重组B亚单位/菌体霍乱疫苗（肠溶胶囊）</td>                	               	
+							                	<td>240mg/粒，含灭活霍乱弧菌5.0×10<sup>10</sup> ，重组霍乱毒素B亚单位1mg</td>                	               	
+							                	<td align=center>20100202</td> 
+							                	
+							                	<td align=center>72240粒</td> 
+							                	<td align=center nowrap>2012年1月</td>
+							                	<td align=center >上海联合赛尔生物工程有限公司</td>
+							                	<td align=center nowrap>SPBD201004639</td>
+							                	<td align=center nowrap>批签中检20102491</td>
+							                	<td align=center nowrap>/</td>
+							                	<td align=center nowrap>2010年06月18日</td>
+							                	
+							                	<td align=center nowrap>予以签发</td>
+							                	
+							                	<td align=center >中国药品生物制品检定所</td>
+							              	</tr>
+				                    		   
+				                           <tr  height=50 bgcolor='#f1f7e9' onMouseOut="this.bgColor = '#f1f7e9'" onMouseOver="this.bgColor = '#CCFF66'"  >
+							                	<td align=center>37</td>                	               	
+							                	<td>冻干甲型肝炎减毒活疫苗</td>                	               	
+							                	<td>1.0 ml/瓶</td>                	               	
+							                	<td align=center>20100302(01-02)</td> 
+							                	
+							                	<td align=center>72893瓶</td> 
+							                	<td align=center nowrap>2011年11月2日</td>
+							                	<td align=center >长春长生生物科技股份有限公司</td>
+							                	<td align=center nowrap>SPBM201004829</td>
+							                	<td align=center nowrap>批签中检20102487</td>
+							                	<td align=center nowrap>/</td>
+							                	<td align=center nowrap>2010年06月17日</td>
+							                	
+							                	<td align=center nowrap>予以签发</td>
+							                	
+							                	<td align=center >中国药品生物制品检定所</td>
+							              	</tr>
+				                    		   
+				                           <tr  height=50 bgcolor='#f1f7e9' onMouseOut="this.bgColor = '#f1f7f9'" onMouseOver="this.bgColor = '#CCFF66'"  >
+							                	<td align=center>38</td>                	               	
+							                	<td>冻干水痘减毒活疫苗</td>                	               	
+							                	<td>复溶后每瓶0.5ml。每1次人用剂量为0.5ml，含水痘活病毒应不低于3.3 lg PFU。含稀释剂1瓶。</td>                	               	
+							                	<td align=center>201003019（-1、-2）</td> 
+							                	
+							                	<td align=center>68435瓶</td> 
+							                	<td align=center nowrap>2011年9月28日</td>
+							                	<td align=center >长春百克生物科技有限公司</td>
+							                	<td align=center nowrap>SPBN201003635</td>
+							                	<td align=center nowrap>批签中检20102469</td>
+							                	<td align=center nowrap>/</td>
+							                	<td align=center nowrap>2010年06月10日</td>
+							                	
+							                	<td align=center nowrap>予以签发</td>
+							                	
+							                	<td align=center >中国药品生物制品检定所</td>
+							              	</tr>
+				                    		   
+				                           <tr  height=50 bgcolor='#f1f7e9' onMouseOut="this.bgColor = '#f1f7e9'" onMouseOver="this.bgColor = '#CCFF66'"  >
+							                	<td align=center>39</td>                	               	
+							                	<td>冻干水痘减毒活疫苗</td>                	               	
+							                	<td>复溶后每瓶0.5ml。每1次人用剂量为0.5ml，含水痘活病毒应不低于3.3 lg PFU。含稀释剂1瓶。</td>                	               	
+							                	<td align=center>201003020（-1、-2）</td> 
+							                	
+							                	<td align=center>71390瓶</td> 
+							                	<td align=center nowrap>2011年10月11日</td>
+							                	<td align=center >长春百克生物科技有限公司</td>
+							                	<td align=center nowrap>SPBN201003636</td>
+							                	<td align=center nowrap>批签中检20102470</td>
+							                	<td align=center nowrap>/</td>
+							                	<td align=center nowrap>2010年06月10日</td>
+							                	
+							                	<td align=center nowrap>予以签发</td>
+							                	
+							                	<td align=center >中国药品生物制品检定所</td>
+							              	</tr>
+				                    		   
+				                           <tr  height=50 bgcolor='#f1f7e9' onMouseOut="this.bgColor = '#f1f7f9'" onMouseOver="this.bgColor = '#CCFF66'"  >
+							                	<td align=center>40</td>                	               	
+							                	<td>冻干水痘减毒活疫苗</td>                	               	
+							                	<td>复溶后每瓶0.5ml。每1次人用剂量为0.5ml，含水痘活病毒应不低于3.3 lg PFU。含稀释剂1瓶。</td>                	               	
+							                	<td align=center>201003021（-1、-2）</td> 
+							                	
+							                	<td align=center>70961瓶</td> 
+							                	<td align=center nowrap>2011年10月11日</td>
+							                	<td align=center >长春百克生物科技有限公司</td>
+							                	<td align=center nowrap>SPBN201003637</td>
+							                	<td align=center nowrap>批签中检20102471</td>
+							                	<td align=center nowrap>/</td>
+							                	<td align=center nowrap>2010年06月10日</td>
+							                	
+							                	<td align=center nowrap>予以签发</td>
+							                	
+							                	<td align=center >中国药品生物制品检定所</td>
+							              	</tr>
+				                    		   
+				                           <tr  height=50 bgcolor='#f1f7e9' onMouseOut="this.bgColor = '#f1f7e9'" onMouseOver="this.bgColor = '#CCFF66'"  >
+							                	<td align=center>41</td>                	               	
+							                	<td>皮内注射用卡介苗</td>                	               	
+							                	<td>0.25mg（5人用剂量）/支</td>                	               	
+							                	<td align=center>20100206（01-02）</td> 
+							                	
+							                	<td align=center>75160瓶</td> 
+							                	<td align=center nowrap>2012年2月21日</td>
+							                	<td align=center >上海生物制品研究所</td>
+							                	<td align=center nowrap>SPBC201004534</td>
+							                	<td align=center nowrap>批签中检20102458</td>
+							                	<td align=center nowrap>/</td>
+							                	<td align=center nowrap>2010年06月04日</td>
+							                	
+							                	<td align=center nowrap>予以签发</td>
+							                	
+							                	<td align=center >中国药品生物制品检定所</td>
+							              	</tr>
+				                    		   
+				                           <tr  height=50 bgcolor='#f1f7e9' onMouseOut="this.bgColor = '#f1f7f9'" onMouseOver="this.bgColor = '#CCFF66'"  >
+							                	<td align=center>42</td>                	               	
+							                	<td>皮内注射用卡介苗</td>                	               	
+							                	<td>0.25mg（5人用剂量）/支</td>                	               	
+							                	<td align=center>20100207（01-02）</td> 
+							                	
+							                	<td align=center>72840瓶</td> 
+							                	<td align=center nowrap>2012年2月23日</td>
+							                	<td align=center >上海生物制品研究所</td>
+							                	<td align=center nowrap>SPBC201004535</td>
+							                	<td align=center nowrap>批签中检20102459</td>
+							                	<td align=center nowrap>/</td>
+							                	<td align=center nowrap>2010年06月04日</td>
+							                	
+							                	<td align=center nowrap>予以签发</td>
+							                	
+							                	<td align=center >中国药品生物制品检定所</td>
+							              	</tr>
+				                    		   
+				                           <tr  height=50 bgcolor='#f1f7e9' onMouseOut="this.bgColor = '#f1f7e9'" onMouseOver="this.bgColor = '#CCFF66'"  >
+							                	<td align=center>43</td>                	               	
+							                	<td>皮内注射用卡介苗</td>                	               	
+							                	<td>0.25mg（5人用剂量）/支</td>                	               	
+							                	<td align=center>20100203（01-02）</td> 
+							                	
+							                	<td align=center>73020瓶</td> 
+							                	<td align=center nowrap>2012年2月4日</td>
+							                	<td align=center >上海生物制品研究所</td>
+							                	<td align=center nowrap>SPBC201003897</td>
+							                	<td align=center nowrap>批签中检20102462</td>
+							                	<td align=center nowrap>/</td>
+							                	<td align=center nowrap>2010年06月04日</td>
+							                	
+							                	<td align=center nowrap>予以签发</td>
+							                	
+							                	<td align=center >中国药品生物制品检定所</td>
+							              	</tr>
+				                    		   
+				                           <tr  height=50 bgcolor='#f1f7e9' onMouseOut="this.bgColor = '#f1f7f9'" onMouseOver="this.bgColor = '#CCFF66'"  >
+							                	<td align=center>44</td>                	               	
+							                	<td>皮内注射用卡介苗</td>                	               	
+							                	<td>0.25mg（5人用剂量）/支</td>                	               	
+							                	<td align=center>20100204（01-02）</td> 
+							                	
+							                	<td align=center>74820瓶</td> 
+							                	<td align=center nowrap>2012年2月7日</td>
+							                	<td align=center >上海生物制品研究所</td>
+							                	<td align=center nowrap>SPBC201003898</td>
+							                	<td align=center nowrap>批签中检20102463</td>
+							                	<td align=center nowrap>/</td>
+							                	<td align=center nowrap>2010年06月04日</td>
+							                	
+							                	<td align=center nowrap>予以签发</td>
+							                	
+							                	<td align=center >中国药品生物制品检定所</td>
+							              	</tr>
+				                    		   
+				                           <tr  height=50 bgcolor='#f1f7e9' onMouseOut="this.bgColor = '#f1f7e9'" onMouseOver="this.bgColor = '#CCFF66'"  >
+							                	<td align=center>45</td>                	               	
+							                	<td>重组B亚单位/菌体霍乱疫苗（肠溶胶囊）</td>                	               	
+							                	<td>240mg/粒，含灭活霍乱弧菌5.0×10<sup>10</sup> ，重组霍乱毒素B亚单位1mg</td>                	               	
+							                	<td align=center>20100208</td> 
+							                	
+							                	<td align=center>70440粒</td> 
+							                	<td align=center nowrap>2012年1月</td>
+							                	<td align=center >上海联合赛尔生物工程有限公司</td>
+							                	<td align=center nowrap>SPBD201004640</td>
+							                	<td align=center nowrap>批签中检20102492</td>
+							                	<td align=center nowrap>/</td>
+							                	<td align=center nowrap>2010年06月18日</td>
+							                	
+							                	<td align=center nowrap>予以签发</td>
+							                	
+							                	<td align=center >中国药品生物制品检定所</td>
+							              	</tr>
+				                    		   
+				                           <tr  height=50 bgcolor='#f1f7e9' onMouseOut="this.bgColor = '#f1f7f9'" onMouseOver="this.bgColor = '#CCFF66'"  >
+							                	<td align=center>46</td>                	               	
+							                	<td>重组B亚单位/菌体霍乱疫苗（肠溶胶囊）</td>                	               	
+							                	<td>240mg/粒，含灭活霍乱弧菌5.0×10<sup>10</sup> ，重组霍乱毒素B亚单位1mg</td>                	               	
+							                	<td align=center>20100307</td> 
+							                	
+							                	<td align=center>59130粒</td> 
+							                	<td align=center nowrap>2012年2月</td>
+							                	<td align=center >上海联合赛尔生物工程有限公司</td>
+							                	<td align=center nowrap>SPBD201004641</td>
+							                	<td align=center nowrap>批签中检20102493</td>
+							                	<td align=center nowrap>/</td>
+							                	<td align=center nowrap>2010年06月18日</td>
+							                	
+							                	<td align=center nowrap>予以签发</td>
+							                	
+							                	<td align=center >中国药品生物制品检定所</td>
+							              	</tr>
+				                    		   
+				                           <tr  height=50 bgcolor='#f1f7e9' onMouseOut="this.bgColor = '#f1f7e9'" onMouseOver="this.bgColor = '#CCFF66'"  >
+							                	<td align=center>47</td>                	               	
+							                	<td>重组B亚单位/菌体霍乱疫苗（肠溶胶囊）</td>                	               	
+							                	<td>240mg/粒，含灭活霍乱弧菌5.0×10<sup>10</sup> ，重组霍乱毒素B亚单位1mg</td>                	               	
+							                	<td align=center>20100103</td> 
+							                	
+							                	<td align=center>74660粒</td> 
+							                	<td align=center nowrap>2011年12月</td>
+							                	<td align=center >上海联合赛尔生物工程有限公司</td>
+							                	<td align=center nowrap>SPBD201004637</td>
+							                	<td align=center nowrap>批签中检20102494</td>
+							                	<td align=center nowrap>/</td>
+							                	<td align=center nowrap>2010年06月18日</td>
+							                	
+							                	<td align=center nowrap>予以签发</td>
+							                	
+							                	<td align=center >中国药品生物制品检定所</td>
+							              	</tr>
+				                    		   
+				                           <tr  height=50 bgcolor='#f1f7e9' onMouseOut="this.bgColor = '#f1f7f9'" onMouseOver="this.bgColor = '#CCFF66'"  >
+							                	<td align=center>48</td>                	               	
+							                	<td>重组B亚单位/菌体霍乱疫苗（肠溶胶囊）</td>                	               	
+							                	<td>240mg/粒，含灭活霍乱弧菌5.0×10<sup>10</sup> ，重组霍乱毒素B亚单位1mg</td>                	               	
+							                	<td align=center>20100210</td> 
+							                	
+							                	<td align=center>73060粒</td> 
+							                	<td align=center nowrap>2012年1月</td>
+							                	<td align=center >上海联合赛尔生物工程有限公司</td>
+							                	<td align=center nowrap>SPBD201004638</td>
+							                	<td align=center nowrap>批签中检20102495</td>
+							                	<td align=center nowrap>/</td>
+							                	<td align=center nowrap>2010年06月18日</td>
+							                	
+							                	<td align=center nowrap>予以签发</td>
+							                	
+							                	<td align=center >中国药品生物制品检定所</td>
+							              	</tr>
+				                    		   
+				                           <tr  height=50 bgcolor='#f1f7e9' onMouseOut="this.bgColor = '#f1f7e9'" onMouseOver="this.bgColor = '#CCFF66'"  >
+							                	<td align=center>49</td>                	               	
+							                	<td>静注人免疫球蛋白（pH4）</td>                	               	
+							                	<td>5g（5%，100ml）/瓶</td>                	               	
+							                	<td align=center>200906012</td> 
+							                	
+							                	<td align=center>4322瓶</td> 
+							                	<td align=center nowrap>2012年5月</td>
+							                	<td align=center >华兰生物工程股份有限公司</td>
+							                	<td align=center nowrap>SPBJ201004060</td>
+							                	<td align=center nowrap>批签中检20102445</td>
+							                	<td align=center nowrap>/</td>
+							                	<td align=center nowrap>2010年06月12日</td>
+							                	
+							                	<td align=center nowrap>予以签发</td>
+							                	
+							                	<td align=center >中国药品生物制品检定所</td>
+							              	</tr>
+				                    	
+				            </table>
+				        </td>
+				    </tr>
+			</TABLE>
+	</DIV>
+</DIV>
+</CENTER>
+</HTML>
